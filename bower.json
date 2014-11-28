@@ -1,0 +1,15 @@
+{
+  "name": "planets-card",
+  "version": "0.1.0",
+  "authors": [
+    "yodairish <yodairish@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "__test__"
+  ]
+}
