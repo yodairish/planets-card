@@ -8,11 +8,12 @@ var jsdom = require('jsdom'),
 
 /**
  * Adding moons data for planet
- * @param {string} planet
- * @url {string} url
+ * @param {Object} options
+ * @param {Function} cb
  */
-module.exports = function(planet, url) {
-  var moonsData = [];
+module.exports = function(options, cb) {
+  var moonsData = [],
+      moonsCount = 0;
   
   getHtml();
   
@@ -21,7 +22,7 @@ module.exports = function(planet, url) {
    */
   function getHtml() {
     jsdom.env(
-      url,
+      options.url,
       parseHtml
     );
   }
@@ -32,7 +33,7 @@ module.exports = function(planet, url) {
    * @param {Object=} window
    */
   function parseHtml(errors, window) {
-    if (planet === 'Earth') {
+    if (options.planet === 'Earth') {
       earthMoon();
     } else {
       var moonsList = window.document.querySelector('.l2featuretext'),
@@ -41,14 +42,16 @@ module.exports = function(planet, url) {
       if (moonsList) {
         moons = moonsList.querySelectorAll('a');
         
+        moonsCount = moons.length;
+        
         _(moons).forEach(addMoon);
       }
     
       if (moonsData.length) {
-        write({
+        write.add({
           type: 'moons',
           data: moonsData,
-          planet: planet
+          planet: options.planet
         });
       }
     }
@@ -58,17 +61,19 @@ module.exports = function(planet, url) {
    * Add Earth moon
    */
   function earthMoon() {
-    facts(
-      planet,
-      constant.PLANETS_URL + '?Object=' +
-        constant.EARTH_MOON + constant.FACTS,
-      'Moon'
-    );
+    moonsCount = 1;
     
-    write({
+    facts({
+      planet: options.planet,
+      url: constant.PLANETS_URL + '?Object=' +
+             constant.EARTH_MOON + constant.FACTS,
+      moon: 'Moon'
+    }, onMoonAdded);
+
+    write.add({
       type: 'moons',
       data: [constant.EARTH_MOON],
-      planet: planet
+      planet: options.planet
     });
   }
   
@@ -82,12 +87,23 @@ module.exports = function(planet, url) {
         moonName = moon.textContent
                        .replace(cleanPosPattern, '');
 
-    facts(
-      planet,
-      moon.href + '&Display=Facts',
-      moonName
-    );
+    facts({
+      planet: options.planet,
+      url: moon.href + '&Display=Facts',
+      moon: moonName
+    }, onMoonAdded);
     
     moonsData.push(moonName);
+  }
+  
+  /**
+   * Callback for adding new moon
+   */
+  function onMoonAdded() {
+    moonsCount--;
+    
+    if (!moonsCount) {
+      cb();
+    }
   }
 };

@@ -9,7 +9,6 @@ var planets = require('./planets'),
 
 if (PLANETS.indexOf(argPlanet) !== -1) {
   planets(argPlanet);
+} else {
+  PLANETS.forEach(planets);
 }
-// else {
-//   PLANETS.forEach(planets);
-// }

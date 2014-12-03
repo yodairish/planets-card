@@ -7,10 +7,10 @@ var jsdom = require('jsdom'),
 
 /**
  * Add missions data to planet
- * @param {string} planet
- * @param {string} url
+ * @param {Object} options
+ * @param {Function} cb
  */
-module.exports = function(planet, url) {
+module.exports = function(options, cb) {
   var missionsCount = 0,
       missionsData = [];
   
@@ -28,7 +28,7 @@ module.exports = function(planet, url) {
    */
   function getPast() {
     jsdom.env(
-      url + constant.MISSION_PAST,
+      options.url + constant.MISSION_PAST,
       parseHtml
     );
   }
@@ -82,12 +82,14 @@ module.exports = function(planet, url) {
       goals: goals
     });
     
-    if (missionsCount) {
-      write({
+    if (!missionsCount) {
+      write.add({
         type: 'missions',
         data: missionsData,
-        planet: planet
+        planet: options.planet
       });
+      
+      cb();
     }
   }
   

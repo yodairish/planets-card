@@ -1,33 +1,50 @@
 'use strict';
 
-var fs = require('fs-extra');
-
+var fs = require('fs-extra'),
+    files = {};
+    
 /**
- * Write data to file
+ * Adding new data to file stack
  * @param {Object} options
- * @return {string}
  */
-module.exports = function writeToFile(options) {
+module.exports.add = function add(options) {
   var path = __dirname + '/../../planets/tmp/' +
              options.planet + '/' +
              (options.moon ? 'moons/' + options.moon : options.planet) +
              '.json';
+             
+  if (!files[path]) {
+    files[path] = {};
+  }
   
-  fs.readJson(path, function(err, obj) {
-    if (!obj) {
-      obj = {};
-    }
-    
-    obj[options.type] = options.data;
-    
-    fs.outputJson(path, obj, function(err) {
-      if (err) {
-        console.log(err);
-      } else {
-        console.log('The file was saved!');
+  files[path][options.type] = options.data;
+};
+
+/**
+ * Write files from stack
+ */
+module.exports.done = function done() {
+  var paths = Object.keys(files);
+  
+  paths.forEach(function(path) {
+    fs.readJson(path, function(err, json) {
+      var types = Object.keys(files[path]);
+
+      if (!json) {
+        json = {};
       }
+      
+      types.forEach(function(type) {
+        json[type] = files[path][type];
+      });
+      
+      fs.outputJson(path, json, function(err) {
+        if (err) {
+          console.log(err);
+        } else {
+          console.log('The file was saved!');
+        }
+      });
     });
   });
-  
-  return path;
 };

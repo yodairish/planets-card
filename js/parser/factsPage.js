@@ -6,11 +6,10 @@ var jsdom = require('jsdom'),
 
 /**
  * Get facts data for planet or moon
- * @param {string} planet
- * @param {string} url
- * @param {string} moon
+ * @param {Object} options
+ * @param {Function} cb
  */
-module.exports = function(planet, url, moon) {
+module.exports = function(options, cb) {
   getHtml();
   
   /**
@@ -18,7 +17,7 @@ module.exports = function(planet, url, moon) {
    */
   function getHtml() {
     jsdom.env(
-      url,
+      options.url,
       parseHtml
     );
   }
@@ -36,13 +35,15 @@ module.exports = function(planet, url, moon) {
     var tableLines = window.document.querySelectorAll(
       '.bodyContentTab .l2text > table > tbody > tr'
     );
-    
-    write({
+
+    write.add({
       type: 'facts',
       data: getProperties(tableLines),
-      planet: planet,
-      moon: moon
+      planet: options.planet,
+      moon: options.moon
     });
+    
+    cb();
   }
   
   /**
