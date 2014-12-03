@@ -77,8 +77,10 @@ module.exports = function(planet, url) {
    * @param {HTMLElement} moon
    */
   function addMoon(moon) {
-    var moonName = moon.textContent
-                       .replace(/^[0-9\s]*\.?\s*/g, '');
+    // cleanPosPattern - use constructor cause bug with esprima at jscs
+    var cleanPosPattern = new RegExp('^[0-9\\s]*\\.?\\s*', 'g'),
+        moonName = moon.textContent
+                       .replace(cleanPosPattern, '');
 
     facts(
       planet,
