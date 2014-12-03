@@ -1,0 +1,124 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "W. Lassell"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1851"
+      }
+    ],
+    "Orbit Size Around Uranus (semi-major axis)": [
+      {
+        "text": "266,000 km",
+        "type": "Metric"
+      },
+      {
+        "text": "165,285 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "264,963 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "267,037 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.011345654 Earth years "
+      },
+      {
+        "text": "4.144 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "1,671,320.94 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "16,804.6 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0039"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.128 degree"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "584.7 km",
+        "type": "Metric"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "3,673.8 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "837,313,109 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "1,221,414,772,974,210,000,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "1.2214 x 1021 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "1.459 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "4,296,116.52 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.238 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "1,901 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Rotation Period (Length of Day)": [
+      {
+        "type": "comparison",
+        "text": "Synchronous with Uranus"
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "P. Laques, J. Lecacheus"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1 March 1980"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "377,420 km",
+        "type": "Metric"
+      },
+      {
+        "text": "234,518 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "374,740 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "380,100 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.007493498 Earth years "
+      },
+      {
+        "text": "2.737 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "2,371,369.91 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "36,100.5 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0071"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.213 degree"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "17.6 km",
+        "type": "Metric"
+      },
+      {
+        "type": "comparison",
+        "text": "18 x 16 x 15 km, tri-axial"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "110.6 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "22,836 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "11,389,880,091,538,700 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "1.1390 x 1016 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "0.5 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "3,892.56 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.002 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "33 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

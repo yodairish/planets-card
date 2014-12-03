@@ -1,0 +1,130 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Scott S. Sheppard, David C. Jewitt, Jan T. Kleyna, Yanga R. Fernandez, and Henry H. Hsieh"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "8 February 2003"
+      }
+    ],
+    "Orbit Size Around Jupiter (semi-major axis)": [
+      {
+        "text": "23,566,000 km",
+        "type": "Metric"
+      },
+      {
+        "text": "14,643,234 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "15,461,653 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "31,670,347 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "2.025598905 Earth years "
+      },
+      {
+        "text": "739.85 Earth days "
+      },
+      {
+        "type": "comparison",
+        "text": "Retrograde orbit"
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "143,589,402.13 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "8,086.6 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.3439"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "153.977"
+      },
+      {
+        "type": "comparison",
+        "text": "Retrograde orbit"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "1.5 (assuming an albedo of 0.04) km",
+        "type": "Metric"
+      },
+      {
+        "text": "0.9 miles",
+        "type": "English"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "9.4 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "14 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "44,960,052,992,916 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "4.4960 x 1013 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "2.6 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "28.27 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.001 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "7 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

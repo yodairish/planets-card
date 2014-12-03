@@ -1,0 +1,122 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "First time: Charles Thomas Kowal and Elizabeth Roemer Second time: Scott Sander Sheppard, David C. Jewitt, Yanga Roland Fernández and Eugene A. Magnier"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "First time: 30 September 1975Second time: 6 August 2000"
+      }
+    ],
+    "Orbit Size Around Jupiter (semi-major axis)": [
+      {
+        "text": "7,507,000 km",
+        "type": "Metric"
+      },
+      {
+        "text": "4,664,634 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "5,687,303 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "9,326,697 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.355975359 Earth years "
+      },
+      {
+        "text": "130.02 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "46,467,175.95 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "14,891.0 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.2424"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "43.068"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "4.0 (assuming an albedo of 0.04) km",
+        "type": "Metric"
+      },
+      {
+        "text": "2.5 miles",
+        "type": "English"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "25.1 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "268 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "689,387,479,224,709 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "6.8939 x 1014 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "2.6 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "201.06 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.003 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "17 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

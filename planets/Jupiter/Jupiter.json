@@ -1,0 +1,600 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Known by the Ancients"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "Unknown"
+      }
+    ],
+    "Orbit Size Around Sun (semi-major axis)": [
+      {
+        "text": "778,340,821 km",
+        "type": "Metric"
+      },
+      {
+        "text": "483,638,564 miles",
+        "type": "English"
+      },
+      {
+        "text": "7.7834082 x 108 km (5.2028870 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "5.203 x Earth"
+      }
+    ],
+    "Perihelion (closest)": [
+      {
+        "text": "740,679,835 km",
+        "type": "Metric"
+      },
+      {
+        "text": "460,237,112 miles",
+        "type": "English"
+      },
+      {
+        "text": "7.40680 x 108 km (4.951 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "5.035 x Earth"
+      }
+    ],
+    "Aphelion (farthest)": [
+      {
+        "text": "816,001,807 km",
+        "type": "Metric"
+      },
+      {
+        "text": "507,040,015 miles",
+        "type": "English"
+      },
+      {
+        "text": "8.16002 x 108 km (5.455 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "5.365 x Earth"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "11.862615 Earth years "
+      },
+      {
+        "text": "4,332.82 Earth days "
+      },
+      {
+        "type": "comparison",
+        "text": "11.863 x Earth"
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "4,887,595,931 km",
+        "type": "Metric"
+      },
+      {
+        "text": "3,037,011,311 miles",
+        "type": "English"
+      },
+      {
+        "text": "4.888 x 109 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "5.200 x Earth"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "47,002 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "29,205 mph",
+        "type": "English"
+      },
+      {
+        "text": "1.3056 x 104 m/s",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.438 x Earth"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.04838624"
+      },
+      {
+        "type": "comparison",
+        "text": "2.895 x Earth"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "1.304 degrees"
+      }
+    ],
+    "Equatorial Inclination to Orbit": [
+      {
+        "text": "3.1 degrees"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "69,911 km",
+        "type": "Metric"
+      },
+      {
+        "text": "43,440.7 miles",
+        "type": "English"
+      },
+      {
+        "text": "6.9911 x 104 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "10.9733 x Earth"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "439,263.8 km",
+        "type": "Metric"
+      },
+      {
+        "text": "272,945.9 miles",
+        "type": "English"
+      },
+      {
+        "text": "4.39264 x 105 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "10.9733 x Earth"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "1,431,281,810,739,360 km3",
+        "type": "Metric"
+      },
+      {
+        "text": "343,382,767,518,322 mi3",
+        "type": "English"
+      },
+      {
+        "text": "1.43128 x 1015 km3",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "1321.337 x Earth"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "1,898,130,000,000,000,000,000,000,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "1.8981 x 1027 kg",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "317.828 x Earth"
+      }
+    ],
+    "Density": [
+      {
+        "text": "1.326 g/cm3",
+        "type": "Metric"
+      },
+      {
+        "type": "comparison",
+        "text": "0.241 x Earth"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "61,418,738,571 km2",
+        "type": "Metric"
+      },
+      {
+        "text": "23,713,907,537 square miles",
+        "type": "English"
+      },
+      {
+        "text": "6.1419 x 1010 km2",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "120.414 x Earth"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "24.79 m/s2",
+        "type": "Metric"
+      },
+      {
+        "text": "81.3 ft/s2",
+        "type": "English"
+      },
+      {
+        "type": "comparison",
+        "text": "If you weigh 100 pounds on Earth, you would weigh 253 pounds on Jupiter."
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "216,720 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "134,664 mph",
+        "type": "English"
+      },
+      {
+        "text": "6.020 x 104 m/s",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "5.380 x Earth"
+      }
+    ],
+    "Sidereal Rotation Period (Length of Day)": [
+      {
+        "text": "0.41354 Earth days "
+      },
+      {
+        "text": "9.92496 hours "
+      },
+      {
+        "type": "comparison",
+        "text": "0.41467 x Earth"
+      }
+    ],
+    "Effective Temperature": [
+      {
+        "text": "-148 °C",
+        "type": "Metric"
+      },
+      {
+        "text": "-234 °F",
+        "type": "English"
+      },
+      {
+        "text": "125 K",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Atmospheric Constituents": [
+      {
+        "text": "Hydrogen, Helium"
+      },
+      {
+        "text": "H2, He",
+        "type": "Scientific Notation"
+      }
+    ]
+  },
+  "moons": [
+    "Io",
+    "Europa",
+    "Ganymede",
+    "Callisto",
+    "Amalthea",
+    "Himalia",
+    "Elara",
+    "Pasiphae",
+    "Sinope",
+    "Lysithea",
+    "Carme",
+    "Ananke",
+    "Leda",
+    "Thebe",
+    "Adrastea",
+    "Metis",
+    "Callirrhoe",
+    "Themisto",
+    "Megaclite",
+    "Taygete",
+    "Chaldene",
+    "Harpalyke",
+    "Kalyke",
+    "Iocaste",
+    "Erinome",
+    "Isonoe",
+    "Praxidike",
+    "Autonoe",
+    "Thyone",
+    "Hermippe",
+    "Aitne",
+    "Eurydome",
+    "Euanthe",
+    "Euporie",
+    "Orthosie",
+    "Sponde",
+    "Kale",
+    "Pasithee",
+    "Hegemone",
+    "Mneme",
+    "Aoede",
+    "Thelxinoe",
+    "Arche",
+    "Kallichore",
+    "Helike",
+    "Carpo",
+    "Eukelade",
+    "Cyllene",
+    "Kore",
+    "Herse"
+  ],
+  "missions": [
+    {
+      "name": "Pioneer 10",
+      "dates": [
+        {
+          "date": "2 Mar 1972:",
+          "text": "Launch"
+        },
+        {
+          "date": "13 Jun 1983:",
+          "text": "Passed Orbit of Most Distant Planet"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Pioneer 10 was the first spacecraft intended to fly by Jupiter, surviving the intense radiation that surrounds the giant planet and then on a trajectory that would take it out of the Solar System.",
+        "Accomplishments": ": The spacecraft became the first to fly beyond Mars' orbit, through the asteroid belt, and close to Jupiter, blazing a trail for the two Voyager spacecraft that were to follow and conduct more in-depth surveys. Long before and after flying by Jupiter, Pioneer 10 transmitted data on the magnetic fields, energetic particle radiation and dust populations in interplanetary space. As it passed through the Jupiter system, it transmitted hundreds of photos of the planet and its moons, along with measurements of the Jovian atmosphere.\nTracking Pioneer 10 and 11 as they sped away from the sun revealed what came to be called the \"Pioneer Anomaly\" - the spacecraft traveled about 5,000 km less than expected each year. In 2012, scientists announced the slight, but detectable effect of heat pushing back on the twin spacecraft explains unexpected slowing."
+      }
+    },
+    {
+      "name": "Pioneer 11",
+      "dates": [
+        {
+          "date": "5 Apr 1973:",
+          "text": "Launch (02:11 UT)"
+        },
+        {
+          "date": "3 Dec 1974:",
+          "text": "Jupiter Flyby"
+        },
+        {
+          "date": "1 Sep 1979:",
+          "text": "Saturn Flyby"
+        },
+        {
+          "date": "24 Nov 1995:",
+          "text": "Final Contact"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": On its way to Saturn, Pioneer 11 was to become the second spacecraft to fly by Jupiter.",
+        "Accomplishments": ": Pioneer 11 flew three times closer to Jupiter than Pioneer 10, but was exposed to less radiation because of its high speed. The spacecraft provided the first look at Jupiter's polar regions. The spacecraft also found Jupiter's vast magnetosphere changes as it is buffeted by the solar wind.\nThe dormant spacecraft is now headed out of our solar system in the general direction of Sagittarius, toward the center of the galaxy. Both Pioneers 10 and 11 carry a plaque with a message for any intelligent beings that might find them."
+      }
+    },
+    {
+      "name": "Galileo",
+      "dates": [
+        {
+          "date": "18 Oct 1989:",
+          "text": "Launch (16:53:40 UT)"
+        },
+        {
+          "date": "7 Dec 1995:",
+          "text": "Probe Descent (22:04 UT - 23:02 UT)"
+        },
+        {
+          "date": "21 Sep 2003:",
+          "text": "Jupiter Impact (18:57:18 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Galileo was designed to make the first study of Jupiter and its moons and magnetosphere from orbit. The orbiter carried 10 science instruments and a atmospheric probe.",
+        "Accomplishments": ": Like the famed astronomer for which it was named, the Galileo spacecraft logged quite a few firsts during its 14-year mission to Jupiter. Among its discoveries: an intense radiation belt above Jupiter's cloud tops, helium in about the same concentration as the Sun, extensive and rapid resurfacing of the moon Io because of volcanism, and evidence for liquid water oceans under the moon Europa's icy surface.\nThe orbiter carried a small probe that became the first to sample the atmosphere of a gas planet. The probe measured temperature, pressure, chemical composition, cloud characteristics, sunlight and energy internal to the planet, and lightning. During its 58-minute life, the probe penetrated 200 km (124 miles) into Jupiter's violent atmosphere before it was crushed, melted, and/or vaporized by the pressure and temperature of the atmosphere."
+      }
+    },
+    {
+      "name": "Voyager 2",
+      "dates": [
+        {
+          "date": "20 Aug 1977:",
+          "text": "Launch"
+        },
+        {
+          "date": "9 Jul 1979:",
+          "text": "Jupiter Flyby (Closest Approach)"
+        },
+        {
+          "date": "26 Aug 1981:",
+          "text": "Saturn Flyby (Closest Approach)"
+        },
+        {
+          "date": "24 Jan 1986:",
+          "text": "Uranus Flyby (Closest Approach)"
+        },
+        {
+          "date": "25 Aug 1989:",
+          "text": "Neptune Flyby (Closest Approach)"
+        },
+        {
+          "date": "Status:",
+          "text": "Extended Mission in Progress"
+        }
+      ],
+      "goals": {
+        "Goals": ": Voyager 1 and 2 were designed to take advantage of a rare planetary alignment to explore the outer solar system. Voyager 2 targeted Jupiter, Saturn, Uranus and Neptune. Like it's sister spacecraft, Voyager 2 also was designed to study the edge of our solar system beyond the planets.",
+        "Accomplishments": ": During the Jupiter leg of its journey, Voyager 2 was to explore the giant planet, its magnetosphere and moons in greater detail than had the Pioneer spacecraft that preceded it. Voyager 2 was not only to study Jupiter, but to use it as a springboard to Saturn, using the gravity-assist technique.\nVoyager 2 succeeded on all counts. It returned spectacular photos of the entire Jovian system, and time-lapse movies made from its images of Jupiter showed how the planet had changed since Voyager 1's visit. Its images of Io revealed changes in the moon's surface and the persistence of its volcanic eruptions. The spacecraft resolved the streaks Voyager 1 had shown on Europa into a collection of cracks in a thick and remarkably smooth icy crust. It also discovered a 14th moon and revealed a third component to the planet's rings."
+      }
+    },
+    {
+      "name": "Voyager 1",
+      "dates": [
+        {
+          "date": "5 Sep 1977:",
+          "text": "Launch (12:56:01 UT)"
+        },
+        {
+          "date": "Apr 1978:",
+          "text": "Jovian Imaging Mission Begins (265 million km from the planet)"
+        },
+        {
+          "date": "5 Mar 1979:",
+          "text": "Jupiter Flyby"
+        },
+        {
+          "date": "12 Nov 1980:",
+          "text": "Saturn Flyby"
+        },
+        {
+          "date": "17 Feb 1998:",
+          "text": "Became Most Distant Human-made Object"
+        },
+        {
+          "date": "16 Aug 2006:",
+          "text": "100 Astronomical Units Reached"
+        },
+        {
+          "date": "Aug 2012:",
+          "text": "Voyager 1 Enters Interstellar Space"
+        },
+        {
+          "date": "Status:",
+          "text": "Extended Mission in Progress"
+        }
+      ],
+      "goals": {
+        "Goals": ": Voyager 1 and 2 were designed to take advantage of a rare planetary alignment to explore the outer solar system. Voyager 1 targeted Jupiter and Saturn before continuing on to chart the far edges of our solar system.\nDuring the Jupiter leg of its journey, Voyager 1 was to explore the giant planet, its magnetosphere and moons in greater detail than the Pioneer spacecraft that preceded it. Voyager 1 was not only to study Jupiter, but to use it as a springboard to Saturn, using the gravity-assist technique.",
+        "Accomplishments": ": Voyager 1 succeeded on all counts, with the single exception of experiments using its photopolarimeter, which failed to operate. Jupiter's atmosphere was found to be more active than during the visits of Pioneer 10 and 11, sparking a rethinking of the earlier atmospheric models which could not explain the new features. The spacecraft imaged the moons Amalthea, Io, Europa, Ganymede, and Callisto, showing details of their terrain for the first time.\nPossibly the most stunning of Voyager 1's discoveries was that Io has extremely active volcanoes, powered by heat generated by the stretching and relaxing the moon endures every 42 hours as its elliptical orbit brings it closer to and then farther from Jupiter. This finding revolutionized scientists' concept of the moons of the outer planets. The spacecraft also discovered a thin ring around the planet (then making it the second planet known to have a ring), and two new moons: Thebe and Metis.\nVoyager 1 entered interstellar space in August 2012."
+      }
+    },
+    {
+      "name": "New Horizons",
+      "dates": [
+        {
+          "date": "19 Jan 2006:",
+          "text": "Launch"
+        },
+        {
+          "date": "28 Feb 2007:",
+          "text": "Jupiter Flyby"
+        },
+        {
+          "date": "Jul 2015:",
+          "text": "Pluto Closest Approach"
+        },
+        {
+          "date": "Status:",
+          "text": "In Flight"
+        }
+      ],
+      "goals": {
+        "Goals": ": New Horizons used Jupiter for a gravity assist to speed its journey to the outer solar system. The flyby also provided scientists a chance to check out the spacecraft's instruments.",
+        "Accomplishments": ": The powerful slingshot-like gravity assist trimmed three years off the spacecraft's journey to Pluto and beyond. During the Jupiter flyby, New Horizons observed lightning near the gas giant's poles, the creation of fresh ammonia clouds, and boulder-size clumps speeding through Jupiter's faint rings. The spacecraft also collected data on volcanic eruptions on Jupiter's moon Io, and the path of charged particles moving back and forth across the -- previously unexplored -- length of Jupiter's long magnetic tail. New Horizons also collected information that supports the theory that Jupiter's moon Europa has an ocean of liquid water underneath its icy crust."
+      }
+    },
+    {
+      "name": "Ulysses",
+      "dates": [
+        {
+          "date": "6 Oct 1990:",
+          "text": "Launch (11:47:16 UT)"
+        },
+        {
+          "date": "8 Feb 1992:",
+          "text": "Jupiter Gravity Assist"
+        },
+        {
+          "date": "26 Jun 1994 - 5 Nov 1994:",
+          "text": "1st South Polar Pass"
+        },
+        {
+          "date": "13 Mar 1995:",
+          "text": "1st Ecliptic Crossing"
+        },
+        {
+          "date": "19 Jun 1995 - 29 Sep 1995:",
+          "text": "1st North Polar Pass"
+        },
+        {
+          "date": "1 May 1996:",
+          "text": "Comet Hyakutake Encounter"
+        },
+        {
+          "date": "30 Jun 2009:",
+          "text": "End of Mission"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Ulysses primary science target was our Sun, but since existing rocket engines weren't powerful enough to boost a spacecraft above the Ecliptic Plane (where most planets and spacecraft orbit the Sun), Ulysses used Jupiter's gravity to hurl it into a solar-polar orbit.",
+        "Accomplishments": ": During the Jupiter flybys, scientists use Ulysses' instruments to study the giant planet and its influence on the solar system, which is second only to the Sun."
+      }
+    },
+    {
+      "name": "Cassini",
+      "dates": [
+        {
+          "date": "15 Oct 1997:",
+          "text": "Launch"
+        },
+        {
+          "date": "30 Dec 2000:",
+          "text": "Jupiter Flyby"
+        },
+        {
+          "date": "1 Jul 2004:",
+          "text": "Saturn Orbit Insertion"
+        },
+        {
+          "date": "24 Dec 2004:",
+          "text": "Huygens Probe Release"
+        },
+        {
+          "date": "14 Jan 2005:",
+          "text": "Huygens Probe Landing"
+        },
+        {
+          "date": "Status:",
+          "text": "Extended Mission in Progress"
+        }
+      ],
+      "goals": {
+        "Goals": ": Cassini's flyby of Jupiter provided the final push to get the spacecraft to Saturn. It also presented an unprecedented chance to simultaneously study a gas giant planet from two different spacecraft. Mission controllers also used the flyby for a final test of the spacecraft's systems before the primary mission began.",
+        "Accomplishments": ": Scientists used joint observations from Cassini and the Galileo spacecraft to reveal Jupiter's magnetosphere, a vast, invisible whirling bubble of charged particles surrounding the planet. The data revealed how Jupiter interacts with particles from our Sun. The results helped scientists understand Earth's own magnetosphere, which shields us from harmful solar radiation. Cassini also revealed Jupiter's radiation belts to be much harsher than expected -- information that will help engineers protect future robotic spacecraft -- and spotted new details in Jupiter's auroras."
+      }
+    }
+  ]
+}

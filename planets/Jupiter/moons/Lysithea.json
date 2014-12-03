@@ -1,0 +1,138 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Seth Barnes Nicholson"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "6 July 1938"
+      }
+    ],
+    "Orbit Size Around Jupiter (semi-major axis)": [
+      {
+        "text": "11,717,000 km",
+        "type": "Metric"
+      },
+      {
+        "text": "7,280,606 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.1717x107 km (7.832x10-2 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.07832"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "10,400,009 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "13,033,991 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.709650924 Earth years "
+      },
+      {
+        "text": "259.2 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "73,387,003.90 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "11,797.0 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.1124"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "28.302"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "18.0 (assuming an albedo of 0.04) km",
+        "type": "Metric"
+      },
+      {
+        "text": "11 miles",
+        "type": "English"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "113.1 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "24,429 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "62,944,074,190,082,100 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "6.2944x1016 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "2.6 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "4,071.50 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.013 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "78 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "48 mph",
+        "type": "English"
+      },
+      {
+        "text": "22 m/s",
+        "type": "Scientific Notation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "Discovered By": {
+    "planet": 8,
+    "moon": 146,
+    "full": 154
+  },
+  "Date of Discovery": {
+    "planet": 8,
+    "moon": 145,
+    "full": 153
+  },
+  "Orbit Size Around Sun (semi-major axis)": {
+    "planet": 8,
+    "moon": 0,
+    "full": 8
+  },
+  "Perihelion (closest)": {
+    "planet": 8,
+    "moon": 0,
+    "full": 8
+  },
+  "Aphelion (farthest)": {
+    "planet": 8,
+    "moon": 0,
+    "full": 8
+  },
+  "Sidereal Orbit Period (Length of Year)": {
+    "planet": 8,
+    "moon": 133,
+    "full": 141
+  },
+  "Orbit Circumference": {
+    "planet": 8,
+    "moon": 144,
+    "full": 152
+  },
+  "Average Orbit Velocity": {
+    "planet": 8,
+    "moon": 145,
+    "full": 153
+  },
+  "Orbit Eccentricity": {
+    "planet": 8,
+    "moon": 145,
+    "full": 153
+  },
+  "Orbit Inclination": {
+    "planet": 8,
+    "moon": 142,
+    "full": 150
+  },
+  "Equatorial Inclination to Orbit": {
+    "planet": 8,
+    "moon": 4,
+    "full": 12
+  },
+  "Mean Radius": {
+    "planet": 8,
+    "moon": 146,
+    "full": 154
+  },
+  "Equatorial Circumference": {
+    "planet": 8,
+    "moon": 142,
+    "full": 150
+  },
+  "Volume": {
+    "planet": 8,
+    "moon": 142,
+    "full": 150
+  },
+  "Mass": {
+    "planet": 8,
+    "moon": 127,
+    "full": 135
+  },
+  "Density": {
+    "planet": 8,
+    "moon": 142,
+    "full": 150
+  },
+  "Surface Area": {
+    "planet": 8,
+    "moon": 142,
+    "full": 150
+  },
+  "Surface Gravity": {
+    "planet": 8,
+    "moon": 127,
+    "full": 135
+  },
+  "Escape Velocity": {
+    "planet": 8,
+    "moon": 127,
+    "full": 135
+  },
+  "Sidereal Rotation Period (Length of Day)": {
+    "planet": 8,
+    "moon": 7,
+    "full": 15
+  },
+  "Minimum/Maximum Surface Temperature": {
+    "planet": 4,
+    "moon": 2,
+    "full": 6
+  },
+  "Atmospheric Constituents": {
+    "planet": 8,
+    "moon": 5,
+    "full": 13
+  },
+  "Orbit Size Around Earth (semi-major axis)": {
+    "planet": 0,
+    "moon": 1,
+    "full": 1
+  },
+  "Average Distance from Earth": {
+    "planet": 0,
+    "moon": 1,
+    "full": 1
+  },
+  "Perigee (closest)": {
+    "planet": 0,
+    "moon": 1,
+    "full": 1
+  },
+  "Apogee (farthest)": {
+    "planet": 0,
+    "moon": 1,
+    "full": 1
+  },
+  "Effective Temperature": {
+    "planet": 4,
+    "moon": 0,
+    "full": 4
+  },
+  "Orbit Size Around Jupiter (semi-major axis)": {
+    "planet": 0,
+    "moon": 50,
+    "full": 50
+  },
+  "Periapsis (closest)": {
+    "planet": 0,
+    "moon": 141,
+    "full": 141
+  },
+  "Apoapsis (farthest)": {
+    "planet": 0,
+    "moon": 141,
+    "full": 141
+  },
+  "Orbit Period (Length of Year)": {
+    "planet": 0,
+    "moon": 13,
+    "full": 13
+  },
+  "Rotation Period (Length of Day)": {
+    "planet": 0,
+    "moon": 17,
+    "full": 17
+  },
+  "Orbit Size Around Mars (semi-major axis)": {
+    "planet": 0,
+    "moon": 2,
+    "full": 2
+  },
+  "Orbit Size Around Neptune (semi-major axis)": {
+    "planet": 0,
+    "moon": 13,
+    "full": 13
+  },
+  "Orbit Size Around Saturn (semi-major axis)": {
+    "planet": 0,
+    "moon": 53,
+    "full": 53
+  },
+  "Atmospheric Temperature(at level with pressure = 1 bar)": {
+    "planet": 0,
+    "moon": 1,
+    "full": 1
+  },
+  "Orbit Size Around Uranus (semi-major axis)": {
+    "planet": 0,
+    "moon": 27,
+    "full": 27
+  }
+}

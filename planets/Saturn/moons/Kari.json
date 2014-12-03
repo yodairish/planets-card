@@ -1,0 +1,104 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Scott S. Sheppard, David C. Jewitt and Jan T. Kleyna"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "6 March 2006"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "22,077,100 km",
+        "type": "Metric"
+      },
+      {
+        "text": "13,718,074 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "11,387,368 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "32,766,832 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "3.369774127 Earth years "
+      },
+      {
+        "text": "1,230.81 Earth days "
+      },
+      {
+        "type": "comparison",
+        "text": "Retrograde orbit"
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "130,186,531.63 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "4,407.2 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.4842"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "155.902"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "3.0 (assuming an albedo of 0.04) km",
+        "type": "Metric"
+      },
+      {
+        "text": "1.9 miles",
+        "type": "English"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "18.8 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "113 km3",
+        "type": "Metric"
+      }
+    ],
+    "Density": [
+      {
+        "text": "2.3 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "113.10 km2",
+        "type": "Metric"
+      }
+    ]
+  }
+}

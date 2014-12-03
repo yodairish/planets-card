@@ -1,0 +1,76 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Mark R. Showalter and Jack J. Lissauer"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "25 August 2003"
+      }
+    ],
+    "Orbit Size Around Uranus (semi-major axis)": [
+      {
+        "text": "97,736 km",
+        "type": "Metric"
+      },
+      {
+        "text": "60,730 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "97,492 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "97,980 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.002527036 Earth years "
+      },
+      {
+        "text": "0.923 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "614,092.44 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "27,721.8 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0025"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.134"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "24 (assuming an albedo of 0.103) km",
+        "type": "Metric"
+      },
+      {
+        "text": "15 (assuming an albedo of 0.103) miles",
+        "type": "English"
+      }
+    ]
+  }
+}

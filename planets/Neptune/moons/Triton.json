@@ -1,0 +1,146 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "W. Lassell"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1846"
+      }
+    ],
+    "Orbit Size Around Neptune (semi-major axis)": [
+      {
+        "text": "354,759 km",
+        "type": "Metric"
+      },
+      {
+        "text": "220,437 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "354,759 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "354,759 km",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Period (Length of Year)": [
+      {
+        "text": "0.016090349 Earth years "
+      },
+      {
+        "text": "5.877 Earth days "
+      },
+      {
+        "type": "comparison",
+        "text": "Retrograde orbit"
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "2,229,016.54 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "15,803.2 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "156.865 degrees"
+      },
+      {
+        "type": "comparison",
+        "text": "Retrograde orbit"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "1353.4 km",
+        "type": "Metric"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "8,503.7 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "10,384,058,491 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "21,394,990,550,895,500,000,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "2.1395 x 1022 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "2.059 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "23,017,714.99 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.779 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "5,229 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "3,249 mph",
+        "type": "English"
+      },
+      {
+        "text": "1452 m/s",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Rotation Period (Length of Day)": [
+      {
+        "type": "comparison",
+        "text": "Synchronous with orbital period"
+      }
+    ],
+    "Atmospheric Temperature(at level with pressure = 1 bar)": [
+      {
+        "text": "38 K",
+        "type": "Scientific Notation"
+      }
+    ]
+  }
+}

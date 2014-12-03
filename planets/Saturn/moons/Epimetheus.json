@@ -1,0 +1,128 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "R. Walker, J. Fountain, S. Larson"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1966/1978"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "151,410 km",
+        "type": "Metric"
+      },
+      {
+        "text": "94,082 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "149,926 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "152,894 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.001900068 Earth years "
+      },
+      {
+        "text": "0.694 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "951,314.25 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "57,115.4 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0098"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.351 degrees"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "58.1 km",
+        "type": "Metric"
+      },
+      {
+        "type": "comparison",
+        "text": "69 x 55 x 55 km, tri-axial"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "365.1 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "821,518 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "526,032,620,017,115,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "5.2603 x 1017 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "0.64 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "42,419.17 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.010 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "125 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Rotation Period (Length of Day)": [
+      {
+        "type": "comparison",
+        "text": "Synchronous with Saturn"
+      }
+    ]
+  }
+}

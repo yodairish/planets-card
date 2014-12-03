@@ -1,0 +1,136 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "William Lassell"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "24 October 1851"
+      }
+    ],
+    "Orbit Size Around Uranus (semi-major axis)": [
+      {
+        "text": "190,900 km",
+        "type": "Metric"
+      },
+      {
+        "text": "118,620 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.909 x 105 km (1.276 x 10-3 A.U.)",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "190,671 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "191,129 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.006899384 Earth years "
+      },
+      {
+        "text": "2.52 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "1,199,459.64 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "19,832.3 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0012"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.041 degree"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "578.9 km",
+        "type": "Metric"
+      },
+      {
+        "text": "359.7 miles",
+        "type": "English"
+      },
+      {
+        "text": "5.789 x 102 km",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "3,637.3 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "812,641,988 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "1,294,849,526,195,970,000,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "1.2948 x 1021 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "1.592 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "4,211,307.59 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.258 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "1,967 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Rotation Period (Length of Day)": [
+      {
+        "type": "comparison",
+        "text": "Synchronous with Uranus"
+      }
+    ]
+  }
+}

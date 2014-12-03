@@ -8,7 +8,7 @@ var fs = require('fs-extra'),
  * @param {Object} options
  */
 module.exports.add = function add(options) {
-  var path = __dirname + '/../../planets/tmp/' +
+  var path = __dirname + '/../../planets/' +
              options.planet + '/' +
              (options.moon ? 'moons/' + options.moon : options.planet) +
              '.json';

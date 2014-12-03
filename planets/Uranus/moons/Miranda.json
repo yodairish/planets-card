@@ -1,0 +1,130 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Gerard P. Kuiper"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "16 February 1948"
+      }
+    ],
+    "Orbit Size Around Uranus (semi-major axis)": [
+      {
+        "text": "129,900 km",
+        "type": "Metric"
+      },
+      {
+        "text": "80,716 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.299 x 105 km (8.68 x 10-4 A.U.)",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "129,731 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "130,069 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.00387 Earth years "
+      },
+      {
+        "text": "1.413 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "816,185.43 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "24,067.7 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0013"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "4.338"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "235.8 ± 0.7 km",
+        "type": "Metric"
+      },
+      {
+        "text": "146.5 ± 0.4 miles",
+        "type": "English"
+      },
+      {
+        "text": "2.358 x 102 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.0370"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "1481.6 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "54,918,670 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "65,941,411,056,276,500,000 kg",
+        "type": "Metric"
+      }
+    ],
+    "Density": [
+      {
+        "text": "1.214 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "698,710.82 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.079 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "695 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

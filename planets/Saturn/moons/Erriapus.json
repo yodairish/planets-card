@@ -1,0 +1,118 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "B. Gladman, J. Kavelaars, J.-M. Petit, H. Scholl, M. Holman, B.G. Marsden, P. Nicholson and J.A. Burns"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "2000"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "17,611,400 km",
+        "type": "Metric"
+      },
+      {
+        "text": "10,943,217 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "9,376,309 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "25,846,491 km",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Period (Length of Year)": [
+      {
+        "text": "2.384120465 Earth years "
+      },
+      {
+        "text": "870.8 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "104,333,269.82 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "4,992.2 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.4676"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "38.649"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "5 km",
+        "type": "Metric"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "31.4 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "524 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "764,320,900,879,568 kg",
+        "type": "Metric"
+      },
+      {
+        "type": "comparison",
+        "text": "7.6432 x 1014"
+      }
+    ],
+    "Density": [
+      {
+        "text": "2.3 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "314.16 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.002 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "16 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

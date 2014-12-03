@@ -1,0 +1,1197 @@
+{
+  "missions": [
+    {
+      "name": "Mariner 1",
+      "dates": [
+        {
+          "date": "22 Jul 1962:",
+          "text": "Launch (09:21:23 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Mariner 1 was the first attempt by the United States to send a spacecraft to Venus. It was to fly by the planet at a distance of about 29,000 km (about 18,000 miles), transmitting a variety of scientific data but no pictures.",
+        "Accomplishments": ": None. A problem with the guidance system shortly after launch made steering impossible and directed the spacecraft toward a crash, possibly in North Atlantic shipping lanes or in an inhabited area. The Range Safety Officer issued a destruct command about 5 minutes after launch, just 6 seconds before the spacecraft would have separated from its booster, after which the launch vehicle could not have been destroyed."
+      }
+    },
+    {
+      "name": "Venera 1",
+      "dates": [
+        {
+          "date": "12 Feb 1961:",
+          "text": "Launch"
+        },
+        {
+          "date": "4 Mar 1961:",
+          "text": "Contact Lost"
+        },
+        {
+          "date": "19 May 1961 - 20 May 1961:",
+          "text": "Venus Flyby"
+        },
+        {
+          "date": "Status:",
+          "text": "Partial Success"
+        }
+      ],
+      "goals": {
+        "Goals": ": The Soviet Union intended Venera 1 to crash into Venus.",
+        "Accomplishments": ": It succeeded in being the first Venus probe to leave Earth orbit, but contact was lost 7 days later. Since the Soviets were unable to command the spacecraft to perform a needed course correction, it is presumed to have flown by Venus at a distance of about 100,000 km (62,000 miles)."
+      }
+    },
+    {
+      "name": "Mariner 2",
+      "dates": [
+        {
+          "date": "27 Aug 1962:",
+          "text": "Launch (06:53:14 UT)"
+        },
+        {
+          "date": "14 Dec 1962:",
+          "text": "Venus Flyby"
+        },
+        {
+          "date": "3 Jan 1963:",
+          "text": "Contact Lost"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Mariner 2 was designed to fly by Venus and send back information on the planet's atmosphere and surface.",
+        "Accomplishments": ": Mariner 2 was the first successful mission to another planet by any country. Launched just 36 days after the failure of its twin, Mariner 1, it flew by Venus as planned at a range of 34,762 km (21,600 miles), scanning the planet's atmosphere and surface for 42 minutes.\nThe spacecraft showed that surface temperature on Venus was at least 797 degrees Fahrenheit (425 degrees Celsius) on both the day and night sides, hot enough to melt lead. It also showed that Venus rotates in the opposite direction from most planets in our solar system, has an atmosphere mostly of carbon dioxide with very high pressure at the planet's surface, continuous cloud cover and no detectable magnetic field. It also found the solar wind streams continuously and that the density of cosmic dust between planets is much lower than it is near Earth."
+      }
+    },
+    {
+      "name": "2MV-1/1",
+      "dates": [
+        {
+          "date": "25 Aug 1962:",
+          "text": "Launch"
+        },
+        {
+          "date": "28 Aug 1962:",
+          "text": "Re-entered Earth's Atmosphere"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Also known as Sputnik 20, this was a Venera-type spacecraft intended to impact Venus.",
+        "Accomplishments": ": None. The rocket that was to propel the spacecraft from Earth orbit to Venus shut off after 45 seconds (instead of the planned 240 seconds), leaving it marooned like the preceding year's Sputnik 7. The spacecraft orbited Earth for 3 days, then re-entered the atmosphere."
+      }
+    },
+    {
+      "name": "1VA/1",
+      "dates": [
+        {
+          "date": "4 Feb 1961:",
+          "text": "Launch"
+        },
+        {
+          "date": "26 Feb 1961:",
+          "text": "Re-entered Earth's Atmosphere"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": This Soviet spacecraft was to be the world's first mission to Venus. Initially intended to transmit pictures of the planet before it impacted the surface, the mission was downgraded to simply send data about Venus' atmosphere as it plunged through the atmosphere.",
+        "Accomplishments": ": The spacecraft reached Earth orbit as planned, but the rocket that was to propel it on to Venus did not fire, leaving the probe stranded in Earth orbit. The probe and launch vehicle re-entered Earth's atmosphere after 22 days in orbit."
+      }
+    },
+    {
+      "name": "2MV-2/1",
+      "dates": [
+        {
+          "date": "12 Sep 1962:",
+          "text": "Launch"
+        },
+        {
+          "date": "14 Sep 1962:",
+          "text": "Re-entered Earth's Atmosphere"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": This spacecraft was intended to take pictures and gather data as it flew past Venus.",
+        "Accomplishments": ": None. The mission failed when, like both its predecessors, the probe was unable to leave parking orbit around Earth. It re-entered the atmosphere two days after launch."
+      }
+    },
+    {
+      "name": "3MV-1A/4A",
+      "dates": [
+        {
+          "date": "19 Feb 1964:",
+          "text": "Launch (05:47:40 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": This was another Soviet attempt to study Venus during a flyby mission. It carried nine instruments to study the planet and interplanetary space.",
+        "Accomplishments": ": A malfunction in the launch vehicle led to an explosion that destroyed the spacecraft before it reached Earth orbit."
+      }
+    },
+    {
+      "name": "2MV-1/2",
+      "dates": [
+        {
+          "date": "1 Sep 1962:",
+          "text": "Launch"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Intended to impact the surface of Venus, this spacecraft -- also known as Sputnik 20 -- was the second of three attempts by the Soviet Union in 1962 to reach the planet.",
+        "Accomplishments": ": None. Like its predecessor, the failure of a booster rocket kept it from leaving Earth orbit. This time, the rocket didn't fire at all. The spacecraft remained stranded in Earth orbit for five days and then re-entered the atmosphere."
+      }
+    },
+    {
+      "name": "Kosmos 27",
+      "dates": [
+        {
+          "date": "27 Mar 1964:",
+          "text": "Launch"
+        },
+        {
+          "date": "28 Mar 1964:",
+          "text": "End of Venus Mission"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": This Soviet spacecraft was designed to study Venus as it passed through the planet's atmosphere and crashed on the surface.",
+        "Accomplishments": ": None. Though the spacecraft successfully reached Earth orbit, the rocket that was to propel it onward to Venus failed and the spacecraft burned up in Earth's atmosphere the following day."
+      }
+    },
+    {
+      "name": "Zond 1",
+      "dates": [
+        {
+          "date": "2 Apr 1964:",
+          "text": "Launch"
+        },
+        {
+          "date": "25 May 1964:",
+          "text": "Contact Lost"
+        },
+        {
+          "date": "19 Jul 1964:",
+          "text": "Venus Flyby"
+        },
+        {
+          "date": "Status:",
+          "text": "Partial Success"
+        }
+      ],
+      "goals": {
+        "Goals": ": Zond 1 was intended to be a Venus impact probe, but it wound up being an inert flyby that accomplished some science before contact was lost.",
+        "Accomplishments": ": The Soviets lost contact with the spacecraft about halfway through its journey, but not before making two major course corrections -- the first time such actions were performed on a Soviet interplanetary spacecraft. After Zond 1 flew by Venus at a range of about 100,000 km (62,000 miles), the Soviets published some data on cosmic-ray flux that Zond 1 had measured."
+      }
+    },
+    {
+      "name": "Venera 2",
+      "dates": [
+        {
+          "date": "12 Nov 1965:",
+          "text": "Launch"
+        },
+        {
+          "date": "4 Mar 1966:",
+          "text": "Final Attempt at Communication"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": This Soviet spacecraft was originally intended for Mars, but it was re-equipped to study Venus. The mission was to fly past Venus, photograph the planet and make scientific measurements.",
+        "Accomplishments": ": Venera 2 spacecraft flew past Venus as planned, but a malfunction prevented any data or images it gathered from being sent back to Earth. Missions controllers tried to contact the spacecraft for a month before giving up."
+      }
+    },
+    {
+      "name": "Venera 3",
+      "dates": [
+        {
+          "date": "16 Nov 1965:",
+          "text": "Launch"
+        },
+        {
+          "date": "1 Mar 1966:",
+          "text": "Venus Impact"
+        },
+        {
+          "date": "Status:",
+          "text": "Partial Success"
+        }
+      ],
+      "goals": {
+        "Goals": ": The Soviet Union's Venera 3 was designed to deliver a small landing capsule to explore Venus' atmosphere during a parachute descent.",
+        "Accomplishments": ": The capsule was successfully released, but contact was lost shortly before the Venus encounter. The capsule did impact on Venus -- the first manmade object to touch the surface of another planet -- but no scientific data was returned."
+      }
+    },
+    {
+      "name": "Kosmos 96",
+      "dates": [
+        {
+          "date": "9 Dec 1965:",
+          "text": "Burned up in Earth's Atmosphere"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": This spacecraft was most likely designed to crash land on Venus and was similar to Venera 3, which launched a week earlier.",
+        "Accomplishments": ": None. An explosion after launch stranded the Venus-bound spacecraft in Earth orbit. It remained in orbit for 16 days and reentered the Earth's atmosphere on 9 December 1965."
+      }
+    },
+    {
+      "name": "Venera 4",
+      "dates": [
+        {
+          "date": "12 Jun 1967:",
+          "text": "Launch"
+        },
+        {
+          "date": "18 Oct 1967:",
+          "text": "Probe Release"
+        },
+        {
+          "date": "Status:",
+          "text": "Success"
+        }
+      ],
+      "goals": {
+        "Goals": ": Venera 4 was designed to analyze the atmosphere of Venus while descending through it.",
+        "Accomplishments": ": Venera 4 released its atmospheric probe as planned, moments before the main spacecraft hit the atmosphere and was destroyed. The probe parachuted down, collecting and transmitting data for 93 minutes until, at an altitude of about 25 km, the planet's enormous atmospheric pressure crushed it.\nThe data that Venera 4 returned to Earth indicated that at the planet's surface, the temperature was 500 degrees Celsius and the atmospheric pressure was 75 times that of Earth. Conducting the first direct sampling of the atmosphere, the probe's gas analyzers found that it was 90 to 95 percent carbon dioxide with no nitrogen and small amounts of oxygen and water vapor."
+      }
+    },
+    {
+      "name": "Mariner 5",
+      "dates": [
+        {
+          "date": "14 Jun 1967:",
+          "text": "Launch"
+        },
+        {
+          "date": "19 Oct 1967:",
+          "text": "Arrival at Venus"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Like its predecessor, Mariner 2, Mariner 5 was designed to conduct only scientific measurements of Venus and not attempt to photograph the planet. Mariner 5 was programmed to fly much closer to Venus to improve the chances of detecting a magnetic field and any interaction with the solar wind.",
+        "Accomplishments": ": The radiation team, led by James van Allen (who discovered Earth's radiation belts with Explorer 1) found no similar belts around Venus. The planet was determined not to have a magnetic field more than 1percent as strong as that of Earth. Observing how much Venus' gravity changed Mariner 5's trajectory put the planet's mass at 81.5 percent that of Earth. Seeing how Venus' atmosphere affected radio signals that were transmitted while the spacecraft was behind the planet enabled scientists to calculate temperature and pressure at the planet's surface of 527°C and 75 to 100 Earth atmospheres. These figures disagreed with readings from the Soviet Venera 4 mission and led Soviet scientists to conclude that their probe had not survived its descent to the surface as originally thought."
+      }
+    },
+    {
+      "name": "Kosmos 167",
+      "dates": [
+        {
+          "date": "17 Jun 1967:",
+          "text": "Launch"
+        },
+        {
+          "date": "25 Jun 1967:",
+          "text": "Re-Entered Earth's Atmosphere"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": This spacecraft was designed to drop a probe through Venus' atmosphere like its twin, Venera 4.",
+        "Accomplishments": ": None. The rocket engine that was to propel it from Earth orbit to Venus failed to fire, and the spacecraft system re-entered the atmosphere after circling Earth for eight days."
+      }
+    },
+    {
+      "name": "Venera 5",
+      "dates": [
+        {
+          "date": "5 Jan 1969:",
+          "text": "Launch"
+        },
+        {
+          "date": "16 May 1969:",
+          "text": "Venus Atmospheric Descent (06:01 UT - 06:54 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Partial Success"
+        }
+      ],
+      "goals": {
+        "Goals": ": Like Venera 4, Venera 5 was to analyze the atmosphere of Venus while descending through it. The launchings of twin spacecraft Venera 5 and 6 were timed so they would arrive at Venus one day apart, allowing for some cross-calibration of data. The parachutes on the atmospheric probes were 2/3 as large as those used for Venera 4 to allow a faster descent. It was hoped that this would enable them to reach lower altitudes before being crushed or having their electronics disabled by heat.",
+        "Accomplishments": ": The strategy did not work. Venera 5 did fall faster, and thus took measurements for only 53 minutes before ceasing transmission at an altitude of about 24 to 26 km, about the same altitude as Venera 4. Data the probe transmitted suggested that the temperature at the surface was 530°C and atmospheric pressure at the surface was 140 times that of Earth, both of which are considerably higher than current estimates (see Venus Express). Analysis of the mostly carbon dioxide atmosphere was in good agreement with Venera 4."
+      }
+    },
+    {
+      "name": "Venera 6",
+      "dates": [
+        {
+          "date": "10 Jan 1969:",
+          "text": "Launch"
+        },
+        {
+          "date": "17 May 1969:",
+          "text": "Atmospheric Descent (06:05 UT - 06:56 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Partial Success"
+        }
+      ],
+      "goals": {
+        "Goals": ": Like Venera 4 and 5, Venera 6 was to analyze the atmosphere of Venus while descending through it. The launchings of twin spacecraft Venera 5 and 6 were timed so they would arrive at Venus one day apart, allowing for some cross-calibration of data. The parachutes on the atmospheric probes were 2/3 as large as those used for Venera 4 to allow a faster descent. It was hoped that this would enable them to reach lower altitudes before being crushed or having their electronics disabled by heat.",
+        "Accomplishments": ": The strategy did not work. Venera 6 transmitted data for only 51 minutes as it fell, about 2 minutes less than Venera 5. Just before the probe was presumably crushed, its instruments indicated an atmospheric pressure of 26 Earth atmospheres and an altitude of 10 to 12 km. This was nearly the same pressure that Venera 5 measured at a much higher altitude, so it has been suggested that Venera 6 landed on a mountain or high plateau, or that the instruments suffered damage during descent, causing the radio altimeter to give a false reading."
+      }
+    },
+    {
+      "name": "Venera 8",
+      "dates": [
+        {
+          "date": "27 Mar 1972:",
+          "text": "Launch"
+        },
+        {
+          "date": "22 Jul 1972:",
+          "text": "Venus Landing (09:32 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Following the successful Venera 7, which found the atmospheric pressure at Venus' surface to be half of what that capsule had been designed to withstand, Venera 8 was designed to land a capsule safely on Venus with less of its mass devoted to resisting pressure and more to thermal protection, instruments and a stronger parachute.",
+        "Accomplishments": ": The Venera 8 lander transmitted data for more than 50 minutes after touching down on the planet's surface. During descent, it recorded a sharp change in illumination between 30 and 35 kilometers altitude. Temperature at the landing site was 470 give or take 8°C; pressure was 90 give or take 1.5 atmospheres (about 90 times Earth's atmospheric pressure at sea level). With the Sun at a low angle, the light level at the surface was found to be similar to that on Earth just before dawn, prompting the designers of Venera 9 and 10 to include floodlights. However, Venera 8's successors found noon-time conditions to be much brighter, similar to a dull, cloudy day on Earth."
+      }
+    },
+    {
+      "name": "Venera 7",
+      "dates": [
+        {
+          "date": "17 Aug 1970:",
+          "text": "Launch"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Venera 7's objective was to transmit data from the surface of Venus. Since the Venera 4, 5, and 6 missions ended when intense atmospheric pressure crushed the probes far above the ground, Venera 7's landing capsule was designed to withstand pressures of up to 180 atmospheres and temperatures as high as 540 degrees Celsius, more than enough to survive all the way to the planet's surface.",
+        "Accomplishments": ": Venera 7 was the first spacecraft to transmit data from the surface of any extraterrestrial planet, though its success was uncertain at first. The probe sent data to Earth for 35 minutes while falling through the atmosphere, but the data transmission appeared to be replaced by noise as soon as the capsule hit the ground. Computer processing revealed, however, that this noise contained nearly 23 minutes of additional information at 1 percent of normal signal strength. The transmitted data indicated a surface temperature of 475 give or take 20 degrees Celsius and a pressure of 90 give or take 15 atmospheres."
+      }
+    },
+    {
+      "name": "Kosmos 359",
+      "dates": [
+        {
+          "date": "22 Aug 1970:",
+          "text": "Launch"
+        },
+        {
+          "date": "6 Nov 1970:",
+          "text": "End of Venus Mission"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": This twin of Venera 7 was supposed to achieve the same goal: operate and transmit data after landing on Venus.",
+        "Accomplishments": ": None. The spacecraft entered Earth orbit, but the rocket engine that was supposed to launch it from there to Venus malfunctioned, leaving it stranded in Earth orbit."
+      }
+    },
+    {
+      "name": "Kosmos 482",
+      "dates": [
+        {
+          "date": "31 Mar 1972:",
+          "text": "Launch"
+        },
+        {
+          "date": "May 1981:",
+          "text": "Re-entered Earth's Atmosphere"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Like Venera 8, which embarked on a successful mission four days earlier, this spacecraft was to land on Venus with a design that devoted less of its mass to resisting pressure and more to thermal protection, instruments and a stronger parachute.",
+        "Accomplishments": ": None. Failure of the engine that was to propel it from Earth orbit to Venus marooned the spacecraft in an elliptical orbit around Earth for more than a month until it finally reentered Earth's atmosphere."
+      }
+    },
+    {
+      "name": "Mariner 10",
+      "dates": [
+        {
+          "date": "3 Nov 1973:",
+          "text": "Launch (05:45 UT)"
+        },
+        {
+          "date": "5 Feb 1974:",
+          "text": "Venus Encounter"
+        },
+        {
+          "date": "29 Mar 1974:",
+          "text": "Mercury Flyby 1"
+        },
+        {
+          "date": "21 Sep 1974:",
+          "text": "Mercury Flyby 2"
+        },
+        {
+          "date": "16 Mar 1975:",
+          "text": "Mercury Flyby 3"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Mariner 10 was the first spacecraft sent to study Mercury. Mariner 10 also studied Venus while using the planet's gravity to modify its speed and trajectory, enabling it to reach Mercury.",
+        "Accomplishments": ": On its way to Mercury, Mariner 10 became the first spacecraft to use the gravity of one planet (in this case, Venus) to reach another. This has become an extremely important technique. While flying by Venus, the spacecraft took ultraviolet pictures that revealed great bands of clouds, providing data on atmospheric circulation which included upper-atmosphere wind speeds of 300 km/hr."
+      }
+    },
+    {
+      "name": "Venera 9",
+      "dates": [
+        {
+          "date": "8 Jun 1975:",
+          "text": "Launch"
+        },
+        {
+          "date": "22 Oct 1975:",
+          "text": "Venus Landing (05:13 UT)"
+        },
+        {
+          "date": "22 Mar 1976:",
+          "text": "End of Orbiter Mission"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Venera 9 was the first of a new, heavier generation Soviet spacecraft. The mission called for an orbiter and a lander. The orbiter was to act as a communications relay and study Venus from above while the lander descended via parachute to study the surface.",
+        "Accomplishments": ": Venera 9 logged several firsts. It was the first spacecraft to orbit Venus and the first mission to transmit photographs from the surface of another world. The orbiter fulfilled its communications mission while photographing the planet's atmosphere in UV light and conducting other investigations. The lander transmitted data from Venus' surface for 53 minutes, including taking a 180° panorama of the rocky Venusian surface. Illumination at the surface was said to be as bright as Moscow on a cloudy day in June. Gamma ray measurements indicated that the probe landed on a basaltic surface. Temperature at the surface was found to be 460°C (860°F); atmospheric pressure was 90 times that of Earth."
+      }
+    },
+    {
+      "name": "Venera 10",
+      "dates": [
+        {
+          "date": "14 Jun 1975:",
+          "text": "Launch"
+        },
+        {
+          "date": "25 Oct 1975:",
+          "text": "Venus Landing (01:02 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Like its twin, Venera 9, the Venera 10 mission called for an orbiter and a lander to explore Venus. The orbiter was to act as a communications relay and study Venus from above while the lander descended via parachute to study and photograph the planet's surface.",
+        "Accomplishments": ": Venera 10 arrived at Venus three days after its twin. Though 2,200 km (1,367 miles) closer to the equator than Venera 9, the Venera 10 lander measured a temperature only 5°C (9°F) hotter. Atmospheric pressure at the surface was found to be 92 times that of Earth at sea level. As in the Venera 9 mission, the orbiter served as a communications relay for the lander while imaging the atmosphere in ultraviolet light and conducting other experiments. The lander transmitted data for a then record 65 minutes, including a panoramic picture of Venus' surface. Gamma ray readings suggested a basaltic surface in agreement with measurements by Venera 9, though the landscape appeared to be older than that of Venera 9's landing site."
+      }
+    },
+    {
+      "name": "Pioneer Venus 1",
+      "dates": [
+        {
+          "date": "20 May 1978:",
+          "text": "Launch"
+        },
+        {
+          "date": "4 Dec 1978:",
+          "text": "Venus Orbit Insertion"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": The Pioneer Venus project called for two spacecraft to explore the atmosphere and surface of Venus. Pioneer Venus 1 was designed to make a radar map of Venus's surface during an eight month mission. Its twin, Pioneer Venus 2, also carried atmospheric probes.",
+        "Accomplishments": ": During a 14-year orbit of Venus, Pioneer Venus 1 used radar to map the surface at a resolution of 75 km (47 miles). It found the planet to be generally smoother than Earth, though with a mountain higher than Mt. Everest and a chasm deeper than the Grand Canyon. The orbiter also found Venus to be more spherical than Earth, consistent with the planet's much slower rotation rate (one Venus day equals 243 Earth days). It confirmed that Venus has little, if any, magnetic field and found the clouds to consist mainly of sulfuric acid. Measurements of this chemical's decline in the atmosphere over the course of the mission suggested that the spacecraft arrived soon after a large volcanic eruption, which may also account for the prodigious lightning it observed."
+      }
+    },
+    {
+      "name": "Pioneer Venus 2",
+      "dates": [
+        {
+          "date": "8 Aug 1978:",
+          "text": "Launch"
+        },
+        {
+          "date": "9 Dec 1978:",
+          "text": "End of Venus Mission"
+        },
+        {
+          "date": "Status:",
+          "text": "Complete"
+        }
+      ],
+      "goals": {
+        "Goals:": " Pioneer Venus 2, the twin to Pioneer Venus 1, comprised a main bus, a large probe (316.5 kg), and three identical small probes, all of which were designed to collect\ndata during independent atmospheric entry into Venus. Each probe was shaped like a cone and not designed to survive past surface impact.",
+        "Accomplishments:": " After a course correction on 16 August 1978, Pioneer Venus 2 released the 1.5-m diameter large probe on 16 November 1978, at about 11.1 million km from the planet. Four days later, the bus released the three small probes while 9.3 million km from Venus. All five components reached the Venusian atmosphere on 9 December 1978, with the large probe entering first.\nData from the probes indicated that between 10 and 50 km, there is almost no convection in the Venusian atmosphere. Below a haze layer at 30 km, the atmosphere appears to be relatively clear. Amazingly, two of three probes survived the hard impact. The so-called Day Probe transmitted data from the surface for 67.5 minutes before succumbing to the high temperatures and power depletion."
+      }
+    },
+    {
+      "name": "Venera 11",
+      "dates": [
+        {
+          "date": "9 Sep 1978:",
+          "text": "Launch (03:25:39 UT)"
+        },
+        {
+          "date": "25 Dec 1978:",
+          "text": "Venus Landing (03:24 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals:": " This mission, like its twin Venera 12, called for a flyby spacecraft and a lander to explore Venus' ionosphere, atmosphere and surface and the interplanetary environment.",
+        "Accomplishments:": " The flyby craft studied the solar wind, gamma-ray bursts, ultraviolet radiation, and Venus' ionosphere. It passed the planet at a distance of about 35,000 km (about 22,000 miles). The lander probed Venus' atmosphere as it descended and then transmitted data from the surface for 95 minutes. Its camera system and soil-analysis experiment failed, but the mission did report evidence of lightning and thunder, carbon monoxide at low altitudes, and data on isotopes of argon that prompted scientists to question the theory that the original atmospheres of Venus, Earth and Mars were the result of outgassing from volcanoes."
+      }
+    },
+    {
+      "name": "Venera 12",
+      "dates": [
+        {
+          "date": "14 Sep 1978:",
+          "text": "Launch"
+        },
+        {
+          "date": "21 Dec 1978:",
+          "text": "Venus Landing (03:30 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": This mission, like its twin Venera 11, called for a flyby spacecraft and a lander to explore Venus' ionosphere, atmosphere and surface and the interplanetary environment.",
+        "Accomplishments": ": The flyby spacecraft sent back data on the solar wind, gamma-ray bursts, ultraviolet radiation and Venus' ionosphere. It passed the planet at a distance of about 35,000 km (about 22,000 miles). The lander probed Venus' atmosphere during a parachute descent. It touched down about 800 km (about 500 miles) away from its twin. The probe survived for a record at the time of 110 minutes and sent back valuable information, although malfunctions caused its soil analysis instrument and imaging system to fail."
+      }
+    },
+    {
+      "name": "Venera 13",
+      "dates": [
+        {
+          "date": "30 Oct 1981:",
+          "text": "Launch"
+        },
+        {
+          "date": "1 Mar 1982:",
+          "text": "Venus Flyby/Landing (03:57:21 UT)"
+        },
+        {
+          "date": "10 Jun 1982:",
+          "text": "Comet Halley Engine Test"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Like previous Soviet Venus missions, Venera 13 and 14 were twin pairs and flyby spacecraft. The flyby craft was designed to relay transmissions from the landers in addition to studying Venus and interplanetary space. The landers carried advanced instruments to study Venus' atmosphere and soil.",
+        "Accomplishments": ": Venera 13's descent craft probed the atmosphere and then transmitted data from the surface for 127 minutes, succeeding in two experiments that had failed on the previous two missions. The lander took 360° panoramic pictures, the first color pictures transmitted from that planet. The series of eight photos showed a landscape of orange-brown rocks and loose soil, with soil being blown onto the lander at a rate suggesting a wind speed of 1 to 2 km/hr. The sky looked orange and the horizon appeared to be only about 100 meters (109 yards) away, possibly due to a mirage. In another first, the lander directly sampled and analyzed the nearby soil. The flyby spacecraft was later used in an engineering test for upcoming Halley's comet missions"
+      }
+    },
+    {
+      "name": "Venera 14",
+      "dates": [
+        {
+          "date": "4 Nov 1981:",
+          "text": "Launch"
+        },
+        {
+          "date": "5 Mar 1982:",
+          "text": "Venus Landing (07:00:10 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Like previous Soviet Venus missions, Venera 13 and 14 were twin pairs and flyby spacecraft. The flyby craft was designed to relay transmissions from the landers in addition to studying Venus and interplanetary space. The landers carried advanced instruments to study Venus' atmosphere and soil.",
+        "Accomplishments": ": Venera 14 arrived at Venus four days after its twin. Though the color panoramic pictures it transmitted showed the lander to have set down on a 500 m (1600 ft) hill, with small foothills in the distance, the atmospheric pressure it recorded (93.5 times that of Earth, compared to 89.5 reported by Venera 13) suggested that it reached a substantially lower altitude than Venera 13. Venera 14 performed the second soil analysis on Venus, drilling a 30 mm deep hole and excavating about one cubic centimeter of soil, which was found to be similar to basaltic rocks on Earth that are formed at mid-ocean ridges by underwater volcanoes."
+      }
+    },
+    {
+      "name": "Vega 1",
+      "dates": [
+        {
+          "date": "15 Dec 1984:",
+          "text": "Launch"
+        },
+        {
+          "date": "9 Jun 1985 - 11 Jun 1985:",
+          "text": "Balloon and Lander Operations at Venus (03:02:54 UT)"
+        },
+        {
+          "date": "4 Mar 1986 - 8 Mar 1986:",
+          "text": "Comet Halley Flyby"
+        },
+        {
+          "date": "Status:",
+          "text": "Success"
+        }
+      ],
+      "goals": {
+        "Goals": ": The ambitious twin-spacecraft Vega project aimed to deliver advanced lander modules on Venus, study the planet's atmosphere with balloons and then fly on for a close encounter with comet Halley.",
+        "Accomplishments": ": Both Vega 1 and its twin Vega 2 were tremendously successful. The Vega balloons drifted a third of the way around the planet, revealing cloud decks distinctly different from those seen by Pioneer Venus -- suggesting a change in Venus' atmosphere. Vega 1's lander lander set down in the Mermaid Plain north of Aphrodite and transmitted for 56 minutes. Its soil sampler deployed prematurely, spoiling the experiment, but the mass spectrometer returned important data. The Vega 1 bus flew on to study Halley as part of an international fleet sent to meet the comet made its journey through the inner solar system."
+      }
+    },
+    {
+      "name": "Venera 15",
+      "dates": [
+        {
+          "date": "2 Jun 1983:",
+          "text": "Launch"
+        },
+        {
+          "date": "10 Jul 1984:",
+          "text": "End of Venus Mission"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": The twin Venera 15 and 16 orbiters were designed to make detailed radar maps of Venus' surface at a resolution of 1 to 2 km (or roughly one mile).",
+        "Accomplishments": ": The twin Soviet spacecraft flew in near-polar elliptical orbits and succeeded in mapping the top half of the northern atmosphere (from the north pole to 30°N latitude, about 115 million square kilometers or 71 million square miles) by the end of the main mission. An altimeter provided topographical data with a height resolution of 50 m (164 feet), and an East German instrument mapped surface temperature variations."
+      }
+    },
+    {
+      "name": "Venera 16",
+      "dates": [
+        {
+          "date": "7 Jun 1983:",
+          "text": "Launch"
+        },
+        {
+          "date": "14 Oct 1983:",
+          "text": "Venus Orbit Insertion (06:22 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals:": " The twin Venera 15 and 16 orbiters were designed to make detailed radar maps of Venus' surface at a resolution of 1 to 2 km (or roughly one mile).",
+        "Accomplishments:": " The twin Soviet spacecraft flew in near-polar elliptical orbits and succeeded in mapping the top half of the northern atmosphere (from the north pole to 30°N latitude, about 115 million square kilometers or 71 million square miles) by the end of the main mission. An altimeter provided topographical data with a height resolution of 50 m (164 feet), and an East German instrument mapped surface temperature variations."
+      }
+    },
+    {
+      "name": "Vega 2",
+      "dates": [
+        {
+          "date": "21 Dec 1984:",
+          "text": "Launch (09:13:52 UT)"
+        },
+        {
+          "date": "15 Jun 1985:",
+          "text": "Venus Landing (03:00:50 UT)"
+        },
+        {
+          "date": "7 Mar 1986 - 11 Mar 1986:",
+          "text": "Comet Halley Flyby"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": The ambitious twin-spacecraft Vega project aimed to deliver advanced lander modules on Venus, study the planet's atmosphere with balloons and then fly on for a close encounter with comet Halley.",
+        "Accomplishments": ": Both Vega 2 and its twin Vega 1 were tremendously successful. Vega 2's balloons drifted a third of the way around Venus, collecting valuable atmospheric data. The balloon measured temperatures 6.5°C (11.7°F) lower than did the Vega 1 balloon. Vega 2's set down 1,500 km (932 miles) SE of the Vega 1 lander, on a surface that was surprisingly smooth for the region. Unlike its twin, this lander performed soil analysis successfully, reporting a type of rock that is rare on Earth but found in lunar highlands."
+      }
+    },
+    {
+      "name": "Magellan",
+      "dates": [
+        {
+          "date": "4 May 1989:",
+          "text": "Launch (18:47:00 UT)"
+        },
+        {
+          "date": "10 Aug 1990:",
+          "text": "Venus Orbit Insertion"
+        },
+        {
+          "date": "12 Oct 1994:",
+          "text": "Final Contact (10:04 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Magellan was designed to make quality radar maps of at least 70 percent of Venus' surface, providing a clear look at the topography below the planet's thick, perpetual cloak of clouds.",
+        "Accomplishments": ":Magellan mapped 98 percent of Venus' surface at a resolution of 100 to 150 meters (about the length of a football or soccer field), using synthetic aperture radar, a technique that simulates the use of a much larger radar antenna. It found that 85 percent of the surface is covered with volcanic flows and showed evidence of tectonic movement, turbulent surface winds, lava channels and pancake-shaped domes. Magellan also produced high-resolution gravity data for 95 percent of the planet and tested a new maneuvering technique called aerobraking, using atmospheric drag to adjust its orbit.\nThe spacecraft was commanded to plunge into Venus' atmosphere in 1994 as part of a final experiment to gather atmospheric data."
+      }
+    },
+    {
+      "name": "Galileo",
+      "dates": [
+        {
+          "date": "18 Oct 1989:",
+          "text": "Launch (16:53:40 UT)"
+        },
+        {
+          "date": "7 Dec 1995:",
+          "text": "Probe Descent (22:04 UT - 23:02 UT)"
+        },
+        {
+          "date": "21 Sep 2003:",
+          "text": "Jupiter Impact (18:57:18 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Galileo borrowed a little gravity from Venus to build up enough speed to make the long trip to it's primary destination - the giant planet Jupiter. The flyby also provided a chance to test the spacecraft's instruments on a real science target.",
+        "Accomplishments": ": The Venus flyby at a distance of 16,000 km (10,000 miles) helped increase our understanding of the mysterious cloud cover the cloaks the surface of our closest planetary neighbor."
+      }
+    },
+    {
+      "name": "Cassini",
+      "dates": [
+        {
+          "date": "15 Oct 1997:",
+          "text": "Launch"
+        },
+        {
+          "date": "30 Dec 2000:",
+          "text": "Jupiter Flyby"
+        },
+        {
+          "date": "1 Jul 2004:",
+          "text": "Saturn Orbit Insertion"
+        },
+        {
+          "date": "24 Dec 2004:",
+          "text": "Huygens Probe Release"
+        },
+        {
+          "date": "14 Jan 2005:",
+          "text": "Huygens Probe Landing"
+        },
+        {
+          "date": "Status:",
+          "text": "Extended Mission in Progress"
+        }
+      ],
+      "goals": {
+        "Goals": ": Cassini's primary science target was Saturn. To get there, the spacecraft used Venus' gravity to build enough speed to travel to the outer solar system. The two flybys also provided a chance for instruments tests and a peek at Earth's mysterious cloud-shrouded neighbor.",
+        "Accomplishments": ": The gravity assist was a success. Science instruments on the spacecraft searched for lightning in Venus' atmosphere during the flyby, and the radar instrument bounced a test signal off Venus' surface. Scientists detected no high-frequency radio waves commonly associated with lightning, fueling the debate about Venusian lightning that began in 1978 when a Russian Venera spacecraft reported potential signs of lightning."
+      }
+    },
+    {
+      "name": "Venus Express",
+      "dates": [
+        {
+          "date": "9 Nov 2005:",
+          "text": "Launch"
+        },
+        {
+          "date": "Status:",
+          "text": "Extended Mission in Progress"
+        }
+      ],
+      "goals": {
+        "Goals": ": The European Space Agency's Venus Express is designed to study the atmosphere of Venus, from the surface to the ionosphere. The mission is reusing the same design as ESA's Mars Express and spare parts from other deep space missions.",
+        "Accomplishments": ": Since it reached Venus in April 2006, Venus Express has logged many firsts at our solar system's second planet. One of the most significant findings was signs Venus has been volcanically active in the last three million years -- suggesting the planet may still be geologically active.\nThe orbiter also made  extensive meteorological maps of Venus, providing measurements of wind fields and temperatures and the chemical composition of the atmosphere. The spacecraft found a striking double-eyed atmospheric vortex that dominates the south pole. It detected water molecules escaping into space, found concrete evidence for lightning in the Venusian atmosphere, and provided infrared glimpses of the hot surface."
+      }
+    },
+    {
+      "name": "Akatsuki",
+      "dates": [
+        {
+          "date": "21 May 2010:",
+          "text": "Launch"
+        },
+        {
+          "date": "Status:",
+          "text": "In Review"
+        }
+      ],
+      "goals": {
+        "Goals:": " Akatsuki is Japan's first mission to Venus. The spacecraft was designed to orbit Venus following the westward rotation of the atmosphere, mapping the circulation and vertical structure of the planet's thick clouds.",
+        "Accomplishments:": " The spacecraft did not achieve Venus orbit insertion in December 2010 as planned. Mission planners are evaluating the spacecraft and determining the feasibility of trying again when the spacecraft returns to Venus in six years."
+      }
+    },
+    {
+      "name": "VeSpR",
+      "dates": [
+        {
+          "date": "26 Nov 2013:",
+          "text": "Launch (8:50 p.m. (EST))"
+        },
+        {
+          "date": "Status:",
+          "text": "Success"
+        }
+      ],
+      "goals": {
+        "Goals": ": The Venus Spectral Rocket Experiment (VeSpR) will investigate the the escape of water from Venus' atmosphere during the flight of a suborbital rocket. The sounding rocket will carry a telescope above most of Earth's atmosphere where it can observe ultraviolet light from Venus that would normally be absorbed by Earth's atmosphere. Total flight time is less than 10 minutes. The telescope can be recovered and reused.",
+        "Accomplishments": ": VeSpR launched successfully from White Sands, N.M. with all systems working well.  Analysis of the data to follow."
+      }
+    }
+  ],
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Known by the Ancients"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "Unknown"
+      }
+    ],
+    "Orbit Size Around Sun (semi-major axis)": [
+      {
+        "text": "108,209,475 km",
+        "type": "Metric"
+      },
+      {
+        "text": "67,238,251 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.0820948 x 108 km (7.2333566 x 10-1 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.723 x Earth"
+      }
+    ],
+    "Perihelion (closest)": [
+      {
+        "text": "107,476,170 km",
+        "type": "Metric"
+      },
+      {
+        "text": "66,782,596 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.07476 x 108 km (7.184 x 10-1 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.731 x Earth"
+      }
+    ],
+    "Aphelion (farthest)": [
+      {
+        "text": "108,942,780 km",
+        "type": "Metric"
+      },
+      {
+        "text": "67,693,905 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.08943 x 108 km (0.7282 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.716 x Earth"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.61519726 Earth years "
+      },
+      {
+        "text": "224.70 Earth days "
+      },
+      {
+        "type": "comparison",
+        "text": "0.615 x Earth"
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "679,892,378 km",
+        "type": "Metric"
+      },
+      {
+        "text": "422,465,538 miles",
+        "type": "English"
+      },
+      {
+        "text": "6.799 x 108 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.723 x Earth"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "126,074 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "78,339 mph",
+        "type": "English"
+      },
+      {
+        "text": "3.5020 x 104 m/s",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "1.176 x Earth"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.00677672"
+      },
+      {
+        "type": "comparison",
+        "text": "0.406 x Earth"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "3.39 degrees"
+      }
+    ],
+    "Equatorial Inclination to Orbit": [
+      {
+        "text": "177.3 degrees (retrograde rotation)"
+      },
+      {
+        "type": "comparison",
+        "text": "7.56 x Earth"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "6,051.8 km",
+        "type": "Metric"
+      },
+      {
+        "text": "3,760.4 miles",
+        "type": "English"
+      },
+      {
+        "text": "6.0518 x 103 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.9499 x Earth"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "38,024.6 km",
+        "type": "Metric"
+      },
+      {
+        "text": "23,627.4 miles",
+        "type": "English"
+      },
+      {
+        "text": "3.80246 x 104 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.9499 x Earth's"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "928,415,345,893 km3",
+        "type": "Metric"
+      },
+      {
+        "text": "222,738,686,740 mi3",
+        "type": "English"
+      },
+      {
+        "text": "9.28415 x 1011 km3",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.857 x Earth's"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "4,867,320,000,000,000,000,000,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "4.8673 x 1024 kg",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.815 x Earth"
+      }
+    ],
+    "Density": [
+      {
+        "text": "5.243 g/cm3",
+        "type": "Metric"
+      },
+      {
+        "type": "comparison",
+        "text": "Comparable to the average density of the Earth."
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "460,234,317 km2",
+        "type": "Metric"
+      },
+      {
+        "text": "177,697,463 square miles",
+        "type": "English"
+      },
+      {
+        "text": "4.6023 x 108 km2",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.902 x Earth"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "8.87 m/s2",
+        "type": "Metric"
+      },
+      {
+        "text": "29.1 ft/s2",
+        "type": "English"
+      },
+      {
+        "type": "comparison",
+        "text": "If you weigh 100 pounds on Earth, you would weigh 91 pounds on Venus."
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "37,296 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "23,175 mph",
+        "type": "English"
+      },
+      {
+        "text": "1.036 x 104 m/s",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.926 x Earth"
+      }
+    ],
+    "Sidereal Rotation Period (Length of Day)": [
+      {
+        "text": "-243.018 Earth days (retrograde)"
+      },
+      {
+        "text": "-5832.4 hours (retrograde)"
+      },
+      {
+        "type": "comparison",
+        "text": "243.68 x Earth"
+      }
+    ],
+    "Minimum/Maximum Surface Temperature": [
+      {
+        "text": "462 °C",
+        "type": "Metric"
+      },
+      {
+        "text": "864 °F",
+        "type": "English"
+      },
+      {
+        "text": "735 K",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Atmospheric Constituents": [
+      {
+        "text": "Carbon Dioxide, Nitrogen"
+      },
+      {
+        "text": "CO2, N2",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "Earth's atmosphere consists mostly of N2 and O2.CO2 is largely responsible for the Greenhouse Effect and is used for carbonation in beverages.N2 is 80% of Earth's air and is a crucial element in DNA."
+      }
+    ]
+  }
+}

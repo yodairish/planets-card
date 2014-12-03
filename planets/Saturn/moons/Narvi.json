@@ -1,0 +1,130 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Scott S. Sheppard, David C. Jewitt and Jan T. Kleyna"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "8 April 2003"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "19,417,300 km",
+        "type": "Metric"
+      },
+      {
+        "text": "12,065,351 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "11,143,588 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "27,691,012 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "2.748090349 Earth years "
+      },
+      {
+        "text": "1,003.74 Earth days "
+      },
+      {
+        "type": "comparison",
+        "text": "Retrograde orbit"
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "116,260,381.58 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "4,826.1 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.4261"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "143.242"
+      },
+      {
+        "type": "comparison",
+        "text": "Retrograde orbit"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "3.5 (assuming an albedo of 0.04) km",
+        "type": "Metric"
+      },
+      {
+        "text": "2.2 miles",
+        "type": "English"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "22.0 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "180 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "344,693,739,612,354 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "3.4469 x 1014 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "2.3 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "153.94 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.002 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "13 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

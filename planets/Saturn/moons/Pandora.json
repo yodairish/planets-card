@@ -1,0 +1,122 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "S. A. Collins, D. Carlson, Voyager 1"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1980"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "141,720 km",
+        "type": "Metric"
+      },
+      {
+        "text": "88,061 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "141,125 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "142,315 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.001722108 Earth years "
+      },
+      {
+        "text": "0.629 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "890,449.09 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "58,985.8 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0042"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.05 degree"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "40.7 km",
+        "type": "Metric"
+      },
+      {
+        "type": "comparison",
+        "text": "55.0 x 44.0 x 31.0 km, tri-axial"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "255.7 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "282,405 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "138,476,963,218,181,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "1.3848 x 1017 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "0.49 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "20,816.07 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.006 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "77 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

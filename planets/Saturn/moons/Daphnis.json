@@ -1,0 +1,110 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Cassini Imaging Science Team"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1 May 2005"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "136,500 km",
+        "type": "Metric"
+      },
+      {
+        "text": "84,817 miles",
+        "type": "English"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.001626283 Earth years "
+      },
+      {
+        "text": "0.594 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "857,654.79 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "60,161.0 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "3.8 ± 0.8 km",
+        "type": "Metric"
+      },
+      {
+        "text": "2.4 ± 0.5 miles",
+        "type": "English"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "23.9 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "230 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "77,930,758,521,054 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "7.7931 x 1013 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "0.34 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "181.46 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.00036 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "6 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

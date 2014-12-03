@@ -1,0 +1,126 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Charles T. Kowal"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "14 September 1974"
+      }
+    ],
+    "Orbit Size Around Jupiter (semi-major axis)": [
+      {
+        "text": "11,165,000 km",
+        "type": "Metric"
+      },
+      {
+        "text": "6,937,609 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "9,338,406 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "12,991,594 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.660 Earth years "
+      },
+      {
+        "text": "240.92 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "69,679,979.34 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "12,051.0 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.1636"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "27.457"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "10.0 (assuming an albedo of 0.04) km",
+        "type": "Metric"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "62.8 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "4,189 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "10,940,279,561,609,500 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "1.0940 x 1016 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "2.6 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "1,256.64 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.007 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "43 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "27 mph",
+        "type": "English"
+      },
+      {
+        "text": "12 m/s",
+        "type": "Scientific Notation"
+      }
+    ]
+  }
+}

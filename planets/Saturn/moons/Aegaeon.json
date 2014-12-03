@@ -1,0 +1,111 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "C. C. Porco, Cassini Imaging Science Team"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "Aug. 15, 2008"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "16,7500 km km",
+        "type": "Metric"
+      },
+      {
+        "text": "104,080 miles",
+        "type": "English"
+      }
+    ],
+    "Orbit Period (Length of Year)": [
+      {
+        "text": "0.002212183 Earth years "
+      },
+      {
+        "text": "0.808 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "1,052,433.54 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "54,271.5 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.000"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.001"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "0.3 km",
+        "type": "Metric"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "1.9 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "0.1 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "59,946,737,324 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "5.9947 x 1010 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "0.5 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "1.13 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.00004 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "1 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Rotation Period (Length of Day)": [
+      {
+        "text": "0.808 hours "
+      }
+    ]
+  }
+}

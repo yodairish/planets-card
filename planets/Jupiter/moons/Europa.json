@@ -1,0 +1,140 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Galileo Galilei"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1610"
+      }
+    ],
+    "Orbit Size Around Jupiter (semi-major axis)": [
+      {
+        "text": "671,100 km",
+        "type": "Metric"
+      },
+      {
+        "text": "417,002 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "664,792 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "677,408 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.009722108 Earth years "
+      },
+      {
+        "text": "3.551181041 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "4,216,552.51 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "49,476.1 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0094"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.466 degree"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "1,560.8 km",
+        "type": "Metric"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "9806.8 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "15,926,867,918 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "47,998,438,387,492,700,000,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "4.7998 x 1022 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "3.013 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "30,612,893.23 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "1.315 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "7,293 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "4,532 mph",
+        "type": "English"
+      },
+      {
+        "text": "2026 m/s",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Sidereal Rotation Period (Length of Day)": [
+      {
+        "text": "3.551 Earth days "
+      },
+      {
+        "type": "comparison",
+        "text": "Synchronous with orbital period"
+      }
+    ],
+    "Atmospheric Constituents": [
+      {
+        "text": "Oxygen"
+      }
+    ]
+  }
+}

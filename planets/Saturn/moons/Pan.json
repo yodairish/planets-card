@@ -1,0 +1,106 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Mark R. Showalter, Voyager 2"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1990"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "133,580 km",
+        "type": "Metric"
+      },
+      {
+        "text": "83,003 miles",
+        "type": "English"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.001574264 Earth years "
+      },
+      {
+        "text": "0.575 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "839,307.89 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "60,819.4 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0"
+      }
+    ],
+    "Equatorial Inclination to Orbit": [
+      {
+        "text": "0.001"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "14.1 km",
+        "type": "Metric"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "88.6 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "11,742 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "4,945,605,829,220,740 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "4.9456 x 1015 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "0.42 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "2,498.32 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.002 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "25 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

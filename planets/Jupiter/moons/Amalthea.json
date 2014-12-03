@@ -1,0 +1,136 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Edward Emerson Barnard"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1892"
+      }
+    ],
+    "Orbit Size Around Jupiter (semi-major axis)": [
+      {
+        "text": "181,400 km",
+        "type": "Metric"
+      },
+      {
+        "text": "112,717 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "180,820 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "181,980 km",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Period (Length of Year)": [
+      {
+        "text": "0.00136345 Earth years "
+      },
+      {
+        "text": "0.498 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "1,139,766.90 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "95,362.0 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0032"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.38 degrees"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "83.45 km",
+        "type": "Metric"
+      },
+      {
+        "type": "comparison",
+        "text": "131 x 73 x 67 km, tri-axial"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "524.3 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "2,434,264 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "2,068,162,437,674,130,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "2.0682 x 1018 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "0.849 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "87,510.98 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.020 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "207 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "129 mph",
+        "type": "English"
+      },
+      {
+        "text": "58 m/s",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Rotation Period (Length of Day)": [
+      {
+        "type": "comparison",
+        "text": "Synchronous with orbital period"
+      }
+    ]
+  }
+}

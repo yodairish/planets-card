@@ -1,0 +1,142 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Philibert Jacques Melotte"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "27 January 1908"
+      }
+    ],
+    "Orbit Size Around Jupiter (semi-major axis)": [
+      {
+        "text": "23,624,000 km",
+        "type": "Metric"
+      },
+      {
+        "text": "14,679,273 miles",
+        "type": "English"
+      },
+      {
+        "text": "2.3624x107 km (1.5792x10-1 A.U.)",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "13,961,784 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "33,286,216 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "2.035947981 Earth years "
+      },
+      {
+        "text": "743.63 Earth days "
+      },
+      {
+        "type": "comparison",
+        "text": "Retrograde orbit"
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "142,016,762.95 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "7,957.4 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.409"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "151.431"
+      },
+      {
+        "type": "comparison",
+        "text": "Retrograde orbit"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "30.0 (assuming an albedo of 0.04) km",
+        "type": "Metric"
+      },
+      {
+        "text": "18.6 miles",
+        "type": "English"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "188.5 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "113,097 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "299,733,686,619,439,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "2.9973x1017 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "2.6 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "11,309.73 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.022 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "131 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "82 mph",
+        "type": "English"
+      },
+      {
+        "text": "37 m/s",
+        "type": "Scientific Notation"
+      }
+    ]
+  }
+}

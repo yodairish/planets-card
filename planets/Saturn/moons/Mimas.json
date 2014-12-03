@@ -1,0 +1,138 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "William Herschel"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "17 September 1789"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "185,539 km",
+        "type": "Metric"
+      },
+      {
+        "text": "115,289 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.85539x105 km (1.24025x10-3 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.00124025"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "181,902 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "189,176 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.00258 Earth years "
+      },
+      {
+        "text": "0.942 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "1,165,663.95 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "51,559.8 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0196"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "1.574"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "198.20±0.25 km",
+        "type": "Metric"
+      },
+      {
+        "text": "123.16±0.16 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.982x102 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.0311"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "1,245.3 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "32,613,662 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "37,505,676,206,690,400,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "3.7506E+19 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "1.15 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "493,647.75 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.064 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "0.158912805 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "G. Kuiper"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1949"
+      }
+    ],
+    "Orbit Size Around Neptune (semi-major axis)": [
+      {
+        "text": "5,513,818 km",
+        "type": "Metric"
+      },
+      {
+        "text": "3,426,128 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "1,374,595 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "9,653,041 km",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Period (Length of Year)": [
+      {
+        "text": "0.985982204 Earth years "
+      },
+      {
+        "text": "360.13 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "29,067,053.44 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "3,363.0 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.7507"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "7.09 degrees"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "170 km",
+        "type": "Metric"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "1,068.1 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "20,579,526 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "30,872,569,721,802,200,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "3.0873 x 1019 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "1.5 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "363,168.11 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.071 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "560 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "348 mph",
+        "type": "English"
+      },
+      {
+        "text": "156 m/s",
+        "type": "Scientific Notation"
+      }
+    ]
+  }
+}

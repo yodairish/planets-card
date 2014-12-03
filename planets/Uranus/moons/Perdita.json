@@ -1,0 +1,76 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Erich Karkoschka / Voyager 2"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "18 May 1999 (verified in Voyager 2 images dating back to January 18, 1986)"
+      }
+    ],
+    "Orbit Size Around Uranus (semi-major axis)": [
+      {
+        "text": "76,417 km",
+        "type": "Metric"
+      },
+      {
+        "text": "47,483 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "75,531 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "77,303 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.001746749 Earth years "
+      },
+      {
+        "text": "0.638 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "480,126.02 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "31,356.2 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0116"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.47"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "15 ± 3 km",
+        "type": "Metric"
+      },
+      {
+        "text": "9 ± 2 miles",
+        "type": "English"
+      }
+    ]
+  }
+}

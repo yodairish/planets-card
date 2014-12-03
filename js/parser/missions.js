@@ -41,21 +41,25 @@ module.exports = function(options, cb) {
    */
   function parseHtml(errors, window) {
     if (!window) {
-      console.log(errors);
-      
-      return false;
+      cb('missions');
+      return;
     }
     
     var missions = window.document.querySelectorAll('.l2missiontitle');
     
     missionsCount = missions.length;
 
-    _(missions).forEach(function(mission) {
-      jsdom.env(
-        mission.href,
-        parseHtmlDetail
-      );
-    });
+    if (missionsCount) {
+      _(missions).forEach(function(mission) {
+        jsdom.env(
+          mission.href,
+          parseHtmlDetail
+        );
+      });
+      
+    } else {
+      cb('missions');
+    }
   }
   
   /**
@@ -67,20 +71,18 @@ module.exports = function(options, cb) {
   function parseHtmlDetail(errors, window) {
     missionsCount--;
     
-    if (!window) {
-      return false;
+    if (window) {
+      var doc = window.document,
+          name = doc.querySelector('.pageTitle').textContent,
+          keyDates = getKeyDates(doc),
+          goals = getGoals(doc);
+      
+      missionsData.push({
+        name: name,
+        dates: keyDates,
+        goals: goals
+      });
     }
-    
-    var doc = window.document,
-        name = doc.querySelector('.pageTitle').textContent,
-        keyDates = getKeyDates(doc),
-        goals = getGoals(doc);
-    
-    missionsData.push({
-      name: name,
-      dates: keyDates,
-      goals: goals
-    });
     
     if (!missionsCount) {
       write.add({
@@ -89,7 +91,7 @@ module.exports = function(options, cb) {
         planet: options.planet
       });
       
-      cb();
+      cb('missions');
     }
   }
   

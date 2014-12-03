@@ -1,0 +1,112 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "S. Synnott, Voyager 2"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1989"
+      }
+    ],
+    "Orbit Size Around Neptune (semi-major axis)": [
+      {
+        "text": "52,526 km",
+        "type": "Metric"
+      },
+      {
+        "text": "32,638 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "52,515 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "52,537 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.00091718 Earth years "
+      },
+      {
+        "text": "0.335 Earth days "
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "41,048.6 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.000"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.07 degree"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "75.0 km",
+        "type": "Metric"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "471.2 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "1,767,146 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "2,098,135,806,336,070,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "2.0981 x 1018 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "1.3 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "70,685.83 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.025 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "220 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

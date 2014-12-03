@@ -1,0 +1,134 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Jim V. Scotti, Timothy B. Spahr, Robert S. McMillan, Jeffrey A. Larsen, Joe Montani, Arianna E. Gleason, and Tom Gehrels"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "19 October 1999"
+      }
+    ],
+    "Orbit Size Around Jupiter (semi-major axis)": [
+      {
+        "text": "24,102,000 km",
+        "type": "Metric"
+      },
+      {
+        "text": "14,976,288 miles",
+        "type": "English"
+      },
+      {
+        "type": "comparison",
+        "text": "0.16111"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "17,283,544 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "30,920,456 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "2.077399042 Earth years "
+      },
+      {
+        "text": "758.77 Earth days "
+      },
+      {
+        "type": "comparison",
+        "text": "Retrograde orbit"
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "148,360,304.47 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "8,147.0 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.2829"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "147.155"
+      },
+      {
+        "type": "comparison",
+        "text": "Retrograde orbit"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "4.3 km",
+        "type": "Metric"
+      },
+      {
+        "text": "2.7 miles",
+        "type": "English"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "27.0 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "333 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "869,227,691,196,372 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "8.6923 x 1014 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "2.6 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "232.35 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.003 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "19 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

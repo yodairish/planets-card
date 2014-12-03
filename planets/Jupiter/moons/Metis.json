@@ -1,0 +1,126 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Stephen SynnottVoyager 2"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1980"
+      }
+    ],
+    "Orbit Size Around Jupiter (semi-major axis)": [
+      {
+        "text": "128,000 km",
+        "type": "Metric"
+      },
+      {
+        "text": "79,536 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "127,846 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "128,154 km",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Period (Length of Year)": [
+      {
+        "text": "0.000807666 Earth years "
+      },
+      {
+        "text": "0.295 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "804,247.43 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "113,594.3 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0012"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.019"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "21.5 km",
+        "type": "Metric"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "135.1 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "41,630 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "119,893,474,647,775,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "1.1989 x 1017 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "3 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "5,808.80 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.017 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "98 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "61 mph",
+        "type": "English"
+      },
+      {
+        "text": "27 m/s",
+        "type": "Scientific Notation"
+      }
+    ]
+  }
+}

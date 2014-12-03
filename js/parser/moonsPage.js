@@ -54,6 +54,10 @@ module.exports = function(options, cb) {
           planet: options.planet
         });
       }
+      
+      if (!moonsCount) {
+        cb('moons');
+      }
     }
   }
   
@@ -103,7 +107,7 @@ module.exports = function(options, cb) {
     moonsCount--;
     
     if (!moonsCount) {
-      cb();
+      cb('moons');
     }
   }
 };

@@ -1,0 +1,130 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "B. Gladman, P. Nicholson, J. A. Burns, and J. Kavelaars"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "6 September 1997"
+      }
+    ],
+    "Orbit Size Around Uranus (semi-major axis)": [
+      {
+        "text": "7,231,100 km",
+        "type": "Metric"
+      },
+      {
+        "text": "4,493,197 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "5,920,825 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "8,541,375 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "1.587214237 Earth years "
+      },
+      {
+        "text": "579.73 Earth days "
+      },
+      {
+        "type": "comparison",
+        "text": "Retrograde orbit"
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "45,059,071.93 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "3,238.5 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.1812"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "141.529 degrees relative to the ecliptic plane"
+      },
+      {
+        "type": "comparison",
+        "text": "Retrograde orbit"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "36.0 (assuming an albedo of 0.04) km",
+        "type": "Metric"
+      },
+      {
+        "text": "22.4 (assuming an albedo of 0.04) miles",
+        "type": "English"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "226.2 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "195,432 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "299,733,686,619,439,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "2.9973 x 1017 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "1.5 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "16,286.02 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.015 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "120 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

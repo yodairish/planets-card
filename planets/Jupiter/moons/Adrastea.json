@@ -1,0 +1,130 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "D. Jewitt,E. DanielsonVoyager 2"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1979"
+      }
+    ],
+    "Orbit Size Around Jupiter (semi-major axis)": [
+      {
+        "text": "129,000 km",
+        "type": "Metric"
+      },
+      {
+        "text": "80,157 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "128,768 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "129,232 km",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Period (Length of Year)": [
+      {
+        "text": "0.00081588 Earth years "
+      },
+      {
+        "text": "0.298 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "810,530.25 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "113,329.2 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0018"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.054"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "8.2 km",
+        "type": "Metric"
+      },
+      {
+        "type": "comparison",
+        "text": "13 x 10 x 8 km, tri-axial"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "51.5 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "2,310 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "7,493,342,165,485,970 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "7.4933 x 1015 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "3 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "844.96 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.007 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "40 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "25 mph",
+        "type": "English"
+      },
+      {
+        "text": "11 m/s",
+        "type": "Scientific Notation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Matthew J. Holman, John J. Kavelaars, Tommy Grav, Wesley C. Fraser, and Dan Milisavljevic"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "13 August 2002"
+      }
+    ],
+    "Orbit Size Around Neptune (semi-major axis)": [
+      {
+        "text": "23,567,000 km",
+        "type": "Metric"
+      },
+      {
+        "text": "14,643,855 miles",
+        "type": "English"
+      },
+      {
+        "text": "2.3567x107 km",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "14,213,258 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "32,920,742 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "8.682628337 Earth years "
+      },
+      {
+        "text": "3,171.33 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "142,059,611.72 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "1,866.5 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.3969"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "37.874"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "21.0 (assuming an albedo of 0.04) km",
+        "type": "Metric"
+      },
+      {
+        "text": "13.0 miles",
+        "type": "English"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "131.9 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "38,792 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "89,920,105,985,831,600 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "8.9920x1016 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "1.5 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "5,541.77 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.014 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "86 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

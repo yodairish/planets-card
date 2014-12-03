@@ -1,0 +1,114 @@
+{
+	"Venus": {
+		"temperature": {
+			"min": 100,
+			"max": 700,
+			"mean": 340
+		},
+		"atmosphere": {
+			"oxygen": 42,
+			"sodium": 29,
+			"hydrogen": 22, 
+			"helium": 6
+		}
+	},
+	"Venus": {
+		"temperature": {
+			"mean": 737
+		},
+		"atmosphere": {
+			"carbon": 96,
+			"nitrogen": 4
+		}
+	},
+	"Earth": {
+		"temperature": {
+			"min": 184,
+			"max": 330,
+			"mean": 288
+		},
+		"atmosphere": {
+			"nitrogen": 78,
+			"oxygen": 20
+		}
+	},
+	"Mars": {
+		"temperature": {
+			"min": 130,
+			"max": 308,
+			"mean": 210
+		},
+		"atmosphere": {
+			"carbon": 96,
+			"argon": 2,
+			"nitrogen": 2
+		}
+	},
+	"Jupiter": {
+		"temperature": {
+			"mean": 165
+		},
+		"atmosphere": {
+			"hydrogen": 90,
+			"helium": 10
+		}
+	},
+	"Saturn": {
+		"temperature": {
+			"mean": 134
+		},
+		"atmosphere": {
+			"hydrogen": 96,
+			"helium": 3
+		}
+	},
+	"Uranus": {
+		"temperature": {
+			"mean": 76
+		},
+		"atmosphere": {
+			"hydrogen": 83,
+			"helium": 15,
+			"methane": 2
+		}
+	},
+	"Neptune": {
+		"temperature": {
+			"mean": 72
+		},
+		"atmosphere": {
+			"hydrogen": 80,
+			"helium": 19,
+			"methane": 1
+		}
+	},
+	"Titan": {
+		"temperature": {
+			"mean": 93
+		},
+		"atmosphere": {
+			"nitrogen": 98,
+			"methane": 1
+		}
+	},
+	"Io": {
+		"temperature": {
+			"min": 90,
+			"max": 130,
+			"mean": 110
+		},
+		"atmosphere": {
+			"sulfur": 90 
+		}
+	},
+	"Moon": {
+		"temperature": {
+			"min": 100,
+			"max": 390,
+			"mean": 220
+		},
+		"atmosphere": {
+			
+		}
+	}
+}

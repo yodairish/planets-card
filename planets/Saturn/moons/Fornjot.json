@@ -1,0 +1,58 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Scott S. Sheppard, David L. Jewitt and Jan T. Kleyna"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "12 December 2004"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "25,151,200 km",
+        "type": "Metric"
+      },
+      {
+        "text": "15,628,200 miles",
+        "type": "English"
+      },
+      {
+        "text": "2.51512x107 km (1.68125x10-1 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.168125"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "-4.0910 Earth years (retrograde)"
+      },
+      {
+        "text": "-1,494.19 Earth days (retrograde)"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "3.0 (assuming an albedo of 0.04) km",
+        "type": "Metric"
+      },
+      {
+        "text": "1.9 miles",
+        "type": "English"
+      },
+      {
+        "text": "3.0x100 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.0005"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Audouin Dollfus"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1966"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "151,460 km",
+        "type": "Metric"
+      },
+      {
+        "text": "94,113 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "150,430 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "152,490 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.001902806 Earth years "
+      },
+      {
+        "text": "0.695 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "951,640.25 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "57,052.8 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0068"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.163 degree"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "89.5 km",
+        "type": "Metric"
+      },
+      {
+        "type": "comparison",
+        "text": "97.0 x 95.0 x 77.0 km, tri-axial"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "562.3 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "3,003,016 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "1,892,818,231,001,750,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "1.8928 x 1018 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "0.63 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "100,659.77 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.016 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "191 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Rotation Period (Length of Day)": [
+      {
+        "type": "comparison",
+        "text": "Synchronous with Saturn"
+      }
+    ]
+  }
+}

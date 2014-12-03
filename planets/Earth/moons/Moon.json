@@ -1,0 +1,299 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Known by the Ancients"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "Unknown"
+      }
+    ],
+    "Orbit Size Around Earth (semi-major axis)": [
+      {
+        "text": "384,400 km",
+        "type": "Metric"
+      },
+      {
+        "text": "238,855 miles",
+        "type": "English"
+      },
+      {
+        "text": "3.84400 x 105 km (0.00257 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.00257 x Earth's Distance from the Sun"
+      }
+    ],
+    "Average Distance from Earth": [
+      {
+        "text": "384,400 km",
+        "type": "Metric"
+      },
+      {
+        "text": "238,855 miles",
+        "type": "English"
+      },
+      {
+        "text": "3.844 x 105 km (2.570 x 10-3 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.00257 x Earth's distance from the Sun"
+      }
+    ],
+    "Perigee (closest)": [
+      {
+        "text": "363,104 km",
+        "type": "Metric"
+      },
+      {
+        "text": "225,623 miles",
+        "type": "English"
+      },
+      {
+        "text": "3.631 x 105 km (2.427 x 10-3 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.00243 x Earth's distance from the Sun"
+      }
+    ],
+    "Apogee (farthest)": [
+      {
+        "text": "405,696 km",
+        "type": "Metric"
+      },
+      {
+        "text": "252,088 miles",
+        "type": "English"
+      },
+      {
+        "text": "4.057 x 105 km (2.712 x 10-3 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.00271 x Earth's distance from the Sun"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.074803559 Earth years "
+      },
+      {
+        "text": "27.322 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "2,413,402.16 km",
+        "type": "Metric"
+      },
+      {
+        "text": "1,499,618.58 miles",
+        "type": "English"
+      },
+      {
+        "text": "2.413 x 106 km",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "3,680.5 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "2,287.0 mph",
+        "type": "English"
+      },
+      {
+        "text": "1,022 m/s",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.034 x Earth"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0554"
+      },
+      {
+        "type": "comparison",
+        "text": "3.315 x Earth"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "5.16 degrees"
+      },
+      {
+        "type": "comparison",
+        "text": "Oscillates roughly 0.15 degrees in 173 days."
+      }
+    ],
+    "Equatorial Inclination to Orbit": [
+      {
+        "text": "6.68 degrees"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "1737.5 km",
+        "type": "Metric"
+      },
+      {
+        "text": "1079.6 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.738 x 103 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.2727 x Earth"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "10,917.0 km",
+        "type": "Metric"
+      },
+      {
+        "text": "6,783.5 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.0917 x 104 km",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "21,971,669,064 km3",
+        "type": "Metric"
+      },
+      {
+        "text": "2.197 x 1010 km3",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.020 x Earth"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "73,476,730,924,573,500,000,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "7.3477 x 1022 kg",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.0123 x Earth"
+      }
+    ],
+    "Density": [
+      {
+        "text": "3.344 g/cm3",
+        "type": "Metric"
+      },
+      {
+        "type": "comparison",
+        "text": "0.607 x Earth"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "37,936,694.79 km2",
+        "type": "Metric"
+      },
+      {
+        "text": "14,647,439.75 square miles",
+        "type": "English"
+      },
+      {
+        "text": "3.793669 x 107 km2",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.074 x Earth"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "1.624 m/s2",
+        "type": "Metric"
+      },
+      {
+        "text": "5.328 ft/s2",
+        "type": "English"
+      },
+      {
+        "text": "1.624 m/s2",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.166 x Earth"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "8,552 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "5,314 mph",
+        "type": "English"
+      },
+      {
+        "text": "2,376 m/s",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.212 x Earth"
+      }
+    ],
+    "Sidereal Rotation Period (Length of Day)": [
+      {
+        "text": "27.322 Earth days "
+      },
+      {
+        "text": "655.73 hours "
+      },
+      {
+        "type": "comparison",
+        "text": "Synchronous with Orbital Period"
+      }
+    ],
+    "Minimum/Maximum Surface Temperature": [
+      {
+        "text": "-233/123 °C",
+        "type": "Metric"
+      },
+      {
+        "text": "-387/253 °F",
+        "type": "English"
+      },
+      {
+        "text": "40/396 K",
+        "type": "Scientific Notation"
+      }
+    ]
+  }
+}

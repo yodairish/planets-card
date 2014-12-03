@@ -1,0 +1,128 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "William Herschel"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1789"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "238,037 km",
+        "type": "Metric"
+      },
+      {
+        "text": "147,909 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "236,918 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "239,156 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.003750856 Earth years "
+      },
+      {
+        "text": "1.37 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "1,495,622.32 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "45,487.3 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0047"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.009 degrees"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "252.1 km",
+        "type": "Metric"
+      },
+      {
+        "text": "156.6 miles",
+        "type": "English"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "1,584.0 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "67,113,076 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "107,944,591,230,692,000,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "1.0794 x 1020 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "1.608 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "798,648.27 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.113 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "861 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Rotation Period (Length of Day)": [
+      {
+        "type": "comparison",
+        "text": "Synchronous with Saturn"
+      }
+    ]
+  }
+}

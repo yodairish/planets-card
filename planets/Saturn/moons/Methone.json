@@ -1,0 +1,122 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "S. Charnoz, C. Porco, Cassini Imaging Team"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1 June 2004"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "194,440 km",
+        "type": "Metric"
+      },
+      {
+        "text": "120,819 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "194,421 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "194,459 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.002765229 Earth years "
+      },
+      {
+        "text": "1.01 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "1,221,702.55 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "50,400.3 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0001"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.007"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "1.6 km",
+        "type": "Metric"
+      },
+      {
+        "text": "1 miles",
+        "type": "English"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "10.1 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "17 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "8,992,010,598,583 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "8.9920 x 1012 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "0.5 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "32.17 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.00023 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "3 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

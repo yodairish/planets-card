@@ -35,6 +35,8 @@ if (types) {
  * @param {string} planet
  */
 module.exports = function(planet) {
+  var typesDone = processCount;
+  
   if (modules.facts) {
     facts({
       planet: planet,
@@ -55,16 +57,17 @@ module.exports = function(planet) {
       url: constant.MISSIONS_URL + constant.MISSION_TARGET + planet
     }, onDone);
   }
-};
-
-/**
- * Callback than module is complete
- */
-function onDone() {
-  console.log('done', processCount);
-  processCount--;
   
-  if (!processCount) {
-    write.done();
+  /**
+   * Callback than module is complete
+   * @param {string} msg
+   */
+  function onDone(msg) {
+    console.log(planet, typesDone, msg);
+    typesDone--;
+    
+    if (!typesDone) {
+      write.done();
+    }
   }
-}
+};

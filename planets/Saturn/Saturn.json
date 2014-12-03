@@ -1,0 +1,442 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Known by the Ancients"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "Unknown"
+      }
+    ],
+    "Orbit Size Around Sun (semi-major axis)": [
+      {
+        "text": "1,426,666,422 km",
+        "type": "Metric"
+      },
+      {
+        "text": "886,489,415 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.4266664 x 109 km (9.53667594 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "9.537 x Earth"
+      }
+    ],
+    "Perihelion (closest)": [
+      {
+        "text": "1,349,823,615 km",
+        "type": "Metric"
+      },
+      {
+        "text": "838,741,509 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.34982 x 109 km (9.023 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "9.176 x Earth"
+      }
+    ],
+    "Aphelion (farthest)": [
+      {
+        "text": "1,503,509,229 km",
+        "type": "Metric"
+      },
+      {
+        "text": "934,237,322 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.50351 x 109 km (1.005 x 101 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "9.885 x Earth"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "29.447498 Earth years "
+      },
+      {
+        "text": "10,755.70 Earth days "
+      },
+      {
+        "type": "comparison",
+        "text": "29.447 x Earth"
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "8,957,504,604 km",
+        "type": "Metric"
+      },
+      {
+        "text": "5,565,935,315 miles",
+        "type": "English"
+      },
+      {
+        "text": "8.958 x 109 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "9.530 x Earth"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "34,701 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "21,562 mph",
+        "type": "English"
+      },
+      {
+        "text": "9.6391 x 103 m/s",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.324 x Earth"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.05386179"
+      },
+      {
+        "type": "comparison",
+        "text": "3.223 x Earth"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "2.49 degrees"
+      }
+    ],
+    "Equatorial Inclination to Orbit": [
+      {
+        "text": "26.7 degrees"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "58,232 km",
+        "type": "Metric"
+      },
+      {
+        "text": "36,183.7 miles",
+        "type": "English"
+      },
+      {
+        "text": "5.8232 x 104 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "9.1402 x Earth"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "365,882.4 km",
+        "type": "Metric"
+      },
+      {
+        "text": "227,348.8 miles",
+        "type": "English"
+      },
+      {
+        "text": "3.65882 x 105 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "9.1402 x Earth"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "827,129,915,150,897 km3",
+        "type": "Metric"
+      },
+      {
+        "text": "198,439,019,647,006 mi3",
+        "type": "English"
+      },
+      {
+        "text": "8.2713 x 1014 km3",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "763.594 x Earth"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "568,319,000,000,000,000,000,000,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "5.6832 x 1026 kg",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "95.161 x Earth"
+      }
+    ],
+    "Density": [
+      {
+        "text": "0.687 g/cm3",
+        "type": "Metric"
+      },
+      {
+        "type": "comparison",
+        "text": "0.125 x Earth"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "42,612,133,285 km2",
+        "type": "Metric"
+      },
+      {
+        "text": "16,452,636,641 square miles",
+        "type": "English"
+      },
+      {
+        "text": "4.2612 x 1010 km2",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "83.543 x Earth"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "10.4* m/s2",
+        "type": "Metric"
+      },
+      {
+        "text": "34.3 ft/s2",
+        "type": "English"
+      },
+      {
+        "type": "comparison",
+        "text": "If you weigh 100 pounds on Earth, you would weigh about 107 pounds on Saturn (at the equator).  *Derived from a 1 bar radius of 60,268 km."
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "129,924 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "80,731 mph",
+        "type": "English"
+      },
+      {
+        "text": "3.609 x 104 m/s",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "Escape velocity of Earth is 25,030 mph."
+      }
+    ],
+    "Sidereal Rotation Period (Length of Day)": [
+      {
+        "text": "0.444 Earth days "
+      },
+      {
+        "text": "10.656 hours "
+      },
+      {
+        "type": "comparison",
+        "text": "0.445 x Earth"
+      }
+    ],
+    "Effective Temperature": [
+      {
+        "text": "-178 °C",
+        "type": "Metric"
+      },
+      {
+        "text": "-288 °F",
+        "type": "English"
+      },
+      {
+        "text": "95 K",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Atmospheric Constituents": [
+      {
+        "text": "Hydrogen, Helium"
+      },
+      {
+        "text": "H2, He",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "Earth's atmosphere consists mostly of N2 and O2."
+      }
+    ]
+  },
+  "moons": [
+    "Mimas",
+    "Enceladus",
+    "Tethys",
+    "Dione",
+    "Rhea",
+    "Titan",
+    "Hyperion",
+    "Iapetus",
+    "Erriapus",
+    "Phoebe",
+    "Janus",
+    "Epimetheus",
+    "Helene",
+    "Telesto",
+    "Calypso",
+    "Kiviuq",
+    "Atlas",
+    "Prometheus",
+    "Pandora",
+    "Pan",
+    "Ymir",
+    "Paaliaq",
+    "Tarvos",
+    "Ijiraq",
+    "Suttungr",
+    "Mundilfari",
+    "Albiorix",
+    "Skathi",
+    "Siarnaq",
+    "Thrymr",
+    "Narvi",
+    "Methone",
+    "Pallene",
+    "Polydeuces",
+    "Daphnis",
+    "Aegir",
+    "Bebhionn",
+    "Bergelmir",
+    "Bestla",
+    "Farbauti",
+    "Fenrir",
+    "Fornjot",
+    "Hati",
+    "Hyrrokkin",
+    "Kari",
+    "Loge",
+    "Skoll",
+    "Surtur",
+    "Greip",
+    "Jarnsaxa",
+    "Tarqeq",
+    "Anthe",
+    "Aegaeon"
+  ],
+  "missions": [
+    {
+      "name": "Pioneer 11",
+      "dates": [
+        {
+          "date": "5 Apr 1973:",
+          "text": "Launch (02:11 UT)"
+        },
+        {
+          "date": "3 Dec 1974:",
+          "text": "Jupiter Flyby"
+        },
+        {
+          "date": "1 Sep 1979:",
+          "text": "Saturn Flyby"
+        },
+        {
+          "date": "24 Nov 1995:",
+          "text": "Final Contact"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Pioneer 11 was the first mission to explore Saturn and the second spacecraft in humanity's early reconnaissance of the outer solar system. The spacecraft carried instruments to study magnetic fields, the solar wind and the atmospheres, moons and other aspects of Jupiter and Saturn.",
+        "Accomplishments": ": Among Pioneer 11's many discoveries are Saturn's F ring and a new moon. It recorded the planet's overall temperature at -180°C, indicating that it emits 2.5 times as much heat as it receives from the Sun. Photographs revealed a more featureless atmosphere than that of Jupiter, and calculations based on data from Pioneer 11 suggested that Saturn is primarily liquid hydrogen with a core of about 10 Earth masses.\nThe dormant spacecraft is now headed out of our solar system in the general direction of Sagittarius, toward the center of the galaxy. Both Pioneers 10 and 11 carry a plaque with a message for any intelligent beings that might find them."
+      }
+    },
+    {
+      "name": "Huygens",
+      "dates": [
+        {
+          "date": "15 Oct 1997:",
+          "text": "Launch"
+        },
+        {
+          "date": "14 Jan 2005:",
+          "text": "Titan Landing (11:30 UTC)"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": The 318 kg (852 pound) probe was designed to study the smog-like atmosphere of Saturn's largest moon Titan as it parachuted to the surface. It also carried cameras to photograph the moon's surface. Huygen's traveled to Saturn aboard NASA's Cassini orbiter.",
+        "Accomplishments": ": The Huygens probe successfully touched down on Titan in January 2005 -- the first spacecraft landing in the outer solar system and the farthest from Earth. The probe provided a detailed study Titan's atmosphere during a 2 hour and 27 minute descent and relayed data and images from Titan's muddy surface for another hour and 10 minutes."
+      }
+    },
+    {
+      "name": "Voyager 2",
+      "dates": [
+        {
+          "date": "20 Aug 1977:",
+          "text": "Launch"
+        },
+        {
+          "date": "9 Jul 1979:",
+          "text": "Jupiter Flyby (Closest Approach)"
+        },
+        {
+          "date": "26 Aug 1981:",
+          "text": "Saturn Flyby (Closest Approach)"
+        },
+        {
+          "date": "24 Jan 1986:",
+          "text": "Uranus Flyby (Closest Approach)"
+        },
+        {
+          "date": "25 Aug 1989:",
+          "text": "Neptune Flyby (Closest Approach)"
+        },
+        {
+          "date": "Status:",
+          "text": "Extended Mission in Progress"
+        }
+      ],
+      "goals": {
+        "Goals": ": Voyager 1 and 2 were designed to take advantage of a rare planetary alignment to explore the outer solar system. Voyager 2 targeted Jupiter, Saturn, Uranus and Neptune. Like it's sister spacecraft, Voyager 2 also was designed to study the edge of our solar system beyond the planets.",
+        "Accomplishments": ": Voyager 2 was to become the third spacecraft to visit Saturn. Its mission there was to follow up on the pictures and data returned by Voyager 1.\nVoyager 2 gave us another close-range look at Saturn and its moons. Using its photopolarimeter, an instrument that had failed on Voyager 1, Voyager 2 was able to observe the planet's rings at much higher resolution and to discover many more ringlets. It also provided more detailed images of the ring spokes and kinks, and of the F-ring and its shepherding moons. Finally, it employed a gravity-assist maneuver at Saturn to help it reach its next destination, Uranus."
+      }
+    }
+  ]
+}

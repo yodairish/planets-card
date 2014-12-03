@@ -1,0 +1,142 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "A. Hall"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1877"
+      }
+    ],
+    "Orbit Size Around Mars (semi-major axis)": [
+      {
+        "text": "23,458 km",
+        "type": "Metric"
+      },
+      {
+        "text": "14,576 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "23,453 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "23,463 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.003456263 Earth years "
+      },
+      {
+        "text": "1.2624 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "147,390.96 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "4,864.8 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0002"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "1.788 degrees"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "6.2 km",
+        "type": "Metric"
+      },
+      {
+        "type": "comparison",
+        "text": "7.5 x 6.1 x 5.2 km, tri-axial shape"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "39.0 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "998 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "1,476,188,406,600,740 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "1.4762 x 1015 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "1.471 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "483.05 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.003 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "20 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "13 mph",
+        "type": "English"
+      },
+      {
+        "text": "6 m/s",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Rotation Period (Length of Day)": [
+      {
+        "text": "1.2624 Earth days "
+      },
+      {
+        "text": "30.2976 hours "
+      },
+      {
+        "type": "comparison",
+        "text": "Synchronous with orbital period"
+      }
+    ]
+  }
+}

@@ -28,22 +28,20 @@ module.exports = function(options, cb) {
    * @param {Object=} window
    */
   function parseHtml(errors, window) {
-    if (!window) {
-      return;
+    if (window) {
+      var tableLines = window.document.querySelectorAll(
+        '.bodyContentTab .l2text > table > tbody > tr'
+      );
+  
+      write.add({
+        type: 'facts',
+        data: getProperties(tableLines),
+        planet: options.planet,
+        moon: options.moon
+      });
     }
     
-    var tableLines = window.document.querySelectorAll(
-      '.bodyContentTab .l2text > table > tbody > tr'
-    );
-
-    write.add({
-      type: 'facts',
-      data: getProperties(tableLines),
-      planet: options.planet,
-      moon: options.moon
-    });
-    
-    cb();
+    cb('facts');
   }
   
   /**

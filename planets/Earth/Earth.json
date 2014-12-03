@@ -1,0 +1,364 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Known by the Ancients"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "Unknown"
+      }
+    ],
+    "Orbit Size Around Sun (semi-major axis)": [
+      {
+        "text": "149,598,262 km",
+        "type": "Metric"
+      },
+      {
+        "text": "92,956,050 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.4959826 x 108 km (1.000 A.U.)",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Perihelion (closest)": [
+      {
+        "text": "147,098,291 km",
+        "type": "Metric"
+      },
+      {
+        "text": "91,402,640 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.47098 x 108 km (9.833 x 10-1 A.U.)",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Aphelion (farthest)": [
+      {
+        "text": "152,098,233 km",
+        "type": "Metric"
+      },
+      {
+        "text": "94,509,460 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.52098 x 108 km (1.017 A.U.)",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "1.0000174 Earth years "
+      },
+      {
+        "text": "365.26 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "939,887,974 km",
+        "type": "Metric"
+      },
+      {
+        "text": "584,019,311 miles",
+        "type": "English"
+      },
+      {
+        "text": "9.399 x 108 km",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "107,218 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "66,622 mph",
+        "type": "English"
+      },
+      {
+        "text": "2.9783 x 104 m/s",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.01671123"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.00005 degrees"
+      }
+    ],
+    "Equatorial Inclination to Orbit": [
+      {
+        "text": "23.4393 degrees"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "6,371.00 km",
+        "type": "Metric"
+      },
+      {
+        "text": "3,958.8 miles",
+        "type": "English"
+      },
+      {
+        "text": "6.3710 x 103 km",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "40,030.2 km",
+        "type": "Metric"
+      },
+      {
+        "text": "24,873.6 miles",
+        "type": "English"
+      },
+      {
+        "text": "4.00302 x 104 km",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "1,083,206,916,846 km3",
+        "type": "Metric"
+      },
+      {
+        "text": "259,875,159,532 mi3",
+        "type": "English"
+      },
+      {
+        "text": "1.08321 x 1012 km3",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "5,972,190,000,000,000,000,000,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "5.9722 x 1024 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "5.513 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "510,064,472 km2",
+        "type": "Metric"
+      },
+      {
+        "text": "196,936,994 square miles",
+        "type": "English"
+      },
+      {
+        "text": "5.1006 x 108 km2",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "9.80665 m/s2",
+        "type": "Metric"
+      },
+      {
+        "text": "32.041 ft/s2",
+        "type": "English"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "40,284 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "25,031 mph",
+        "type": "English"
+      },
+      {
+        "text": "1.119 x 104 m/s",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Sidereal Rotation Period (Length of Day)": [
+      {
+        "text": "0.99726968 Earth days "
+      },
+      {
+        "text": "23.934 hours "
+      }
+    ],
+    "Minimum/Maximum Surface Temperature": [
+      {
+        "text": "-88/58 (min/max) °C",
+        "type": "Metric"
+      },
+      {
+        "text": "-126/136 (min/max) °F",
+        "type": "English"
+      },
+      {
+        "text": "185/331 (min/max) K",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Atmospheric Constituents": [
+      {
+        "text": "Nitrogen, Oxygen"
+      },
+      {
+        "text": "N2, O2",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "N2 is 80% of Earth's air and is a crucial element in DNA."
+      }
+    ]
+  },
+  "moons": [
+    "Moon"
+  ],
+  "missions": [
+    {
+      "name": "Sputnik",
+      "dates": [
+        {
+          "date": "4 Oct 1957:",
+          "text": "Launch"
+        },
+        {
+          "date": "4 Jan 1958:",
+          "text": "Re-entered Earth's Atmosphere"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Sputnik was the opening shot in the space race between the United States and the former Soviet Union. The basketball-sized spacecraft was the world's first artificial satellite. It orbited the Earth sending back a beeping signal for 23 days.",
+        "Accomplishments": ": Sputnik created shockwaves back on Earth. It was an amazing technical achievement followed only a month later by the stunning launch of Sputnik II, which carried the first living thing - Laika the dog - into space. The U.S. responded in January 1958 with the launch of Explorer 1. Another American response to Sputnik: The creation of NASA in October 1958."
+      }
+    },
+    {
+      "name": "Explorer 1",
+      "dates": [
+        {
+          "date": "1 Feb 1958:",
+          "text": "Launch (31 Jan. 1958, 10:48 p.m. EST) (03:48 UT)"
+        },
+        {
+          "date": "23 May 1958:",
+          "text": "Last Data Transmitted"
+        },
+        {
+          "date": "31 Mar 1970:",
+          "text": "Re-entered Earth's Atmosphere"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Explorer 1 was the first spacecraft successfully launched by the U.S. It orbited Earth every 115 minutes, 358 kilometers (220 miles) above the surface at its closest point and 2,550 kilometers (1,580 miles) at its farthest. It carried instruments to measure cosmic rays, micrometeorites, and its own temperature, transmitting this data until May 23, 1958.",
+        "Accomplishments": ": Explorer 1 found a radiation belt around Earth, which came to be called the Van Allen radiation belt after James Van Allen, the scientist who built the cosmic ray detector. It also proved the United States could successfully launch a satellite into Earth orbit."
+      }
+    },
+    {
+      "name": "Bumper Project",
+      "dates": [
+        {
+          "date": "Jul 1946:",
+          "text": "Program Inception"
+        },
+        {
+          "date": "24 Jul 1950:",
+          "text": "First Launch From Cape Canaveral"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Bumper rockets were the first two-stage rockets -- a German V-2 missile coupled with an American-made WAC Corporal. They were designed to test high altitude rocket systems and study Earth's upper atmosphere.",
+        "Accomplishments": ": Bumper rockets were the first human-made objects to cross the boundary into outer space, although they did not orbit the Earth like Sputnik 1 (the first true spacecraft). The rocket's upper stages were able to reach then-record altitudes of up to 399 kilometers (248 miles), higher than even modern space shuttles fly. The rockets' small science payloads also sent back information on air temperatures and cosmic ray impacts."
+      }
+    },
+    {
+      "name": "Galileo",
+      "dates": [
+        {
+          "date": "18 Oct 1989:",
+          "text": "Launch (16:53:40 UT)"
+        },
+        {
+          "date": "7 Dec 1995:",
+          "text": "Probe Descent (22:04 UT - 23:02 UT)"
+        },
+        {
+          "date": "21 Sep 2003:",
+          "text": "Jupiter Impact (18:57:18 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Galileo used Earth's gravity to help it build up enough speed to hurl itself toward Jupiter. But the Earth flyby provided a chance to use the spacecraft's instruments to study Earth from a unique perspective.",
+        "Accomplishments": ": The Galileo spacecraft found evidence of life on Earth. Not a surprising discovery, but the use of instruments to detect traces of life in a planet's atmosphere will be useful as future space probes continue to seek evidence of life beyond Earth.\nGalileo's cameras captured unique never-before-seen views of Antarctica and also the Earth and Moon together - a glimpse at what someone from another world might see as they approached our little piece of the solar system."
+      }
+    },
+    {
+      "name": "Deep Impact (EPOXI)",
+      "dates": [
+        {
+          "date": "12 Jan 2005:",
+          "text": "Launch"
+        },
+        {
+          "date": "4 Jul 2005:",
+          "text": "Comet Tempel 1 Impact"
+        },
+        {
+          "date": "4 Nov 2010:",
+          "text": "Comet Hartley 2 Encounter"
+        },
+        {
+          "date": "8 Aug 2013:",
+          "text": "Communication with Spacecraft Lost"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Deep Impact's primary mission was to deliver a special impactor spacecraft into the path of comet Tempel 1. After its successful impact mission, Deep impact was sent on an extended mission of another comet flyby, observations around planets orbiting other stars and a space-based observatory to study targets of opportunity with its telescopes and instruments.",
+        "Accomplishments": ": Making a video of Earth from so far away helps the search for other life-bearing planets in the Universe by giving insights into how a distant, Earth-like alien world would appear to us. For example, Sun glints off Earth's oceans could guide scientists to spot alien oceans (and potentially habitable alien worlds)."
+      }
+    }
+  ]
+}

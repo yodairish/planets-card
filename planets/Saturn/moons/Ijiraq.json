@@ -1,0 +1,122 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Brett J. Gladman, John J. Kavelaars, Jean-Marc Petit, Hans Scholl, Matthew J. Holman, Brian G. Marsden, Phillip D. Nicholson, and Joseph A. Burns"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "23 September 2000"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "11,367,400 km",
+        "type": "Metric"
+      },
+      {
+        "text": "7,063,375 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "6,161,131 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "16,573,669 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "1.236194387 Earth years "
+      },
+      {
+        "text": "451.52 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "67,516,066.88 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "6,230.4 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.458"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "47.123"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "6.0 (assuming an albedo of 0.06) km",
+        "type": "Metric"
+      },
+      {
+        "text": "3.7 miles",
+        "type": "English"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "37.7 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "905 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "1,198,934,746,477,750 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "1.1989 x 1015 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "2.3 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "452.39 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.002 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "19 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

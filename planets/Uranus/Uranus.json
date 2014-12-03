@@ -1,0 +1,331 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "William Herschel"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "13 March 1781"
+      }
+    ],
+    "Orbit Size Around Sun (semi-major axis)": [
+      {
+        "text": "2,870,658,186 km",
+        "type": "Metric"
+      },
+      {
+        "text": "1,783,744,300 miles",
+        "type": "English"
+      },
+      {
+        "text": "2.8706582 x 109 km (1.9189165 x 101 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "19.189 x Earth"
+      }
+    ],
+    "Perihelion (closest)": [
+      {
+        "text": "2,734,998,229 km",
+        "type": "Metric"
+      },
+      {
+        "text": "1,699,449,110 miles",
+        "type": "English"
+      },
+      {
+        "text": "2.73500 x 109 km (1.828 x 101 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "18.593 x Earth"
+      }
+    ],
+    "Aphelion (farthest)": [
+      {
+        "text": "3,006,318,143 km",
+        "type": "Metric"
+      },
+      {
+        "text": "1,868,039,489 miles",
+        "type": "English"
+      },
+      {
+        "text": "3.00632 x 109 km (2.010 x 101 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "19.766 x Earth"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "84.016846 Earth years "
+      },
+      {
+        "text": "30,687.15 Earth days "
+      },
+      {
+        "type": "comparison",
+        "text": "84.017 x Earth"
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "18,026,802,831 km",
+        "type": "Metric"
+      },
+      {
+        "text": "11,201,335,967 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.803 x 1010 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "19.180 x Earth"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "24,477 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "15,209 mph",
+        "type": "English"
+      },
+      {
+        "text": "6.7991 x 103 m/s",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.228 x Earth"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.04725744"
+      },
+      {
+        "type": "comparison",
+        "text": "2.828 x Earth"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.77 degrees"
+      }
+    ],
+    "Equatorial Inclination to Orbit": [
+      {
+        "text": "97.8 degrees (retrograde rotation) (retrograde rotation)"
+      },
+      {
+        "type": "comparison",
+        "text": "4.173 x Earth"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "25,362 km",
+        "type": "Metric"
+      },
+      {
+        "text": "15,759.2 miles",
+        "type": "English"
+      },
+      {
+        "text": "2.5362 x 104 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "3.9809 x Earth"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "159,354.1 km",
+        "type": "Metric"
+      },
+      {
+        "text": "99,018.1 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.59354 x 105 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "3.9809 x Earth"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "68,334,355,695,584 km3",
+        "type": "Metric"
+      },
+      {
+        "text": "6.83344 x 1013 km3",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "63.085 x Earth"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "86,810,300,000,000,000,000,000,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "8.6810 x 1025 kg",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "14.536 x Earth's"
+      }
+    ],
+    "Density": [
+      {
+        "text": "1.270 g/cm3",
+        "type": "Metric"
+      },
+      {
+        "type": "comparison",
+        "text": "0.230 x Earth"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "8,083,079,690 km2",
+        "type": "Metric"
+      },
+      {
+        "text": "3,120,894,516 square miles",
+        "type": "English"
+      },
+      {
+        "text": "8.0831 x 109 km2",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "15.847 x Earth"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "8.87 m/s2",
+        "type": "Metric"
+      },
+      {
+        "text": "29.1 ft/s2",
+        "type": "English"
+      },
+      {
+        "type": "comparison",
+        "text": "If you weigh 100 pounds on Earth, you would weigh 91 pounds on Uranus."
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "76,968 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "47,826 mph",
+        "type": "English"
+      },
+      {
+        "text": "2.138 x 104 m/s",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "1.911 x Earth"
+      }
+    ],
+    "Sidereal Rotation Period (Length of Day)": [
+      {
+        "text": "-0.718 Earth days (retrograde)"
+      },
+      {
+        "text": "-17.23992 hours (retrograde)"
+      },
+      {
+        "type": "comparison",
+        "text": "0.72 x Earth"
+      }
+    ],
+    "Effective Temperature": [
+      {
+        "text": "-216 °C",
+        "type": "Metric"
+      },
+      {
+        "text": "-357 °F",
+        "type": "English"
+      },
+      {
+        "text": "57 K",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Atmospheric Constituents": [
+      {
+        "text": "Hydrogen, Helium, Methane"
+      },
+      {
+        "text": "H2, He, CH4",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "Earth's atmosphere consists mostly of N2 and O2."
+      }
+    ]
+  },
+  "moons": [
+    "Cordelia",
+    "Ophelia",
+    "Bianca",
+    "Cressida",
+    "Desdemona",
+    "Juliet",
+    "Portia",
+    "Rosalind",
+    "Mab",
+    "Belinda",
+    "Perdita",
+    "Puck",
+    "Cupid",
+    "Miranda",
+    "Francisco",
+    "Ariel",
+    "Umbriel",
+    "Titania",
+    "Oberon",
+    "Caliban",
+    "Stephano",
+    "Trinculo",
+    "Sycorax",
+    "Margaret",
+    "Prospero",
+    "Setebos",
+    "Ferdinand"
+  ]
+}

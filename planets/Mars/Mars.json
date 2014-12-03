@@ -1,0 +1,1049 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Known by the Ancients"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "Unknown"
+      }
+    ],
+    "Orbit Size Around Sun (semi-major axis)": [
+      {
+        "text": "227,943,824 km",
+        "type": "Metric"
+      },
+      {
+        "text": "141,637,725 miles",
+        "type": "English"
+      },
+      {
+        "text": "2.2794382 x 108 km (1.523662 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "1.524 x Earth"
+      }
+    ],
+    "Perihelion (closest)": [
+      {
+        "text": "206,655,215 km",
+        "type": "Metric"
+      },
+      {
+        "text": "128,409,598 miles",
+        "type": "English"
+      },
+      {
+        "text": "2.06655 x 108 km (1.381 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "1.405 x Earth"
+      }
+    ],
+    "Aphelion (farthest)": [
+      {
+        "text": "249,232,432 km",
+        "type": "Metric"
+      },
+      {
+        "text": "154,865,853 miles",
+        "type": "English"
+      },
+      {
+        "text": "2.49232 x 108 km (1.666 A.U.)",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "1.639 x Earth"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "1.8808476 Earth years "
+      },
+      {
+        "text": "686.98 Earth days "
+      },
+      {
+        "type": "comparison",
+        "text": "1.881 x Earth"
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "1,429,085,052 km",
+        "type": "Metric"
+      },
+      {
+        "text": "887,992,283 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.429 x 109 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "1.520 x Earth"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "86,677 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "53,858 mph",
+        "type": "English"
+      },
+      {
+        "text": "2.4077 x 104 m/s",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.808 x Earth"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0933941"
+      },
+      {
+        "type": "comparison",
+        "text": "5.589 x Earth"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "1.85 degrees"
+      }
+    ],
+    "Equatorial Inclination to Orbit": [
+      {
+        "text": "25.2"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "3,389.5 km",
+        "type": "Metric"
+      },
+      {
+        "text": "2,106.1 miles",
+        "type": "English"
+      },
+      {
+        "text": "3.3895 x 103 km",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.5320 x Earth"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "21,296.9 km",
+        "type": "Metric"
+      },
+      {
+        "text": "13,233.3 miles",
+        "type": "English"
+      },
+      {
+        "text": "2.12969 x 104 km",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "163,115,609,799 km3",
+        "type": "Metric"
+      },
+      {
+        "text": "39,133,515,914 mi3",
+        "type": "English"
+      },
+      {
+        "text": "1.63116 X 1011 km3",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.151 x Earth"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "641,693,000,000,000,000,000,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "6.4169 x 1023 kg",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.107 x Earth"
+      }
+    ],
+    "Density": [
+      {
+        "text": "3.934 g/cm3",
+        "type": "Metric"
+      },
+      {
+        "type": "comparison",
+        "text": "0.714 x Earth"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "144,371,391 km2",
+        "type": "Metric"
+      },
+      {
+        "text": "55,742,106 square miles",
+        "type": "English"
+      },
+      {
+        "text": "1.4437 x 108 km2",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "0.283 x Earth"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "3.71 m/s2",
+        "type": "Metric"
+      },
+      {
+        "text": "12.2 ft/s2",
+        "type": "English"
+      },
+      {
+        "type": "comparison",
+        "text": "If you weigh 100 pounds on Earth, you would weigh 38 pounds on Mars."
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "18,108 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "11,252 mph",
+        "type": "English"
+      },
+      {
+        "text": "5.030 x 103 m/s",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "Escape velocity of Earth is 25,030 mph."
+      }
+    ],
+    "Sidereal Rotation Period (Length of Day)": [
+      {
+        "text": "1.026 Earth days "
+      },
+      {
+        "text": "24.623 hours "
+      },
+      {
+        "type": "comparison",
+        "text": "Earth's rotation period is 23.934 hours."
+      }
+    ],
+    "Minimum/Maximum Surface Temperature": [
+      {
+        "text": "-153 to +20 °C",
+        "type": "Metric"
+      },
+      {
+        "text": "-225 to +70 °F",
+        "type": "English"
+      },
+      {
+        "text": "120 to 293 K",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Atmospheric Constituents": [
+      {
+        "text": "Carbon Dioxide, Nitrogen, Argon"
+      },
+      {
+        "text": "CO2, N2, Ar",
+        "type": "Scientific Notation"
+      },
+      {
+        "type": "comparison",
+        "text": "CO2 is responsible for the Greenhouse Effect and is used for carbonation in beverages.N2 is 80% of Earth's air and is a crucial element in DNA. Ar is used to make blue neon light bulbs."
+      }
+    ]
+  },
+  "moons": [
+    "Phobos",
+    "Deimos"
+  ],
+  "missions": [
+    {
+      "name": "1M/1",
+      "dates": [
+        {
+          "date": "10 Oct 1960:",
+          "text": "Launch (14:27:49 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": This small probe was designed to fly past Mars and study radiation and the ultraviolet spectrum in interplanetary space. Instruments to photograph and search for signs of organic life on Mars were removed shortly before launch due to weight constraints.",
+        "Accomplishments": ": None. Virbations caused a guidance system malfunction and the spacecraft burned up in Earth's atmosphere without reaching orbit."
+      }
+    },
+    {
+      "name": "1M/2",
+      "dates": [
+        {
+          "date": "14 Oct 1960:",
+          "text": "Launch (13:51:03 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": This small probe was designed to fly past Mars and study radiation and the ultraviolet spectrum in interplanetary space.",
+        "Accomplishments": ": None. Like its predecessor, launched only four days earlier, a malfunction minutes after launch prevented it from reaching Earth orbit. It burned up in Earth's atmosphere over eastern Siberia."
+      }
+    },
+    {
+      "name": "2MV-4/1",
+      "dates": [
+        {
+          "date": "24 Oct 1962:",
+          "text": "Launch"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Stripped of most scientific instruments, this mission -- also known as Sputnik 22 -- was primarily an engineering test flight to send a spacecraft flying past Mars.",
+        "Accomplishments": ": None. An engine malfunction triggered an explosion in Earth orbit, destroying the spacecraft. The largest fragment re-entered Earth's atmosphere five days after launch."
+      }
+    },
+    {
+      "name": "2MV-3/1",
+      "dates": [
+        {
+          "date": "4 Nov 1962:",
+          "text": "Launch (15:35:15 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": This was the Soviet Union's third and final attempt in 1962 to send a spacecraft to Mars as an engineering testbed. Unlike the other two missions, this one was designed to crash into Mars.",
+        "Accomplishments": ": None. A timer malfunction shut down the main engine too soon, leaving the spacecraft stranded in Earth orbit. It eventually burned up in Earth's atmosphere."
+      }
+    },
+    {
+      "name": "Mariner 3",
+      "dates": [
+        {
+          "date": "5 Nov 1964:",
+          "text": "Launch"
+        },
+        {
+          "date": "6 Nov 1964:",
+          "text": "End of Mars Mission"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Mariner 3 was designed to snap a series of photos of Mars after an eight month journey studying interplanetary space.",
+        "Accomplishments": ": None. The spacecraft mysteriously lost power eight hours after launch and its solar panels apparently never unfurled to replenish the batteries. The inert spacecraft never achieved the correct Mars trajectory and eventually entered heliocentric (sun-centered) orbit."
+      }
+    },
+    {
+      "name": "Mars 1",
+      "dates": [
+        {
+          "date": "1 Nov 1962:",
+          "text": "Launch (17:55:04 UT)"
+        },
+        {
+          "date": "20 Jun 1963:",
+          "text": "Contact Lost"
+        },
+        {
+          "date": "Status:",
+          "text": "Partial Success"
+        }
+      ],
+      "goals": {
+        "Goals": ": Like its predecessor, Mars 1 was a stripped down spacecraft intended more as an engineering test than a scientific mission. The spacecraft was equipped with a camera to snap photos during a Mars flyby and a magnetometer to study interplanetary space.",
+        "Accomplishments": ": Mars 1 was the first spacecraft launched by any nation to fly past Mars. Unfortunately, a malfunction in the spacecraft's attitude control system made maneuvering the spacecraft impossible and controllers eventually lost contact with the spacecraft. The inert spacecraft flew past Mars a few months later at a distance of 197,000 km (122,400 miles). Before contact was lost, scientists collected useful data on cosmic rays, magnetic field, micrometeoroid impacts and ionized gases."
+      }
+    },
+    {
+      "name": "Mariner 6",
+      "dates": [
+        {
+          "date": "25 Feb 1969:",
+          "text": "Launch (01:29:02 UT)"
+        },
+        {
+          "date": "31 Jul 1969:",
+          "text": "Mars Flyby (05:19:07 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Mariner 6 was designed to study the surface and atmosphere of Mars during a close flyby.",
+        "Accomplishments": ": The spacecraft transmitted 49 far- and 26 near-encounter images, showing heavily cratered and chaotic areas similar to parts of Earth's moon, and a southern polar region with an intriguingly irregular border. Spectrometry of the polar cap indicated solid carbon dioxide. Surface pressure was calculated to be equal to about 30.5 km above Earth's surface. Atmospheric composition was found to be about 98 percent carbon dioxide (at the time of Mariner 4's flyby, it was assumed to be mostly nitrogen). Nighttime surface temperature was recorded as -73°C at the equator, dropping to -125°C at the south pole."
+      }
+    },
+    {
+      "name": "Mariner 4",
+      "dates": [
+        {
+          "date": "28 Nov 1964:",
+          "text": "Launch (14:22:01 UT)"
+        },
+        {
+          "date": "15 Jul 1965:",
+          "text": "Closest Approach to Mars (9,846 km) (01:00:57 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Like its predecessor Mariner 3, Mariner 4 was designed to snap a series of photos of Mars after an eight month journey studying interplanetary space. The spacecraft was also equipped to study the Martian atmosphere as it flew past.",
+        "Accomplishments": ": Mariner 4 was one of the great successes of the early American space program. The spacecraft sent back 21 black and white images of the Martian surface -- the first pictures taken of another planet from space. The spacecraft found that Mars was a battered, cold and barren world. Scientists learned they would need retro rockets in addition to parachutes to safely deliver a spacecraft through the planet's thin atmosphere to the surface. Mariner 4 also found Mars' weak radiation belt."
+      }
+    },
+    {
+      "name": "Zond 2",
+      "dates": [
+        {
+          "date": "30 Nov 1964:",
+          "text": "Launch"
+        },
+        {
+          "date": "Status:",
+          "text": "Partial Success"
+        }
+      ],
+      "goals": {
+        "Goals": ": This Soviet third-generation spacecraft was designed to fly by Mars and take photographs. It also carried equipment to study interplanetary space.",
+        "Accomplishments": ": A solar panel malfunction deprived the spacecraft of critical power and communications were lost before it reached Mars. However, mission controllers were able to twice test fire plasma electric ion rocket engines -- making Zond 2 a successful technology test for future deep space missions."
+      }
+    },
+    {
+      "name": "Mariner 7",
+      "dates": [
+        {
+          "date": "27 Mar 1969:",
+          "text": "Launch (22:22:01 UT)"
+        },
+        {
+          "date": "5 Aug 1969:",
+          "text": "Mars Flyby (05:00:49 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Identical to Mariner 6, which was launched 31 days earlier, Mariner 7 had the same goal: to study the surface and atmosphere of Mars during a close flyby.",
+        "Accomplishments": ": The Mariner 7 mission benefited from its reprogrammable command system. When scientists, intrigued by Mariner 6's pictures of the Martian south pole, asked that Mariner 7 take extra pictures of that area, controllers were able to comply. The spacecraft took 93 far- and 33 near-encounter images, showing heavily cratered terrain very similar to images recorded by Mariner 6. The south polar cap was identified as mostly carbon dioxide."
+      }
+    },
+    {
+      "name": "M-69/521",
+      "dates": [
+        {
+          "date": "27 Mar 1969:",
+          "text": "Launch"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Launched the same day as the U.S.'s successful Mariner 7 Mars-flyby mission, this was a Soviet attempt to orbit Mars.",
+        "Accomplishments": ": None. The launch vehicle failed and the probe never reached Earth orbit."
+      }
+    },
+    {
+      "name": "M-69/522",
+      "dates": [
+        {
+          "date": "2 Apr 1969:",
+          "text": "Launch"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Like its twin, which was unsuccessfully launched six days earlier, this Soviet spacecraft was intended to orbit Mars.",
+        "Accomplishments": ": None. One of the first-stage engines exploded on launch and the rocket carrying the probe crashed in a fireball 3 km from the launch site."
+      }
+    },
+    {
+      "name": "Mariner 8",
+      "dates": [
+        {
+          "date": "9 May 1971:",
+          "text": "Launch (01:11:01 UT)"
+        },
+        {
+          "date": "9 May 1971:",
+          "text": "Re-entered Earth's Atmosphere (01:16  UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": This was the first of two spacecraft in the Mariner Mars 71 project intended to orbit Mars for at least 90 days, gathering data on the Martian atmosphere and about 70 percent of the planet's surface.",
+        "Accomplishments": ": None. The launch vehicle malfunctioned. It carried its payload back into Earth's atmosphere and splashed down in the Atlantic Ocean about 560 km north of Puerto Rico."
+      }
+    },
+    {
+      "name": "Kosmos 419",
+      "dates": [
+        {
+          "date": "10 May 1971:",
+          "text": "Launch"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": It is widely believed that the primary purpose was to overtake America's Mariner 8 (which, ironically, was unsuccessfully launched 2 days earlier) and become the first spacecraft to orbit Mars.",
+        "Accomplishments": ": None. Launch failure due to human programming error stranded the spacecraft in Earth orbit. It reentered Earth's atmosphere within two days of launch."
+      }
+    },
+    {
+      "name": "Mariner 9",
+      "dates": [
+        {
+          "date": "30 May 1971:",
+          "text": "Launch"
+        },
+        {
+          "date": "14 Nov 1971:",
+          "text": "Mars Orbit Insertion"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": When Mariner 8 suffered a failed launch, Mariner 9 took on that spacecraft's mission of mapping 70 percent of the Martian surface in addition to its own objective of studying changes over time in the Martian atmosphere and surface.",
+        "Accomplishments": ": Mariner 9 beat the Soviet Mars 2 (which had an 11-day head start) to Mars, becoming the first spacecraft to orbit another planet. After Mars' global dust storm subsided, the orbiter was able to map 85 percent of the Martian surface at a resolution of 1 to 2 km (with 2 percent mapped at a resolution of 100 to 300 meters) in addition to gathering abundant information about the surface and atmosphere. The more than 7,000 images it transmitted included the first detailed views of Olympus Mons, the solar system's largest volcano; Valles Marineris, a vast canyon system that dwarfs the Grand Canyon and was named for this spacecraft; the polar caps; and the moons Phobos and Deimos."
+      }
+    },
+    {
+      "name": "Mars 2",
+      "dates": [
+        {
+          "date": "19 May 1971:",
+          "text": "Launch"
+        },
+        {
+          "date": "27 Nov 1971:",
+          "text": "Mars Orbit Insertion/Lander Crash"
+        },
+        {
+          "date": "Status:",
+          "text": "Partial Success"
+        }
+      ],
+      "goals": {
+        "Goals": ": The Mars 2 mission had two objectives: to place an orbiter around Mars and to put a lander on the Martian surface in working order. Each was to take pictures and collect information about the planet. In addition, the orbiter was to monitor the solar wind and the interplanetary and Martian magnetic fields.",
+        "Accomplishments": ": The orbiter circled Mars as desired (a first for the USSR but the second overall, since the Soviet spacecraft arrived at Mars 13 days after America's Mariner 9) and transmitted valuable data to Earth until contact was lost in July 1972. The lander, however, entered the Martian atmosphere at too steep an angle. Its parachute failed to open and the lander crashed onto the Martian surface."
+      }
+    },
+    {
+      "name": "Mars 3",
+      "dates": [
+        {
+          "date": "28 May 1971:",
+          "text": "Launch"
+        },
+        {
+          "date": "2 Dec 1971:",
+          "text": "Mars Orbit Insertion/Landing (13:47 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Partial Success"
+        }
+      ],
+      "goals": {
+        "Goals": ": Like its twin, Mars 2, which arrived at Mars five days earlier, Mars 3 had two objectives: to place an orbiter around Mars and to put a lander on the Martian surface in working order. Each was to take pictures and collect information about the planet. In addition, the orbiter was to monitor the solar wind and the interplanetary and Martian magnetic fields.",
+        "Accomplishments": ": The lander was the first to achieve a survivable landing on the Martian surface. It began transmitting a TV image of the surface immediately after landing, but stopped permanently after only 20 seconds. Controllers surmised that the probe shorted out due to the electrical effects of a violent, planet-wide dust storm. The orbiter successfully attained Mars orbit, though one in which it took nearly 13 days to complete one orbit instead of the planned 25 hours. None of the pictures from the lander or orbiter showed much detail, but the orbiter transmitted meaningful scientific information until contact was lost in July 1972."
+      }
+    },
+    {
+      "name": "Mars 6",
+      "dates": [
+        {
+          "date": "5 Aug 1973:",
+          "text": "Launch"
+        },
+        {
+          "date": "12 Mar 1974:",
+          "text": "Lander Descent to Martian Surface"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Like its sister mission, Mars 7 (which arrived at Mars three days earlier but failed to deliver its lander) Mars 6 was intended to place a lander on Mars. The bus was to fly by the planet, taking measurements as it passed.",
+        "Accomplishments": ": The descent module transmitted 224 seconds of data-the first data returned from the Martian atmosphere-but much of it was unreadable because of a flaw in a computer chip. Contact was lost moments before the presumed landing. The bus that delivered the lander to Mars transmitted scientific information during its brief flyby of the planet."
+      }
+    },
+    {
+      "name": "Mars 4",
+      "dates": [
+        {
+          "date": "21 Jul 1973:",
+          "text": "Launch"
+        },
+        {
+          "date": "10 Feb 1974:",
+          "text": "Mars Flyby"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Mars 4 was to orbit Mars (along with Mars 5), taking pictures and conducting remote-sensing experiments on the atmosphere and surface, and to serve as a communications relay for the Mars 6 and 7 landers.",
+        "Accomplishments": ": Faulty transistors disabled the spacecraft's ability to slow down and enter an orbit around Mars, so Mars 4 became a flyby mission. It transmitted the results of one imaging session and some radio occultation data which constituted the first detection of the nightside ionosphere on Mars. Following the flyby, Mars 4 returned data about the interplanetary environment."
+      }
+    },
+    {
+      "name": "Mars 5",
+      "dates": [
+        {
+          "date": "25 Jul 1973:",
+          "text": "Launch"
+        },
+        {
+          "date": "12 Feb 1974:",
+          "text": "Entered Mars Orbit"
+        },
+        {
+          "date": "Status:",
+          "text": "Partial Success"
+        }
+      ],
+      "goals": {
+        "Goals": ": Like the ill-fated Mars 4, launched four days earlier, Mars 5 was designed to orbit Mars, taking pictures and conducting remote-sensing experiments on the atmosphere and surface, and to serve as a communications relay for the Mars 6 and 7 landers.",
+        "Accomplishments": ": Mars 5 achieved orbit around Mars, but its mission was cut short by an apparent micrometeoroid puncture which caused the main instrument compartment to slowly depressurize. During the 16 days of operational orbiting, the spacecraft returned atmospheric data and transmitted 43 usable photos and 5 panoramas of the Martian surface. Some surface features suggested erosion caused by flowing water."
+      }
+    },
+    {
+      "name": "Mars 7",
+      "dates": [
+        {
+          "date": "9 Aug 1973:",
+          "text": "Launch"
+        },
+        {
+          "date": "9 Mar 1974:",
+          "text": "Mars Flyby"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Like its sister mission, Mars 6 (which arrived at Mars three days later) Mars 7 was to place a lander on the surface of Mars. The bus was to fly by the planet, taking measurements as it passed.",
+        "Accomplishments": ": The bus that carried the lander to Mars collected and transmitted data as it flew by the planet. But the lander's main retro-rocket failed to fire, so rather than descend, the lander flew by Mars at a distance of 1,300 km."
+      }
+    },
+    {
+      "name": "Viking 1",
+      "dates": [
+        {
+          "date": "20 Aug 1975:",
+          "text": "Launch (21:22 UT)"
+        },
+        {
+          "date": "19 Jun 1976:",
+          "text": "Mars Orbit Insertion"
+        },
+        {
+          "date": "20 Jul 1976:",
+          "text": "Mars Landing (11:53:56)"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": NASA's Viking mission to Mars was composed of two pairs of spacecraft -- Viking 1 and Viking 2 -- each consisting of an orbiter and a lander. The spacecraft were designed to take high-resolution images of the Martian surface, characterize the structure and composition of the atmosphere and surface, and search for evidence of life.",
+        "Accomplishments": ": Viking 1 was the first successful mission to land on Mars (the Soviet Mars 3 lander survived for a few seconds after landing in 1971, but sent back no science data). The Viking 1 lander operated on Chryse Planitia until November 1982. The four Viking spacecraft provided numerous new insights into the nature and history of Mars, producing a vivid overall picture of a cold weathered surface with reddish volcanic soil under a thin, dry carbon dioxide atmosphere, clear evidence for the existence of ancient river beds and vast floods, and no detectable seismic activity.\nAlthough no traces of life were found, Viking found all elements essential to life on Earth -- carbon, nitrogen, hydrogen, oxygen and phosphorus -- were present on Mars."
+      }
+    },
+    {
+      "name": "Viking 2",
+      "dates": [
+        {
+          "date": "9 Sep 1975:",
+          "text": "Launch (18:39 UT)"
+        },
+        {
+          "date": "7 Aug 1976:",
+          "text": "Arrival at Mars"
+        },
+        {
+          "date": "3 Sep 1976:",
+          "text": "Mars Landing (22:37:50 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Mission Complete"
+        }
+      ],
+      "goals": {
+        "Goals": ": NASA's Viking mission to Mars was composed of two pairs of spacecraft -- Viking 1 and Viking 2 -- each consisting of an orbiter and a lander. The spacecraft were designed to take high-resolution images of the Martian surface, characterize the structure and composition of the atmosphere and surface, and search for evidence of life.",
+        "Accomplishments": ": Viking 2 lander set down on Utopia Planitia and operated until April 1980. The four Viking spacecraft provided numerous new insights into the nature and history of Mars, producing a vivid overall picture of a cold weathered surface with reddish volcanic soil under a thin, dry carbon dioxide atmosphere, clear evidence for the existence of ancient river beds and vast floods, and no detectable seismic activity.\nAlthough no traces of life were found, Viking found all elements essential to life on Earth -- carbon, nitrogen, hydrogen, oxygen and phosphorus -- were present on Mars."
+      }
+    },
+    {
+      "name": "Fobos 1",
+      "dates": [
+        {
+          "date": "7 Jul 1988:",
+          "text": "Launch"
+        },
+        {
+          "date": "3 Nov 1988:",
+          "text": "End of Mars Mission"
+        },
+        {
+          "date": "Status:",
+          "text": "Contact Lost"
+        }
+      ],
+      "goals": {
+        "Goals": ": Fobos 1 and 2 were part of an ambitious Russian plan to explore Mars and its moon Phobos. Each spacecraft comprised an orbiter for long term studies of the planet and a lander to study geological and climatic conditions on Phobos.",
+        "Accomplishments": ": Contact was lost with the Fobos 1 before it reached Mars. The spacecraft flew past Mars without activating its science instruments or deploying its lander."
+      }
+    },
+    {
+      "name": "Fobos 2",
+      "dates": [
+        {
+          "date": "12 Jul 1988:",
+          "text": "Launch"
+        },
+        {
+          "date": "15 Apr 1989:",
+          "text": "End of Mars Mission"
+        },
+        {
+          "date": "Status:",
+          "text": "Contact Lost"
+        }
+      ],
+      "goals": {
+        "Goals:": " Fobos 1 and 2 were part of an ambitious Russian plan to explore Mars and its moon Phobos. Each spacecraft comprised an orbiter for long term studies of the planet and a lander to study geological and climatic conditions on Phobos. Fobos 2 had an additional payload on board, a 110-kg \"hopper\" designed to make up to ten 20-m jumps across the Phobos surface to gather surface data on the tiny Martian moon. Fobos 2 also had a slightly different instrument complement.",
+        "Accomplishments:": " Fobos 2 did take high-resolution photos of Mars' moon Phobos on 23 February (at a range of 860 km), 28 February (320 km) and 25 March 1989 (191 km). However before the release of its lander, scheduled for 4-5 April 1989, during a regularly planned communications session on 27 March at 15:58 UT, there was no word from the spacecraft. A weak signal was received between 17:51 and 18:03 UT, but there was no telemetry information. The mission was declared lost on 15 April 1989."
+      }
+    },
+    {
+      "name": "Mars 8/Mars 96",
+      "dates": [
+        {
+          "date": "16 Nov 1996:",
+          "text": "Launch (20:48:53 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Mars 8 was an ambitious, multi-faceted Russian-led international mission to simultaneously explore the Martian atmosphere, surface and interior. The mission included an orbiter, two small science landers and two penetrators -- carrying 38 sophisticated science instruments.",
+        "Accomplishments": ": A malfunction in Earth orbit sent the spacecraft plunging back into the atmosphere. It broke up on re-entry and debris were reportedly scattered in a wide area across the Pacific Ocean, Chile and Bolivia."
+      }
+    },
+    {
+      "name": "Mars Observer",
+      "dates": [
+        {
+          "date": "25 Sep 1992:",
+          "text": "Launch (17:05:01 UT)"
+        },
+        {
+          "date": "22 Aug 1993:",
+          "text": "Contact Lost (01:00 UT)"
+        },
+        {
+          "date": "27 Aug 1993:",
+          "text": "End of Mission"
+        },
+        {
+          "date": "Status:",
+          "text": "Mission Lost at Mars"
+        }
+      ],
+      "goals": {
+        "Goals:": " Seventeen years after the successful Viking 1 and Viking 2 missions, Mars Observer was launched to make a detailed study of the Red Planet. The spacecraft, based on an Earth-orbiting communications satellite, which had been converted into an orbiter for Mars, carried a payload of science instruments designed to study the geology, geophysics and climate of Mars. The journey took 337 days.",
+        "Accomplishments:": " The spacecraft was about to begin pressurizing its fuel tanks in preparation for an orbit-insertion maneuver when its transmitters were turned off and the spacecraft was never heard from again.  Before contact with the spacecraft was lost, approximately two months of total data from the gamma ray spectrometer was successfully collected, including spectral observations of one burst."
+      }
+    },
+    {
+      "name": "Mars Global Surveyor",
+      "dates": [
+        {
+          "date": "7 Nov 1996:",
+          "text": "Launch (17:00:49 UT)"
+        },
+        {
+          "date": "11 Sep 1997:",
+          "text": "Arrival at Mars"
+        },
+        {
+          "date": "2 Nov 2006:",
+          "text": "Final Contact"
+        },
+        {
+          "date": "Status:",
+          "text": "Sucessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Mars Global Surveyor was sent to the Red Planet to study the surface features and geological processes; determine the composition, distribution and physical properties of minerals, rocks and ice; map global topography and monitor the planet's weather.",
+        "Accomplishments": ": Mars Global Surveyor operated longer at Mars than any other spacecraft of its time, and for more than four times as long as the prime mission originally planned. The spacecraft returned detailed information that has overhauled our understanding of Mars. Major findings include dramatic evidence that water still flows in short bursts down hillside gullies, and identification of deposits of water-related minerals leading to selection of a Mars rover landing site."
+      }
+    },
+    {
+      "name": "Mars Climate Orbiter",
+      "dates": [
+        {
+          "date": "11 Dec 1998:",
+          "text": "Launch (18:45:51 UT)"
+        },
+        {
+          "date": "23 Sep 1999:",
+          "text": "Last Contact (09:01 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Mars Climate Orbiter mission was to study Mars from orbit with cameras and atmospheric instruments. It also was designed to serve as a communications relay for the Mars Polar Lander and Deep Space 2 probes.",
+        "Accomplishments": ": None. Communications were lost as the spacecraft prepared to enter orbit around Mars. An investigation found the spacecraft burned up in Mars' atmosphere due to a navigation error caused by the failure to translate English units to metric."
+      }
+    },
+    {
+      "name": "Mars Pathfinder/Sojourner",
+      "dates": [
+        {
+          "date": "4 Dec 1996:",
+          "text": "Launch (06:58:07 UT)"
+        },
+        {
+          "date": "4 Jul 1997:",
+          "text": "Mars Landing (16:56:55 UT)"
+        },
+        {
+          "date": "5 Jul 1997 - 25 Sep 1997:",
+          "text": "Sojourner Rover Operations"
+        },
+        {
+          "date": "27 Sep 1997:",
+          "text": "End of Mission (10:23 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Mars Pathfinder was designed primarily to demonstrate a low-cost way of delivering a set of science instruments and a free-ranging rover to the surface of the Red Planet. The unique airbag system cushioned the lander in a cocoon after a parachute and rocket descent through the thin Martian atmosphere.",
+        "Accomplishments": ": Mars Pathfinder demonstrated a number of innovative, economical, and highly effective approaches to spacecraft and mission design. The wagon-sized Sojourner rover was the forerunner of more advanced rovers such as  Spirit, Opportunity and Curiosity. Both Spirit and Opportunity used a variation of the airbag system to land on Mars. The Carl Sagan Memorial Station also used an innovative petal design that unfolded after landing, exposing its science instruments and releasing the rover to explore surrounding rocks.\nIn addition to its engineering accomplishments, Pathfinder made significant contributions to what was known about Mars' geology and meteorology at the time."
+      }
+    },
+    {
+      "name": "Nozomi",
+      "dates": [
+        {
+          "date": "3 Jul 1998:",
+          "text": "Launch"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Japan's Nozomi was designed to study Mars' upper atmosphere and its interaction with the solar wind from orbit and study the planet's magnetic field. It carried cameras to photograph the Martian surface and the planet's two moons. Japanese engineers also planned the mission as a technology test for future deep space missions.",
+        "Accomplishments": ": During five years in space Nozomi did send back data on interplanetary space, but it could not complete its mission. A series of mishaps and malfunctions made it impossible for the spacecraft to enter Mars orbit. The spacecraft eventually ran out of fuel and was sent into orbit around our Sun to avoid a collision with Mars."
+      }
+    },
+    {
+      "name": "Beagle 2",
+      "dates": [
+        {
+          "date": "2 Jun 2003:",
+          "text": "Launch"
+        },
+        {
+          "date": "24 Dec 2003:",
+          "text": "Lost on Mars (21:54 EST)"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals:": " Great Britain's Beagle 2 lander was a barbecue grill-sized lander equipped with a suite of instruments to search for signs of life on Mars. It also had instruments to look for signs of water and study Mars' geology and atmosphere. It  rode to Mars aboard the European Space Agency's Mars Express orbiter.",
+        "Accomplishments:": " Beagle 2 was targeted to land in Isidis Planitia, a large flat sedimentary basin on Mars, but mission controllers were unable to contact the lander. After an extensive search for signals by orbiting spacecraft, the mission was declared lost."
+      }
+    },
+    {
+      "name": "Mars Polar Lander",
+      "dates": [
+        {
+          "date": "3 Dec 1999:",
+          "text": "Contact Lost (20:00 UT)"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Mars Polar Lander was to be the first-ever landing in the polar regions of Mars. The lander was equipped with cameras, a robotic arm and instruments to measure the composition of Martian soil. It also carried the Deep Space 2 microprobes which were to pentrate and sample the Martian surface.",
+        "Accomplishments": ": None. Both missions were lost when Mars Polar Lander crashed on Mars. An investigation found the most likely cause of the mishap was a false signal that the spacecraft had landed when in fact it had only deployed its legs and was still descending. The signal shut down the main engines and the spacecraft crashed into Mars at high speed."
+      }
+    },
+    {
+      "name": "Deep Space 2",
+      "dates": [
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals": ": The Mars Microprobe Mission - Deep Space 2 - was intended to test new technologies and search for water ice in the south pole soil of Mars. The twin micropobes hitched a ride aboard Mars Polar Lander.",
+        "Accomplishments": ": None. Both the lander probes were lost during the when Mars Polar Lander crashed on Mars in December 1999."
+      }
+    },
+    {
+      "name": "Yinghuo-1",
+      "dates": [
+        {
+          "date": "8 Nov 2011:",
+          "text": "Launch"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals:": " Yinghuo-1 was China's first interplanetary mission. It was designed study Mars from orbit in conjunction with the Russia's Phobos-Grunt. The two missions were design to travel to Mars together.",
+        "Accomplishments:": " The Phobos-Grunt/Yinghuo-1 spacecraft did not perform its scheduled burn to begin its trajectory to Mars. Both spacecraft were stranded in Earth orbit."
+      }
+    },
+    {
+      "name": "Phoenix",
+      "dates": [
+        {
+          "date": "4 Aug 2007:",
+          "text": "Launch"
+        },
+        {
+          "date": "25 May 2008:",
+          "text": "Mars Landing"
+        },
+        {
+          "date": "25 May 2008 - 10 Nov 2008:",
+          "text": "Surface Operations"
+        },
+        {
+          "date": "Status:",
+          "text": "Successful"
+        }
+      ],
+      "goals": {
+        "Goals": ": Phoenix was sent to Mars to search for evidence of past or present microbial life and to study geology and climate on the icy arctic plains of the Martian north pole. The lander's robotic arm could dig up to half a meter (20 inches) into the Martian soil and return it for analysis to a special bake-and-sniff oven.",
+        "Accomplishments": ": Phoenix verified the presence of water-ice in the Martian subsurface, which NASA's Mars Odyssey orbiter first detected remotely in 2002. Phoenix's cameras also returned more than 25,000 pictures from sweeping vistas to near the atomic level using the first atomic force microscope ever used outside Earth. The findings advance the goal of studying whether Mars could ever have been favorable to microbial life."
+      }
+    },
+    {
+      "name": "Phobos-Grunt",
+      "dates": [
+        {
+          "date": "8 Nov 2011:",
+          "text": "Launch"
+        },
+        {
+          "date": "Status:",
+          "text": "Unsuccessful"
+        }
+      ],
+      "goals": {
+        "Goals:": " Russia's Phobos-Grunt was designed to land on Mars' moon Phobos, collect soil samples and return them to Earth for study. The lander also carried scientific instruments to study Phobos and its environment. It was to travel to Mars together with Yinghuo-1, China's first mission to the Red Planet.",
+        "Accomplishments:": " The Phobos-Grunt/Yinghuo-1 spacecraft did not perform its scheduled burn to begin its trajectory to Mars. Both spacecraft were stranded in Earth orbit."
+      }
+    }
+  ]
+}

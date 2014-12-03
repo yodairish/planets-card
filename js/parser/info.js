@@ -1,14 +1,14 @@
 'use strict';
 
 var fs = require('fs-extra'),
-    glob = require('glob'),
+    globby = require('globby'),
     infoData = {},
     count = 0;
 
 /**
  * Get info from all tmp json files
  */
-glob('planets/tmp/**/*.json', function(err, files) {
+globby(['planets/**/*.json', '!planets/data/**'], function(err, files) {
   count = files.length;
 
   files.forEach(readFile);

@@ -1,0 +1,130 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Voyager science team"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1980"
+      }
+    ],
+    "Orbit Size Around Jupiter (semi-major axis)": [
+      {
+        "text": "221,900 km",
+        "type": "Metric"
+      },
+      {
+        "text": "137,882 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "217,995 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "225,805 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.001848049 Earth years "
+      },
+      {
+        "text": "0.675 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "1,394,130.84 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "86,057.5 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0176"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "1.08"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "49.3 km",
+        "type": "Metric"
+      },
+      {
+        "text": "30.6 miles",
+        "type": "English"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "309.8 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "501,914 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "1,498,668,433,097,190,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "1.4987 x 1018 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "3 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "30,542.44 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.041 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "229 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "142 mph",
+        "type": "English"
+      },
+      {
+        "text": "64 m/s",
+        "type": "Scientific Notation"
+      }
+    ]
+  }
+}

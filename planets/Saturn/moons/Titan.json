@@ -1,0 +1,131 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "C. Huygens"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1655"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "1,221,865 km",
+        "type": "Metric"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "1,186,675 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "1,257,055 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.04366872 Earth years "
+      },
+      {
+        "text": "15.95 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "7,675,612.02 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "20,051.2 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0288"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.312 degree"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "2,574.7 km",
+        "type": "Metric"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "16,177.5 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "71,496,320,086 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "134,552,523,083,241,000,000,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "1.3455 x 1023 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "1.882 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "83,305,418.53 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "1.354 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "9,507 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Rotation Period (Length of Day)": [
+      {
+        "type": "comparison",
+        "text": "Synchronous with orbital period"
+      }
+    ],
+    "Minimum/Maximum Surface Temperature": [
+      {
+        "text": "94 K",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Atmospheric Constituents": [
+      {
+        "text": "N2, CH4"
+      }
+    ]
+  }
+}

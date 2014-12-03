@@ -1,0 +1,122 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "S. Charnoz, C. Porco, Cassini Imaging Team"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "June 1, 2004"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "212,280 km",
+        "type": "Metric"
+      },
+      {
+        "text": "131,905 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "211,431 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "213,129 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.00315948 Earth years "
+      },
+      {
+        "text": "1.154 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "1,333,789.24 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "48,158.2 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.004"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "0.181"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "2.5 km",
+        "type": "Metric"
+      },
+      {
+        "text": "1.6 miles",
+        "type": "English"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "15.7 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "65 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "32,970,705,528,138 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "3.2971 x 1013 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "0.5 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "78.54 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.00035 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "5 km/h",
+        "type": "Metric"
+      }
+    ]
+  }
+}

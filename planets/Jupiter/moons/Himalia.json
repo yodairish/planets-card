@@ -1,0 +1,130 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "Charles Dillon Perrine"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "3 December 1904"
+      }
+    ],
+    "Orbit Size Around Jupiter (semi-major axis)": [
+      {
+        "text": "11,461,000 km",
+        "type": "Metric"
+      },
+      {
+        "text": "7,121,535 miles",
+        "type": "English"
+      },
+      {
+        "text": "1.146x107 km",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "9,600,880 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "13,321,120 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.685995893 Earth years "
+      },
+      {
+        "text": "250.56 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "71,534,999.03 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "11,895.9 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.1623"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "27.496"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "85.0 (assuming an albedo of 0.04) km",
+        "type": "Metric"
+      },
+      {
+        "text": "52.8 miles",
+        "type": "English"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "534.1 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "2,572,441 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "6,744,007,948,937,370,000 kg",
+        "type": "Metric"
+      }
+    ],
+    "Density": [
+      {
+        "text": "2.6 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "90,792.03 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.062 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "370 km/h",
+        "type": "Metric"
+      },
+      {
+        "text": "230 mph",
+        "type": "English"
+      },
+      {
+        "text": "103 m/s",
+        "type": "Scientific Notation"
+      }
+    ]
+  }
+}

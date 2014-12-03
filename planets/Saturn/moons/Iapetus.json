@@ -1,0 +1,124 @@
+{
+  "facts": {
+    "Discovered By": [
+      {
+        "text": "G.D. Cassini"
+      }
+    ],
+    "Date of Discovery": [
+      {
+        "text": "1671"
+      }
+    ],
+    "Orbit Size Around Saturn (semi-major axis)": [
+      {
+        "text": "3,560,851 km",
+        "type": "Metric"
+      },
+      {
+        "text": "2,212,610 miles",
+        "type": "English"
+      }
+    ],
+    "Periapsis (closest)": [
+      {
+        "text": "3,456,518 km",
+        "type": "Metric"
+      }
+    ],
+    "Apoapsis (farthest)": [
+      {
+        "text": "3,665,184 km",
+        "type": "Metric"
+      }
+    ],
+    "Sidereal Orbit Period (Length of Year)": [
+      {
+        "text": "0.217193703 Earth years "
+      },
+      {
+        "text": "79.33 Earth days "
+      }
+    ],
+    "Orbit Circumference": [
+      {
+        "text": "22,368,684.06 km",
+        "type": "Metric"
+      }
+    ],
+    "Average Orbit Velocity": [
+      {
+        "text": "11,748.8 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Orbit Eccentricity": [
+      {
+        "text": "0.0293"
+      }
+    ],
+    "Orbit Inclination": [
+      {
+        "text": "8.313 degrees"
+      }
+    ],
+    "Mean Radius": [
+      {
+        "text": "735.6 km",
+        "type": "Metric"
+      }
+    ],
+    "Equatorial Circumference": [
+      {
+        "text": "4,621.9 km",
+        "type": "Metric"
+      }
+    ],
+    "Volume": [
+      {
+        "text": "1,667,300,080 km3",
+        "type": "Metric"
+      }
+    ],
+    "Mass": [
+      {
+        "text": "1,805,952,411,282,580,000,000 kg",
+        "type": "Metric"
+      },
+      {
+        "text": "1.8060 x 1021 kg",
+        "type": "Scientific Notation"
+      }
+    ],
+    "Density": [
+      {
+        "text": "1.083 g/cm3",
+        "type": "Metric"
+      }
+    ],
+    "Surface Area": [
+      {
+        "text": "6,799,755.63 km2",
+        "type": "Metric"
+      }
+    ],
+    "Surface Gravity": [
+      {
+        "text": "0.223 m/s2",
+        "type": "Metric"
+      }
+    ],
+    "Escape Velocity": [
+      {
+        "text": "2,061 km/h",
+        "type": "Metric"
+      }
+    ],
+    "Rotation Period (Length of Day)": [
+      {
+        "type": "comparison",
+        "text": "Synchronous with orbital period"
+      }
+    ]
+  }
+}
