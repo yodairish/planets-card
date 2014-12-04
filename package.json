@@ -4,6 +4,7 @@
   "description": "",
   "scripts": {
     "test": "jest",
+    "parser": "node js/parser/nasaParser",
     "info": "node ./js/parser/info"
   },
   "repository": {

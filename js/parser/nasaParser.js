@@ -10,5 +10,6 @@ var planets = require('./planets'),
 if (PLANETS.indexOf(argPlanet) !== -1) {
   planets(argPlanet);
 } else {
+  // TODO run all consecutively
   PLANETS.forEach(planets);
 }

@@ -42,6 +42,7 @@ module.exports = function(options, cb) {
   function parseHtml(errors, window) {
     if (!window) {
       cb('missions');
+      
       return;
     }
     

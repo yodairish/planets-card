@@ -37,6 +37,7 @@ if (types) {
 module.exports = function(planet) {
   var typesDone = processCount;
   
+  // TODO add promises
   if (modules.facts) {
     facts({
       planet: planet,
