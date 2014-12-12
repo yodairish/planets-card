@@ -1,0 +1,18 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+
+<polymer-element name="list-grid" attributes="row col size cell">
+  <template>
+    <link rel="stylesheet" href="list-grid.css" />
+    <div id="list" style="width: {{pageWidth}}px;
+                          height: {{pageHeight}}px;">
+      <div class="scrollNav" id="scrollLeft" on-click={{prevPage}}></div>
+	    <div id="scrollBody" style="width: {{pagesContainerWidth}}px;
+	                                transform: translateX({{pageShift}}px);">
+	      <content id="content" select="list-grid-item"></content>
+	    </div>
+    	<div class="scrollNav" id="scrollRight" on-click={{nextPage}}></div>
+    </div>
+  </template>
+  
+  <script src="list-grid.js"></script>
+</polymer-element>

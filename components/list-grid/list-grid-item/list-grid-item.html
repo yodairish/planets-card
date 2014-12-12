@@ -1,0 +1,22 @@
+<link rel="import" href="../../../bower_components/polymer/polymer.html">
+
+<polymer-element name="list-grid-item" attributes="img size action">
+  <template>
+    <link rel="stylesheet" href="list-grid-item.css" />
+    
+    <div id="container" horizontal layout end
+    	style="background: url({{img}}) center/cover no-repeat;
+    				 width: {{size}}px;
+    				 height: {{size}}px;
+    				 font-size: {{fontSize}}px;">
+  		<div id="title" horizontal layout center>
+  			<div id="blackout"></div>
+  			<div id="content">
+  				<content></content>
+  			</div>
+  		<div>
+    </div>
+  </template>
+  
+  <script src="list-grid-item.js"></script>
+</polymer-element>

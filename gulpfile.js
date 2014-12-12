@@ -4,6 +4,7 @@ var gulp = require('gulp'),
     merge = require('merge-stream'),
     pf = require('./js/paramFiles'),
     sourcemaps = require('gulp-sourcemaps'),
+    vulcanize = require('gulp-vulcanize'),
     // css
     csscomb = require('gulp-csscomb'),
     autoprefixer = require('autoprefixer-core'),
@@ -92,6 +93,19 @@ gulp.task('jslint', function() {
     .pipe(jshint.reporter('default'))
     .pipe(jscs())
     .pipe(jshint.reporter('fail'));
+});
+
+/**
+ * 
+ */
+gulp.task('component', function() {
+  return gulp.src('prototype/component.html')
+    .pipe(vulcanize({
+      dest: 'prototype/component',
+      strip: true,
+      inline: true
+    }))
+    .pipe(gulp.dest('prototype/component'));
 });
 
 /**

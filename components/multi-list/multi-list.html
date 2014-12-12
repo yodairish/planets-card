@@ -1,0 +1,21 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+<link rel="import" href="../../bower_components/paper-tabs/paper-tabs.html">
+<link rel="import" href="../../bower_components/core-pages/core-pages.html">
+
+<polymer-element name="multi-list" attributes="row col size cell">
+  <template>
+    <link rel="stylesheet" href="multi-list.css" />
+    
+    <paper-tabs id="tabs" selected="{{tab}}">
+      <template repeat="{{title in tabs}}">
+        <paper-tab>{{title}}</paper-tab>
+      </template>
+    </paper-tabs>
+    
+    <core-pages style="{{pageStyle | styleObject}}" selected="{{tab}}">
+      <content id="content" select="list-grid"></content>
+    </core-pages>
+  </template>
+  
+  <script src="multi-list.js"></script>
+</polymer-element>

@@ -1,0 +1,44 @@
+:host {
+	display: inline-block;
+	overflow: hidden;
+}
+
+#list {
+	position: relative;
+}
+
+.scrollNav {
+	position: absolute;
+	height: 100%;
+  width: 50px;
+  top: 0;
+  z-index: 300;
+  opacity: .5;
+  transition: transform .3s;
+  background-color: #444;
+}
+
+#scrollLeft {
+	left: 0;
+	transform: translateX(-38px);
+}
+
+#scrollRight {
+	right: 0;
+	transform: translateX(38px);
+}
+
+#scrollLeft:hover,
+#scrollRight:hover {
+	transform: translateX(0);
+	opacity: .9;
+}
+
+#scrollBody {
+  height: 100%;
+  transition: transform .4s;
+}
+
+.hidden {
+	display: none;
+}
