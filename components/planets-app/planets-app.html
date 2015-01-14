@@ -1,0 +1,12 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+<link rel="import" href="../planets-list/planets-list.html">
+<link rel="import" href="../detail-view/detail-view.html">
+
+<polymer-element name="planets-app" on-detail="{{updateDetail}}">
+  <template>
+    <planets-list></planets-list>
+    <detail-view data="{{data}}"></detail-view>
+  </template>
+  
+  <script src="planets-app.js"></script>
+</polymer-element>
