@@ -9,6 +9,5 @@ Polymer({
    */
   created: function() {
     
-  },
-  
+  }
 });

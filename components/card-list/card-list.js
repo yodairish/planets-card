@@ -17,10 +17,16 @@ Polymer({
     this.updateBlocks();
   },
   
+  /**
+   * On change width size
+   */
   widthChanged: function() {
     this.updateBlocks();
   },
-  
+
+  /**
+   * On change height size
+   */
   heightChanged: function() {
     this.updateBlocks();
   },

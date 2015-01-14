@@ -29,6 +29,7 @@ Polymer({
     var tabsListsHeight = ((this.width / 4) * this.listLines);
     
     this.cardsWidth = this.width;
-    this.cardsHeight = window.innerHeight - this.titleHeight - tabsListsHeight - 48;
+    this.cardsHeight = window.innerHeight - this.titleHeight -
+                       tabsListsHeight - 48;
   }
 });
