@@ -1,0 +1,22 @@
+<link rel="import" href="../../../bower_components/polymer/polymer.html">
+<link rel="import" href="../../../bower_components/core-icon-button/core-icon-button.html">
+
+<polymer-element name="card-list-item" attributes="width height color"
+                 on-click="{{openDetail}}">
+  <template>
+    <link rel="stylesheet" href="card-list-item.css" />
+    
+    <article id="container" style="{{styleContainer | styleObject}}">
+      <header id="header" on-click={{openDetail}}>
+        <content select="h1"></content>
+        <content select="h2"></content>
+      </headr>
+      <div id="content">
+        <core-icon-button id="btnClose" on-click="{{closeDetail}}" icon="close"></core-icon-button>
+        <content></content>
+      </div>
+    </article>
+  </template>
+  
+  <script src="card-list-item.js"></script>
+</polymer-element>

@@ -1,0 +1,17 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+<link rel="import" href="../../bower_components/core-ajax/core-ajax.html">
+
+<polymer-element name="planets-service" attributes="planets">
+  <template>
+    <link rel="stylesheet" href="planets-service.css" />
+    
+    <core-ajax id="ajax"
+      auto
+      url="planets.json"
+      on-core-response="{{planetsLoaded}}"
+      handleAs="json">
+    </core-ajax>
+  </template>
+  
+  <script src="planets-service.js"></script>
+</polymer-element>

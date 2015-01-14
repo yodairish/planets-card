@@ -1,0 +1,20 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+<link rel="import" href="../list-grid/list-grid.html">
+<link rel="import" href="../list-grid/list-grid-item/list-grid-item.html">
+<link rel="import" href="../planets-service/planets-service.html">
+
+<polymer-element name="planets-list">
+  <template>
+    <link rel="stylesheet" href="planets-list.css" />
+    
+    <planets-service planets="{{planets}}"></planets-service>
+    
+    <list-grid>
+      <template repeat="{{planet in planets}}">
+        <list-grid-item img="{{planet.img}}" size="{{size}}"></list-grid-item>
+      </template>
+    </list-grid>
+  </template>
+  
+  <script src="planets-list.js"></script>
+</polymer-element>

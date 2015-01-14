@@ -1,0 +1,12 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+
+<polymer-element name="card-list" attributes="width height">
+  <template>
+    <link rel="stylesheet" href="card-list.css" />
+    <div id="container" style="width:{{width}}px; height:{{height}}px;">
+      <content id="content" select="card-list-item"></content>
+    </div>
+  </template>
+  
+  <script src="card-list.js"></script>
+</polymer-element>
