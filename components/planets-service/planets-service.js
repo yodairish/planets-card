@@ -12,8 +12,8 @@ Polymer({
   /**
    * Save data from a file
    */
-  postsLoaded: function() {
-    this.planets = this.$.ajax.response.slice(0);
+  planetsLoaded: function() {
+    this.planets = this.$.ajax.response.planets;
   }
   
 });

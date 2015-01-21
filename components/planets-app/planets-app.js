@@ -2,6 +2,8 @@
 'use strict';
 
 Polymer({
+  detailView: '',
+  
   /**
    * Element prepared
    */
@@ -14,5 +16,13 @@ Polymer({
    */
   updateDetail: function(e, data) {
     this.data = data;
+    this.detailView = 'detailView';
+  },
+  
+  /**
+   * Show planets list
+   */
+  showPlanets: function() {
+    this.detailView = '';
   }
 });

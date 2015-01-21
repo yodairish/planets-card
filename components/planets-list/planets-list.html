@@ -5,11 +5,16 @@
 
 <polymer-element name="planets-list">
   <template>
-    <planets-service planets="{{planets}}"></planets-service>
+    <link rel="stylesheet" href="planets-list.css" />
     
-    <list-grid>
+    <planets-service planets="{{planets}}"></planets-service>
+
+    <list-grid id="list" size="{{listSize}}" cell="{{planetSize}}" full>
       <template repeat="{{planet in planets}}">
-        <list-grid-item img="{{planet.img}}" size="{{size}}"></list-grid-item>
+        <list-grid-item img="../planets/{{planet.img}}"
+                        data="{{planet}}">
+          {{planet.name}}
+        </list-grid-item>
       </template>
     </list-grid>
   </template>

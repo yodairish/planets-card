@@ -85,6 +85,8 @@ Polymer({
     this.updateLists(lists);
     this.updateTabs(lists);
     
+    this.$.pages.selectedChanged();
+    
     this.onMutation(this, this.updateContent);
   },
   
@@ -118,5 +120,7 @@ Polymer({
       this.tabs.push(title);
       num++;
     }.bind(this));
+    
+    this.tab = 0;
   }
 });

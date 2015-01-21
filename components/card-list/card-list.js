@@ -15,6 +15,8 @@ Polymer({
    */
   ready: function() {
     this.updateBlocks();
+    
+    this.onMutation(this, this.updateContent);
   },
   
   /**
@@ -29,6 +31,15 @@ Polymer({
    */
   heightChanged: function() {
     this.updateBlocks();
+  },
+  
+  /**
+   * On content updated
+   */
+  updateContent: function() {
+    this.updateBlocks();
+    
+    this.onMutation(this, this.updateContent);
   },
   
   /**

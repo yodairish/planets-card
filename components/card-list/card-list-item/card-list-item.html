@@ -2,12 +2,12 @@
 <link rel="import" href="../../../bower_components/core-icon-button/core-icon-button.html">
 
 <polymer-element name="card-list-item" attributes="width height color"
-                 on-click="{{openDetail}}">
+                 on-click="{{showCard}}">
   <template>
     <link rel="stylesheet" href="card-list-item.css" />
     
     <article id="container" style="{{styleContainer | styleObject}}">
-      <header id="header" on-click={{openDetail}}>
+      <header id="header" on-click={{showCard}}>
         <content select="h1"></content>
         <content select="h2"></content>
       </headr>

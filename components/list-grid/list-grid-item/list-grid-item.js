@@ -11,5 +11,12 @@ Polymer({
    */
   sizeChanged: function() {
     this.fontSize = this.size / 6;
+  },
+  
+  /**
+   * Handles the selection of the item
+   */
+  onChoose: function() {
+    this.fire('detail', this.data);
   }
 });

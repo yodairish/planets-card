@@ -75,7 +75,7 @@ Polymer({
   /**
    * Open detail view
    */
-  openDetail: function() {
+  showCard: function() {
     this.active = true;
   },
   

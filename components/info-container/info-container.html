@@ -1,7 +1,7 @@
 <link rel="import" href="../../bower_components/polymer/polymer.html">
 <link rel="import" href="../multi-list/multi-list.html">
 
-<polymer-element name="info-container" attributes="active title">
+<polymer-element name="info-container" attributes="data">
   <template>
     <link rel="stylesheet" href="info-container.css" />
     
@@ -9,18 +9,38 @@
          style="width: {{width}}px"
          layout vertical>
       
-      <h1 id="title">{{title}}</h1>
+      <h1 id="title">{{data.name}}</h1>
       
       <card-list id="cardLists"
                  width="{{cardsWidth}}" height="{{cardsHeight}}">
-        <content select="card-list-item"></content>
+        <template repeat="{{card in data.cards}}">
+          <card-list-item>
+            <h1>{{card.title}}</h1>
+            <h1>{{card.subTitle}}</h1>
+            <p>{{card.text}}</p>
+          </card-list-item>
+        </template>
       </card-list>
       
-      <multi-list id="tabsLists"
-                  cell="{{width / 4}}" size="{{listLines}} 4"
-                  flex self-end>
-        <content select="list-grid"></content>
-      </multi-list>
+      <template if="{{data.lists && data.lists.length}}">
+        <multi-list id="tabsLists"
+                    cell="{{width / cellsDevide}}" size="{{listLines}} 4">
+                    <!--flex self-end>-->
+          <template repeat="{{list in data.lists}}">
+            <span>{{list.title}}</span>
+            
+            <list-grid title="{{list.title}}">
+              <template repeat="{{item in list.items}}">
+                <list-grid-item img="../planets/{{item.img}}"
+                                data="{{item}}">
+                  {{item.name}}
+                </list-grid-item>
+              </template>
+            </list-grid>
+            
+          </template>
+        </multi-list>
+      </template>
     </div>
   </template>
   

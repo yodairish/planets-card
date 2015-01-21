@@ -1,9 +1,11 @@
 <link rel="import" href="../../bower_components/polymer/polymer.html">
 <link rel="import" href="../info-container/info-container.html">
 
-<polymer-element name="detail-view">
+<polymer-element name="detail-view" attributes="data">
   <template>
-    <img src="{{data.img}}">
+    <link rel="stylesheet" href="detail-view.css" />
+    
+    <img id="image" src="../planets/{{data.img}}">
     <info-container data="{{data}}"></info-container>
   </template>
   

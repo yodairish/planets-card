@@ -2,10 +2,16 @@
 <link rel="import" href="../planets-list/planets-list.html">
 <link rel="import" href="../detail-view/detail-view.html">
 
-<polymer-element name="planets-app" on-detail="{{updateDetail}}">
+<polymer-element name="planets-app"
+                 on-detail="{{updateDetail}}"
+                 on-planetsList="{{showPlanets}}">
   <template>
-    <planets-list></planets-list>
-    <detail-view data="{{data}}"></detail-view>
+    <link rel="stylesheet" href="planets-app.css" />
+    
+    <div id="container" class="{{detailView}}">
+      <planets-list id="planetList"></planets-list>
+      <detail-view id="detail" data="{{data}}"></detail-view>
+    </div>
   </template>
   
   <script src="planets-app.js"></script>

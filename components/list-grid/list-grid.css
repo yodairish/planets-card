@@ -39,6 +39,18 @@
   transition: transform .4s;
 }
 
+#scrollBody list-grid-item {
+	float: left;
+}
+
 .hidden {
 	display: none;
+}
+
+:host([full]),
+:host([full]) #list,
+:host([full]) #scrollBody {
+	width: 100%!important;
+	height: 100%!important;
+	overflow: auto;
 }

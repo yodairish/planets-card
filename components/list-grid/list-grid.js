@@ -6,18 +6,21 @@ Polymer({
   col: 3,
   size: '',
   cell: 150,
+  full: false,
   pageWidth: 450,
   pageHeight: 450,
   pagesCount: 1,
   pagesContainerWidth: 450,
   pageShift: 0,
   page: 0,
+  fullLayout: ['layout', 'horizontal', 'center', 'wrap', 'around-justified'],
   
   /**
    * Inserted into DOM
    */
   attached: function() {
     this.cellChanged();
+    this.onMutation(this, this.cellChanged);
   },
   
   /**
@@ -84,11 +87,22 @@ Polymer({
   },
   
   /**
+   * On full state change
+   */
+  fullChanged: function() {
+    this.fullLayout.forEach(function(attr) {
+      this.$.scrollBody[
+        (this.full ? 'setAttribute' : 'removeAttribute')
+      ](attr, '');
+    }.bind(this));
+  },
+  
+  /**
    * Update child items size
    */
   updateCells: function() {
     var nodes = this.$.content.getDistributedNodes();
-    
+
     _(nodes).forEach(function(node) {
       node.setAttribute('size', this.cell);
     }.bind(this));
