@@ -26,8 +26,8 @@ Polymer({
    * Update with data from history
    */
   goHistory: function() {
-    if (!history.state) {
-      this.fire('planetsList');
+    if (!history.state || !history.state.name) {
+      this.fire('planets', {});
       
     } else {
       this.changingHistory = true;

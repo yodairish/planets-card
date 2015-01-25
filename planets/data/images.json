@@ -1,0 +1,38 @@
+{
+  "Earth": [
+    "earth.jpg"
+  ],
+  "Venus": [
+    "venus.jpg"
+  ],
+  "Jupiter": [
+    "jupiter.jpg",
+    "jupiter1.jpg",
+    "jupiter2.jpg",
+    "jupiter3.jpg"
+  ],
+  "Mars": [
+    "mars.jpg",
+    "mars1.jpg",
+    "mars2.jpg",
+    "mars3.jpg"
+  ],
+  "Mercury": [
+    "mercury.jpg"
+  ],
+  "Neptune": [
+    "neptune.jpg"
+  ],
+  "Saturn": [
+    "saturn.jpg",
+    "saturn1.jpg",
+    "saturn2.jpg"
+  ],
+  "Uranus": [
+    "uranus.jpg",
+    "uranus1.jpg"
+  ],
+  "Venus": [
+    "venus.jpg"
+  ]
+}

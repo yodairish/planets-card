@@ -203,11 +203,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Sputnik was the opening shot in the space race between the United States and the former Soviet Union. The basketball-sized spacecraft was the world's first artificial satellite. It orbited the Earth sending back a beeping signal for 23 days."
+                  "text": [
+                    ": Sputnik was the opening shot in the space race between the United States and the former Soviet Union. The basketball-sized spacecraft was the world's first artificial satellite. It orbited the Earth sending back a beeping signal for 23 days."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Sputnik created shockwaves back on Earth. It was an amazing technical achievement followed only a month later by the stunning launch of Sputnik II, which carried the first living thing - Laika the dog - into space. The U.S. responded in January 1958 with the launch of Explorer 1. Another American response to Sputnik: The creation of NASA in October 1958."
+                  "text": [
+                    ": Sputnik created shockwaves back on Earth. It was an amazing technical achievement followed only a month later by the stunning launch of Sputnik II, which carried the first living thing - Laika the dog - into space. The U.S. responded in January 1958 with the launch of Explorer 1. Another American response to Sputnik: The creation of NASA in October 1958."
+                  ]
                 }
               ]
             },
@@ -225,11 +229,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Explorer 1 was the first spacecraft successfully launched by the U.S. It orbited Earth every 115 minutes, 358 kilometers (220 miles) above the surface at its closest point and 2,550 kilometers (1,580 miles) at its farthest. It carried instruments to measure cosmic rays, micrometeorites, and its own temperature, transmitting this data until May 23, 1958."
+                  "text": [
+                    ": Explorer 1 was the first spacecraft successfully launched by the U.S. It orbited Earth every 115 minutes, 358 kilometers (220 miles) above the surface at its closest point and 2,550 kilometers (1,580 miles) at its farthest. It carried instruments to measure cosmic rays, micrometeorites, and its own temperature, transmitting this data until May 23, 1958."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Explorer 1 found a radiation belt around Earth, which came to be called the Van Allen radiation belt after James Van Allen, the scientist who built the cosmic ray detector. It also proved the United States could successfully launch a satellite into Earth orbit."
+                  "text": [
+                    ": Explorer 1 found a radiation belt around Earth, which came to be called the Van Allen radiation belt after James Van Allen, the scientist who built the cosmic ray detector. It also proved the United States could successfully launch a satellite into Earth orbit."
+                  ]
                 }
               ]
             },
@@ -246,11 +254,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Bumper rockets were the first two-stage rockets -- a German V-2 missile coupled with an American-made WAC Corporal. They were designed to test high altitude rocket systems and study Earth's upper atmosphere."
+                  "text": [
+                    ": Bumper rockets were the first two-stage rockets -- a German V-2 missile coupled with an American-made WAC Corporal. They were designed to test high altitude rocket systems and study Earth's upper atmosphere."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Bumper rockets were the first human-made objects to cross the boundary into outer space, although they did not orbit the Earth like Sputnik 1 (the first true spacecraft). The rocket's upper stages were able to reach then-record altitudes of up to 399 kilometers (248 miles), higher than even modern space shuttles fly. The rockets' small science payloads also sent back information on air temperatures and cosmic ray impacts."
+                  "text": [
+                    ": Bumper rockets were the first human-made objects to cross the boundary into outer space, although they did not orbit the Earth like Sputnik 1 (the first true spacecraft). The rocket's upper stages were able to reach then-record altitudes of up to 399 kilometers (248 miles), higher than even modern space shuttles fly. The rockets' small science payloads also sent back information on air temperatures and cosmic ray impacts."
+                  ]
                 }
               ]
             },
@@ -268,11 +280,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Galileo used Earth's gravity to help it build up enough speed to hurl itself toward Jupiter. But the Earth flyby provided a chance to use the spacecraft's instruments to study Earth from a unique perspective."
+                  "text": [
+                    ": Galileo used Earth's gravity to help it build up enough speed to hurl itself toward Jupiter. But the Earth flyby provided a chance to use the spacecraft's instruments to study Earth from a unique perspective."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The Galileo spacecraft found evidence of life on Earth. Not a surprising discovery, but the use of instruments to detect traces of life in a planet's atmosphere will be useful as future space probes continue to seek evidence of life beyond Earth.\nGalileo's cameras captured unique never-before-seen views of Antarctica and also the Earth and Moon together - a glimpse at what someone from another world might see as they approached our little piece of the solar system."
+                  "text": [
+                    ": The Galileo spacecraft found evidence of life on Earth. Not a surprising discovery, but the use of instruments to detect traces of life in a planet's atmosphere will be useful as future space probes continue to seek evidence of life beyond Earth.\nGalileo's cameras captured unique never-before-seen views of Antarctica and also the Earth and Moon together - a glimpse at what someone from another world might see as they approached our little piece of the solar system."
+                  ]
                 }
               ]
             },
@@ -291,11 +307,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Deep Impact's primary mission was to deliver a special impactor spacecraft into the path of comet Tempel 1. After its successful impact mission, Deep impact was sent on an extended mission of another comet flyby, observations around planets orbiting other stars and a space-based observatory to study targets of opportunity with its telescopes and instruments."
+                  "text": [
+                    ": Deep Impact's primary mission was to deliver a special impactor spacecraft into the path of comet Tempel 1. After its successful impact mission, Deep impact was sent on an extended mission of another comet flyby, observations around planets orbiting other stars and a space-based observatory to study targets of opportunity with its telescopes and instruments."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Making a video of Earth from so far away helps the search for other life-bearing planets in the Universe by giving insights into how a distant, Earth-like alien world would appear to us. For example, Sun glints off Earth's oceans could guide scientists to spot alien oceans (and potentially habitable alien worlds)."
+                  "text": [
+                    ": Making a video of Earth from so far away helps the search for other life-bearing planets in the Universe by giving insights into how a distant, Earth-like alien world would appear to us. For example, Sun glints off Earth's oceans could guide scientists to spot alien oceans (and potentially habitable alien worlds)."
+                  ]
                 }
               ]
             }
@@ -509,7 +529,8 @@
             }
           ]
         }
-      ]
+      ],
+      "img": "images/Earth/earth.jpg"
     },
     {
       "name": "Jupiter",
@@ -729,11 +750,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Pioneer 10 was the first spacecraft intended to fly by Jupiter, surviving the intense radiation that surrounds the giant planet and then on a trajectory that would take it out of the Solar System."
+                  "text": [
+                    ": Pioneer 10 was the first spacecraft intended to fly by Jupiter, surviving the intense radiation that surrounds the giant planet and then on a trajectory that would take it out of the Solar System."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The spacecraft became the first to fly beyond Mars' orbit, through the asteroid belt, and close to Jupiter, blazing a trail for the two Voyager spacecraft that were to follow and conduct more in-depth surveys. Long before and after flying by Jupiter, Pioneer 10 transmitted data on the magnetic fields, energetic particle radiation and dust populations in interplanetary space. As it passed through the Jupiter system, it transmitted hundreds of photos of the planet and its moons, along with measurements of the Jovian atmosphere.\nTracking Pioneer 10 and 11 as they sped away from the sun revealed what came to be called the \"Pioneer Anomaly\" - the spacecraft traveled about 5,000 km less than expected each year. In 2012, scientists announced the slight, but detectable effect of heat pushing back on the twin spacecraft explains unexpected slowing."
+                  "text": [
+                    ": The spacecraft became the first to fly beyond Mars' orbit, through the asteroid belt, and close to Jupiter, blazing a trail for the two Voyager spacecraft that were to follow and conduct more in-depth surveys. Long before and after flying by Jupiter, Pioneer 10 transmitted data on the magnetic fields, energetic particle radiation and dust populations in interplanetary space. As it passed through the Jupiter system, it transmitted hundreds of photos of the planet and its moons, along with measurements of the Jovian atmosphere.\nTracking Pioneer 10 and 11 as they sped away from the sun revealed what came to be called the \"Pioneer Anomaly\" - the spacecraft traveled about 5,000 km less than expected each year. In 2012, scientists announced the slight, but detectable effect of heat pushing back on the twin spacecraft explains unexpected slowing."
+                  ]
                 }
               ]
             },
@@ -752,11 +777,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": On its way to Saturn, Pioneer 11 was to become the second spacecraft to fly by Jupiter."
+                  "text": [
+                    ": On its way to Saturn, Pioneer 11 was to become the second spacecraft to fly by Jupiter."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Pioneer 11 flew three times closer to Jupiter than Pioneer 10, but was exposed to less radiation because of its high speed. The spacecraft provided the first look at Jupiter's polar regions. The spacecraft also found Jupiter's vast magnetosphere changes as it is buffeted by the solar wind.\nThe dormant spacecraft is now headed out of our solar system in the general direction of Sagittarius, toward the center of the galaxy. Both Pioneers 10 and 11 carry a plaque with a message for any intelligent beings that might find them."
+                  "text": [
+                    ": Pioneer 11 flew three times closer to Jupiter than Pioneer 10, but was exposed to less radiation because of its high speed. The spacecraft provided the first look at Jupiter's polar regions. The spacecraft also found Jupiter's vast magnetosphere changes as it is buffeted by the solar wind.\nThe dormant spacecraft is now headed out of our solar system in the general direction of Sagittarius, toward the center of the galaxy. Both Pioneers 10 and 11 carry a plaque with a message for any intelligent beings that might find them."
+                  ]
                 }
               ]
             },
@@ -774,11 +803,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Galileo was designed to make the first study of Jupiter and its moons and magnetosphere from orbit. The orbiter carried 10 science instruments and a atmospheric probe."
+                  "text": [
+                    ": Galileo was designed to make the first study of Jupiter and its moons and magnetosphere from orbit. The orbiter carried 10 science instruments and a atmospheric probe."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Like the famed astronomer for which it was named, the Galileo spacecraft logged quite a few firsts during its 14-year mission to Jupiter. Among its discoveries: an intense radiation belt above Jupiter's cloud tops, helium in about the same concentration as the Sun, extensive and rapid resurfacing of the moon Io because of volcanism, and evidence for liquid water oceans under the moon Europa's icy surface.\nThe orbiter carried a small probe that became the first to sample the atmosphere of a gas planet. The probe measured temperature, pressure, chemical composition, cloud characteristics, sunlight and energy internal to the planet, and lightning. During its 58-minute life, the probe penetrated 200 km (124 miles) into Jupiter's violent atmosphere before it was crushed, melted, and/or vaporized by the pressure and temperature of the atmosphere."
+                  "text": [
+                    ": Like the famed astronomer for which it was named, the Galileo spacecraft logged quite a few firsts during its 14-year mission to Jupiter. Among its discoveries: an intense radiation belt above Jupiter's cloud tops, helium in about the same concentration as the Sun, extensive and rapid resurfacing of the moon Io because of volcanism, and evidence for liquid water oceans under the moon Europa's icy surface.\nThe orbiter carried a small probe that became the first to sample the atmosphere of a gas planet. The probe measured temperature, pressure, chemical composition, cloud characteristics, sunlight and energy internal to the planet, and lightning. During its 58-minute life, the probe penetrated 200 km (124 miles) into Jupiter's violent atmosphere before it was crushed, melted, and/or vaporized by the pressure and temperature of the atmosphere."
+                  ]
                 }
               ]
             },
@@ -798,11 +831,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Voyager 1 and 2 were designed to take advantage of a rare planetary alignment to explore the outer solar system. Voyager 2 targeted Jupiter, Saturn, Uranus and Neptune. Like it's sister spacecraft, Voyager 2 also was designed to study the edge of our solar system beyond the planets."
+                  "text": [
+                    ": Voyager 1 and 2 were designed to take advantage of a rare planetary alignment to explore the outer solar system. Voyager 2 targeted Jupiter, Saturn, Uranus and Neptune. Like it's sister spacecraft, Voyager 2 also was designed to study the edge of our solar system beyond the planets."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": During the Jupiter leg of its journey, Voyager 2 was to explore the giant planet, its magnetosphere and moons in greater detail than had the Pioneer spacecraft that preceded it. Voyager 2 was not only to study Jupiter, but to use it as a springboard to Saturn, using the gravity-assist technique.\nVoyager 2 succeeded on all counts. It returned spectacular photos of the entire Jovian system, and time-lapse movies made from its images of Jupiter showed how the planet had changed since Voyager 1's visit. Its images of Io revealed changes in the moon's surface and the persistence of its volcanic eruptions. The spacecraft resolved the streaks Voyager 1 had shown on Europa into a collection of cracks in a thick and remarkably smooth icy crust. It also discovered a 14th moon and revealed a third component to the planet's rings."
+                  "text": [
+                    ": During the Jupiter leg of its journey, Voyager 2 was to explore the giant planet, its magnetosphere and moons in greater detail than had the Pioneer spacecraft that preceded it. Voyager 2 was not only to study Jupiter, but to use it as a springboard to Saturn, using the gravity-assist technique.\nVoyager 2 succeeded on all counts. It returned spectacular photos of the entire Jovian system, and time-lapse movies made from its images of Jupiter showed how the planet had changed since Voyager 1's visit. Its images of Io revealed changes in the moon's surface and the persistence of its volcanic eruptions. The spacecraft resolved the streaks Voyager 1 had shown on Europa into a collection of cracks in a thick and remarkably smooth icy crust. It also discovered a 14th moon and revealed a third component to the planet's rings."
+                  ]
                 }
               ]
             },
@@ -824,11 +861,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Voyager 1 and 2 were designed to take advantage of a rare planetary alignment to explore the outer solar system. Voyager 1 targeted Jupiter and Saturn before continuing on to chart the far edges of our solar system.\nDuring the Jupiter leg of its journey, Voyager 1 was to explore the giant planet, its magnetosphere and moons in greater detail than the Pioneer spacecraft that preceded it. Voyager 1 was not only to study Jupiter, but to use it as a springboard to Saturn, using the gravity-assist technique."
+                  "text": [
+                    ": Voyager 1 and 2 were designed to take advantage of a rare planetary alignment to explore the outer solar system. Voyager 1 targeted Jupiter and Saturn before continuing on to chart the far edges of our solar system.\nDuring the Jupiter leg of its journey, Voyager 1 was to explore the giant planet, its magnetosphere and moons in greater detail than the Pioneer spacecraft that preceded it. Voyager 1 was not only to study Jupiter, but to use it as a springboard to Saturn, using the gravity-assist technique."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Voyager 1 succeeded on all counts, with the single exception of experiments using its photopolarimeter, which failed to operate. Jupiter's atmosphere was found to be more active than during the visits of Pioneer 10 and 11, sparking a rethinking of the earlier atmospheric models which could not explain the new features. The spacecraft imaged the moons Amalthea, Io, Europa, Ganymede, and Callisto, showing details of their terrain for the first time.\nPossibly the most stunning of Voyager 1's discoveries was that Io has extremely active volcanoes, powered by heat generated by the stretching and relaxing the moon endures every 42 hours as its elliptical orbit brings it closer to and then farther from Jupiter. This finding revolutionized scientists' concept of the moons of the outer planets. The spacecraft also discovered a thin ring around the planet (then making it the second planet known to have a ring), and two new moons: Thebe and Metis.\nVoyager 1 entered interstellar space in August 2012."
+                  "text": [
+                    ": Voyager 1 succeeded on all counts, with the single exception of experiments using its photopolarimeter, which failed to operate. Jupiter's atmosphere was found to be more active than during the visits of Pioneer 10 and 11, sparking a rethinking of the earlier atmospheric models which could not explain the new features. The spacecraft imaged the moons Amalthea, Io, Europa, Ganymede, and Callisto, showing details of their terrain for the first time.\nPossibly the most stunning of Voyager 1's discoveries was that Io has extremely active volcanoes, powered by heat generated by the stretching and relaxing the moon endures every 42 hours as its elliptical orbit brings it closer to and then farther from Jupiter. This finding revolutionized scientists' concept of the moons of the outer planets. The spacecraft also discovered a thin ring around the planet (then making it the second planet known to have a ring), and two new moons: Thebe and Metis.\nVoyager 1 entered interstellar space in August 2012."
+                  ]
                 }
               ]
             },
@@ -846,11 +887,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": New Horizons used Jupiter for a gravity assist to speed its journey to the outer solar system. The flyby also provided scientists a chance to check out the spacecraft's instruments."
+                  "text": [
+                    ": New Horizons used Jupiter for a gravity assist to speed its journey to the outer solar system. The flyby also provided scientists a chance to check out the spacecraft's instruments."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The powerful slingshot-like gravity assist trimmed three years off the spacecraft's journey to Pluto and beyond. During the Jupiter flyby, New Horizons observed lightning near the gas giant's poles, the creation of fresh ammonia clouds, and boulder-size clumps speeding through Jupiter's faint rings. The spacecraft also collected data on volcanic eruptions on Jupiter's moon Io, and the path of charged particles moving back and forth across the -- previously unexplored -- length of Jupiter's long magnetic tail. New Horizons also collected information that supports the theory that Jupiter's moon Europa has an ocean of liquid water underneath its icy crust."
+                  "text": [
+                    ": The powerful slingshot-like gravity assist trimmed three years off the spacecraft's journey to Pluto and beyond. During the Jupiter flyby, New Horizons observed lightning near the gas giant's poles, the creation of fresh ammonia clouds, and boulder-size clumps speeding through Jupiter's faint rings. The spacecraft also collected data on volcanic eruptions on Jupiter's moon Io, and the path of charged particles moving back and forth across the -- previously unexplored -- length of Jupiter's long magnetic tail. New Horizons also collected information that supports the theory that Jupiter's moon Europa has an ocean of liquid water underneath its icy crust."
+                  ]
                 }
               ]
             },
@@ -872,11 +917,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Ulysses primary science target was our Sun, but since existing rocket engines weren't powerful enough to boost a spacecraft above the Ecliptic Plane (where most planets and spacecraft orbit the Sun), Ulysses used Jupiter's gravity to hurl it into a solar-polar orbit."
+                  "text": [
+                    ": Ulysses primary science target was our Sun, but since existing rocket engines weren't powerful enough to boost a spacecraft above the Ecliptic Plane (where most planets and spacecraft orbit the Sun), Ulysses used Jupiter's gravity to hurl it into a solar-polar orbit."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": During the Jupiter flybys, scientists use Ulysses' instruments to study the giant planet and its influence on the solar system, which is second only to the Sun."
+                  "text": [
+                    ": During the Jupiter flybys, scientists use Ulysses' instruments to study the giant planet and its influence on the solar system, which is second only to the Sun."
+                  ]
                 }
               ]
             },
@@ -896,11 +945,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Cassini's flyby of Jupiter provided the final push to get the spacecraft to Saturn. It also presented an unprecedented chance to simultaneously study a gas giant planet from two different spacecraft. Mission controllers also used the flyby for a final test of the spacecraft's systems before the primary mission began."
+                  "text": [
+                    ": Cassini's flyby of Jupiter provided the final push to get the spacecraft to Saturn. It also presented an unprecedented chance to simultaneously study a gas giant planet from two different spacecraft. Mission controllers also used the flyby for a final test of the spacecraft's systems before the primary mission began."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Scientists used joint observations from Cassini and the Galileo spacecraft to reveal Jupiter's magnetosphere, a vast, invisible whirling bubble of charged particles surrounding the planet. The data revealed how Jupiter interacts with particles from our Sun. The results helped scientists understand Earth's own magnetosphere, which shields us from harmful solar radiation. Cassini also revealed Jupiter's radiation belts to be much harsher than expected -- information that will help engineers protect future robotic spacecraft -- and spotted new details in Jupiter's auroras."
+                  "text": [
+                    ": Scientists used joint observations from Cassini and the Galileo spacecraft to reveal Jupiter's magnetosphere, a vast, invisible whirling bubble of charged particles surrounding the planet. The data revealed how Jupiter interacts with particles from our Sun. The results helped scientists understand Earth's own magnetosphere, which shields us from harmful solar radiation. Cassini also revealed Jupiter's radiation belts to be much harsher than expected -- information that will help engineers protect future robotic spacecraft -- and spotted new details in Jupiter's auroras."
+                  ]
                 }
               ]
             }
@@ -7871,7 +7924,8 @@
             }
           ]
         }
-      ]
+      ],
+      "img": "images/Jupiter/jupiter.jpg"
     },
     {
       "name": "Mars",
@@ -8090,11 +8144,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": This small probe was designed to fly past Mars and study radiation and the ultraviolet spectrum in interplanetary space. Instruments to photograph and search for signs of organic life on Mars were removed shortly before launch due to weight constraints."
+                  "text": [
+                    ": This small probe was designed to fly past Mars and study radiation and the ultraviolet spectrum in interplanetary space. Instruments to photograph and search for signs of organic life on Mars were removed shortly before launch due to weight constraints."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. Virbations caused a guidance system malfunction and the spacecraft burned up in Earth's atmosphere without reaching orbit."
+                  "text": [
+                    ": None. Virbations caused a guidance system malfunction and the spacecraft burned up in Earth's atmosphere without reaching orbit."
+                  ]
                 }
               ]
             },
@@ -8110,11 +8168,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": This small probe was designed to fly past Mars and study radiation and the ultraviolet spectrum in interplanetary space."
+                  "text": [
+                    ": This small probe was designed to fly past Mars and study radiation and the ultraviolet spectrum in interplanetary space."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. Like its predecessor, launched only four days earlier, a malfunction minutes after launch prevented it from reaching Earth orbit. It burned up in Earth's atmosphere over eastern Siberia."
+                  "text": [
+                    ": None. Like its predecessor, launched only four days earlier, a malfunction minutes after launch prevented it from reaching Earth orbit. It burned up in Earth's atmosphere over eastern Siberia."
+                  ]
                 }
               ]
             },
@@ -8130,11 +8192,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Stripped of most scientific instruments, this mission -- also known as Sputnik 22 -- was primarily an engineering test flight to send a spacecraft flying past Mars."
+                  "text": [
+                    ": Stripped of most scientific instruments, this mission -- also known as Sputnik 22 -- was primarily an engineering test flight to send a spacecraft flying past Mars."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. An engine malfunction triggered an explosion in Earth orbit, destroying the spacecraft. The largest fragment re-entered Earth's atmosphere five days after launch."
+                  "text": [
+                    ": None. An engine malfunction triggered an explosion in Earth orbit, destroying the spacecraft. The largest fragment re-entered Earth's atmosphere five days after launch."
+                  ]
                 }
               ]
             },
@@ -8150,11 +8216,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": This was the Soviet Union's third and final attempt in 1962 to send a spacecraft to Mars as an engineering testbed. Unlike the other two missions, this one was designed to crash into Mars."
+                  "text": [
+                    ": This was the Soviet Union's third and final attempt in 1962 to send a spacecraft to Mars as an engineering testbed. Unlike the other two missions, this one was designed to crash into Mars."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. A timer malfunction shut down the main engine too soon, leaving the spacecraft stranded in Earth orbit. It eventually burned up in Earth's atmosphere."
+                  "text": [
+                    ": None. A timer malfunction shut down the main engine too soon, leaving the spacecraft stranded in Earth orbit. It eventually burned up in Earth's atmosphere."
+                  ]
                 }
               ]
             },
@@ -8171,11 +8241,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Mariner 3 was designed to snap a series of photos of Mars after an eight month journey studying interplanetary space."
+                  "text": [
+                    ": Mariner 3 was designed to snap a series of photos of Mars after an eight month journey studying interplanetary space."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. The spacecraft mysteriously lost power eight hours after launch and its solar panels apparently never unfurled to replenish the batteries. The inert spacecraft never achieved the correct Mars trajectory and eventually entered heliocentric (sun-centered) orbit."
+                  "text": [
+                    ": None. The spacecraft mysteriously lost power eight hours after launch and its solar panels apparently never unfurled to replenish the batteries. The inert spacecraft never achieved the correct Mars trajectory and eventually entered heliocentric (sun-centered) orbit."
+                  ]
                 }
               ]
             },
@@ -8192,11 +8266,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Like its predecessor, Mars 1 was a stripped down spacecraft intended more as an engineering test than a scientific mission. The spacecraft was equipped with a camera to snap photos during a Mars flyby and a magnetometer to study interplanetary space."
+                  "text": [
+                    ": Like its predecessor, Mars 1 was a stripped down spacecraft intended more as an engineering test than a scientific mission. The spacecraft was equipped with a camera to snap photos during a Mars flyby and a magnetometer to study interplanetary space."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Mars 1 was the first spacecraft launched by any nation to fly past Mars. Unfortunately, a malfunction in the spacecraft's attitude control system made maneuvering the spacecraft impossible and controllers eventually lost contact with the spacecraft. The inert spacecraft flew past Mars a few months later at a distance of 197,000 km (122,400 miles). Before contact was lost, scientists collected useful data on cosmic rays, magnetic field, micrometeoroid impacts and ionized gases."
+                  "text": [
+                    ": Mars 1 was the first spacecraft launched by any nation to fly past Mars. Unfortunately, a malfunction in the spacecraft's attitude control system made maneuvering the spacecraft impossible and controllers eventually lost contact with the spacecraft. The inert spacecraft flew past Mars a few months later at a distance of 197,000 km (122,400 miles). Before contact was lost, scientists collected useful data on cosmic rays, magnetic field, micrometeoroid impacts and ionized gases."
+                  ]
                 }
               ]
             },
@@ -8213,11 +8291,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Mariner 6 was designed to study the surface and atmosphere of Mars during a close flyby."
+                  "text": [
+                    ": Mariner 6 was designed to study the surface and atmosphere of Mars during a close flyby."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The spacecraft transmitted 49 far- and 26 near-encounter images, showing heavily cratered and chaotic areas similar to parts of Earth's moon, and a southern polar region with an intriguingly irregular border. Spectrometry of the polar cap indicated solid carbon dioxide. Surface pressure was calculated to be equal to about 30.5 km above Earth's surface. Atmospheric composition was found to be about 98 percent carbon dioxide (at the time of Mariner 4's flyby, it was assumed to be mostly nitrogen). Nighttime surface temperature was recorded as -73°C at the equator, dropping to -125°C at the south pole."
+                  "text": [
+                    ": The spacecraft transmitted 49 far- and 26 near-encounter images, showing heavily cratered and chaotic areas similar to parts of Earth's moon, and a southern polar region with an intriguingly irregular border. Spectrometry of the polar cap indicated solid carbon dioxide. Surface pressure was calculated to be equal to about 30.5 km above Earth's surface. Atmospheric composition was found to be about 98 percent carbon dioxide (at the time of Mariner 4's flyby, it was assumed to be mostly nitrogen). Nighttime surface temperature was recorded as -73°C at the equator, dropping to -125°C at the south pole."
+                  ]
                 }
               ]
             },
@@ -8234,11 +8316,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Like its predecessor Mariner 3, Mariner 4 was designed to snap a series of photos of Mars after an eight month journey studying interplanetary space. The spacecraft was also equipped to study the Martian atmosphere as it flew past."
+                  "text": [
+                    ": Like its predecessor Mariner 3, Mariner 4 was designed to snap a series of photos of Mars after an eight month journey studying interplanetary space. The spacecraft was also equipped to study the Martian atmosphere as it flew past."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Mariner 4 was one of the great successes of the early American space program. The spacecraft sent back 21 black and white images of the Martian surface -- the first pictures taken of another planet from space. The spacecraft found that Mars was a battered, cold and barren world. Scientists learned they would need retro rockets in addition to parachutes to safely deliver a spacecraft through the planet's thin atmosphere to the surface. Mariner 4 also found Mars' weak radiation belt."
+                  "text": [
+                    ": Mariner 4 was one of the great successes of the early American space program. The spacecraft sent back 21 black and white images of the Martian surface -- the first pictures taken of another planet from space. The spacecraft found that Mars was a battered, cold and barren world. Scientists learned they would need retro rockets in addition to parachutes to safely deliver a spacecraft through the planet's thin atmosphere to the surface. Mariner 4 also found Mars' weak radiation belt."
+                  ]
                 }
               ]
             },
@@ -8254,11 +8340,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": This Soviet third-generation spacecraft was designed to fly by Mars and take photographs. It also carried equipment to study interplanetary space."
+                  "text": [
+                    ": This Soviet third-generation spacecraft was designed to fly by Mars and take photographs. It also carried equipment to study interplanetary space."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": A solar panel malfunction deprived the spacecraft of critical power and communications were lost before it reached Mars. However, mission controllers were able to twice test fire plasma electric ion rocket engines -- making Zond 2 a successful technology test for future deep space missions."
+                  "text": [
+                    ": A solar panel malfunction deprived the spacecraft of critical power and communications were lost before it reached Mars. However, mission controllers were able to twice test fire plasma electric ion rocket engines -- making Zond 2 a successful technology test for future deep space missions."
+                  ]
                 }
               ]
             },
@@ -8275,11 +8365,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Identical to Mariner 6, which was launched 31 days earlier, Mariner 7 had the same goal: to study the surface and atmosphere of Mars during a close flyby."
+                  "text": [
+                    ": Identical to Mariner 6, which was launched 31 days earlier, Mariner 7 had the same goal: to study the surface and atmosphere of Mars during a close flyby."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The Mariner 7 mission benefited from its reprogrammable command system. When scientists, intrigued by Mariner 6's pictures of the Martian south pole, asked that Mariner 7 take extra pictures of that area, controllers were able to comply. The spacecraft took 93 far- and 33 near-encounter images, showing heavily cratered terrain very similar to images recorded by Mariner 6. The south polar cap was identified as mostly carbon dioxide."
+                  "text": [
+                    ": The Mariner 7 mission benefited from its reprogrammable command system. When scientists, intrigued by Mariner 6's pictures of the Martian south pole, asked that Mariner 7 take extra pictures of that area, controllers were able to comply. The spacecraft took 93 far- and 33 near-encounter images, showing heavily cratered terrain very similar to images recorded by Mariner 6. The south polar cap was identified as mostly carbon dioxide."
+                  ]
                 }
               ]
             },
@@ -8295,11 +8389,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Launched the same day as the U.S.'s successful Mariner 7 Mars-flyby mission, this was a Soviet attempt to orbit Mars."
+                  "text": [
+                    ": Launched the same day as the U.S.'s successful Mariner 7 Mars-flyby mission, this was a Soviet attempt to orbit Mars."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. The launch vehicle failed and the probe never reached Earth orbit."
+                  "text": [
+                    ": None. The launch vehicle failed and the probe never reached Earth orbit."
+                  ]
                 }
               ]
             },
@@ -8315,11 +8413,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Like its twin, which was unsuccessfully launched six days earlier, this Soviet spacecraft was intended to orbit Mars."
+                  "text": [
+                    ": Like its twin, which was unsuccessfully launched six days earlier, this Soviet spacecraft was intended to orbit Mars."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. One of the first-stage engines exploded on launch and the rocket carrying the probe crashed in a fireball 3 km from the launch site."
+                  "text": [
+                    ": None. One of the first-stage engines exploded on launch and the rocket carrying the probe crashed in a fireball 3 km from the launch site."
+                  ]
                 }
               ]
             },
@@ -8336,11 +8438,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": This was the first of two spacecraft in the Mariner Mars 71 project intended to orbit Mars for at least 90 days, gathering data on the Martian atmosphere and about 70 percent of the planet's surface."
+                  "text": [
+                    ": This was the first of two spacecraft in the Mariner Mars 71 project intended to orbit Mars for at least 90 days, gathering data on the Martian atmosphere and about 70 percent of the planet's surface."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. The launch vehicle malfunctioned. It carried its payload back into Earth's atmosphere and splashed down in the Atlantic Ocean about 560 km north of Puerto Rico."
+                  "text": [
+                    ": None. The launch vehicle malfunctioned. It carried its payload back into Earth's atmosphere and splashed down in the Atlantic Ocean about 560 km north of Puerto Rico."
+                  ]
                 }
               ]
             },
@@ -8356,11 +8462,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": It is widely believed that the primary purpose was to overtake America's Mariner 8 (which, ironically, was unsuccessfully launched 2 days earlier) and become the first spacecraft to orbit Mars."
+                  "text": [
+                    ": It is widely believed that the primary purpose was to overtake America's Mariner 8 (which, ironically, was unsuccessfully launched 2 days earlier) and become the first spacecraft to orbit Mars."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. Launch failure due to human programming error stranded the spacecraft in Earth orbit. It reentered Earth's atmosphere within two days of launch."
+                  "text": [
+                    ": None. Launch failure due to human programming error stranded the spacecraft in Earth orbit. It reentered Earth's atmosphere within two days of launch."
+                  ]
                 }
               ]
             },
@@ -8377,11 +8487,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": When Mariner 8 suffered a failed launch, Mariner 9 took on that spacecraft's mission of mapping 70 percent of the Martian surface in addition to its own objective of studying changes over time in the Martian atmosphere and surface."
+                  "text": [
+                    ": When Mariner 8 suffered a failed launch, Mariner 9 took on that spacecraft's mission of mapping 70 percent of the Martian surface in addition to its own objective of studying changes over time in the Martian atmosphere and surface."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Mariner 9 beat the Soviet Mars 2 (which had an 11-day head start) to Mars, becoming the first spacecraft to orbit another planet. After Mars' global dust storm subsided, the orbiter was able to map 85 percent of the Martian surface at a resolution of 1 to 2 km (with 2 percent mapped at a resolution of 100 to 300 meters) in addition to gathering abundant information about the surface and atmosphere. The more than 7,000 images it transmitted included the first detailed views of Olympus Mons, the solar system's largest volcano; Valles Marineris, a vast canyon system that dwarfs the Grand Canyon and was named for this spacecraft; the polar caps; and the moons Phobos and Deimos."
+                  "text": [
+                    ": Mariner 9 beat the Soviet Mars 2 (which had an 11-day head start) to Mars, becoming the first spacecraft to orbit another planet. After Mars' global dust storm subsided, the orbiter was able to map 85 percent of the Martian surface at a resolution of 1 to 2 km (with 2 percent mapped at a resolution of 100 to 300 meters) in addition to gathering abundant information about the surface and atmosphere. The more than 7,000 images it transmitted included the first detailed views of Olympus Mons, the solar system's largest volcano; Valles Marineris, a vast canyon system that dwarfs the Grand Canyon and was named for this spacecraft; the polar caps; and the moons Phobos and Deimos."
+                  ]
                 }
               ]
             },
@@ -8398,11 +8512,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": The Mars 2 mission had two objectives: to place an orbiter around Mars and to put a lander on the Martian surface in working order. Each was to take pictures and collect information about the planet. In addition, the orbiter was to monitor the solar wind and the interplanetary and Martian magnetic fields."
+                  "text": [
+                    ": The Mars 2 mission had two objectives: to place an orbiter around Mars and to put a lander on the Martian surface in working order. Each was to take pictures and collect information about the planet. In addition, the orbiter was to monitor the solar wind and the interplanetary and Martian magnetic fields."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The orbiter circled Mars as desired (a first for the USSR but the second overall, since the Soviet spacecraft arrived at Mars 13 days after America's Mariner 9) and transmitted valuable data to Earth until contact was lost in July 1972. The lander, however, entered the Martian atmosphere at too steep an angle. Its parachute failed to open and the lander crashed onto the Martian surface."
+                  "text": [
+                    ": The orbiter circled Mars as desired (a first for the USSR but the second overall, since the Soviet spacecraft arrived at Mars 13 days after America's Mariner 9) and transmitted valuable data to Earth until contact was lost in July 1972. The lander, however, entered the Martian atmosphere at too steep an angle. Its parachute failed to open and the lander crashed onto the Martian surface."
+                  ]
                 }
               ]
             },
@@ -8419,11 +8537,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Like its twin, Mars 2, which arrived at Mars five days earlier, Mars 3 had two objectives: to place an orbiter around Mars and to put a lander on the Martian surface in working order. Each was to take pictures and collect information about the planet. In addition, the orbiter was to monitor the solar wind and the interplanetary and Martian magnetic fields."
+                  "text": [
+                    ": Like its twin, Mars 2, which arrived at Mars five days earlier, Mars 3 had two objectives: to place an orbiter around Mars and to put a lander on the Martian surface in working order. Each was to take pictures and collect information about the planet. In addition, the orbiter was to monitor the solar wind and the interplanetary and Martian magnetic fields."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The lander was the first to achieve a survivable landing on the Martian surface. It began transmitting a TV image of the surface immediately after landing, but stopped permanently after only 20 seconds. Controllers surmised that the probe shorted out due to the electrical effects of a violent, planet-wide dust storm. The orbiter successfully attained Mars orbit, though one in which it took nearly 13 days to complete one orbit instead of the planned 25 hours. None of the pictures from the lander or orbiter showed much detail, but the orbiter transmitted meaningful scientific information until contact was lost in July 1972."
+                  "text": [
+                    ": The lander was the first to achieve a survivable landing on the Martian surface. It began transmitting a TV image of the surface immediately after landing, but stopped permanently after only 20 seconds. Controllers surmised that the probe shorted out due to the electrical effects of a violent, planet-wide dust storm. The orbiter successfully attained Mars orbit, though one in which it took nearly 13 days to complete one orbit instead of the planned 25 hours. None of the pictures from the lander or orbiter showed much detail, but the orbiter transmitted meaningful scientific information until contact was lost in July 1972."
+                  ]
                 }
               ]
             },
@@ -8440,11 +8562,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Like its sister mission, Mars 7 (which arrived at Mars three days earlier but failed to deliver its lander) Mars 6 was intended to place a lander on Mars. The bus was to fly by the planet, taking measurements as it passed."
+                  "text": [
+                    ": Like its sister mission, Mars 7 (which arrived at Mars three days earlier but failed to deliver its lander) Mars 6 was intended to place a lander on Mars. The bus was to fly by the planet, taking measurements as it passed."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The descent module transmitted 224 seconds of data-the first data returned from the Martian atmosphere-but much of it was unreadable because of a flaw in a computer chip. Contact was lost moments before the presumed landing. The bus that delivered the lander to Mars transmitted scientific information during its brief flyby of the planet."
+                  "text": [
+                    ": The descent module transmitted 224 seconds of data-the first data returned from the Martian atmosphere-but much of it was unreadable because of a flaw in a computer chip. Contact was lost moments before the presumed landing. The bus that delivered the lander to Mars transmitted scientific information during its brief flyby of the planet."
+                  ]
                 }
               ]
             },
@@ -8461,11 +8587,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Mars 4 was to orbit Mars (along with Mars 5), taking pictures and conducting remote-sensing experiments on the atmosphere and surface, and to serve as a communications relay for the Mars 6 and 7 landers."
+                  "text": [
+                    ": Mars 4 was to orbit Mars (along with Mars 5), taking pictures and conducting remote-sensing experiments on the atmosphere and surface, and to serve as a communications relay for the Mars 6 and 7 landers."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Faulty transistors disabled the spacecraft's ability to slow down and enter an orbit around Mars, so Mars 4 became a flyby mission. It transmitted the results of one imaging session and some radio occultation data which constituted the first detection of the nightside ionosphere on Mars. Following the flyby, Mars 4 returned data about the interplanetary environment."
+                  "text": [
+                    ": Faulty transistors disabled the spacecraft's ability to slow down and enter an orbit around Mars, so Mars 4 became a flyby mission. It transmitted the results of one imaging session and some radio occultation data which constituted the first detection of the nightside ionosphere on Mars. Following the flyby, Mars 4 returned data about the interplanetary environment."
+                  ]
                 }
               ]
             },
@@ -8482,11 +8612,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Like the ill-fated Mars 4, launched four days earlier, Mars 5 was designed to orbit Mars, taking pictures and conducting remote-sensing experiments on the atmosphere and surface, and to serve as a communications relay for the Mars 6 and 7 landers."
+                  "text": [
+                    ": Like the ill-fated Mars 4, launched four days earlier, Mars 5 was designed to orbit Mars, taking pictures and conducting remote-sensing experiments on the atmosphere and surface, and to serve as a communications relay for the Mars 6 and 7 landers."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Mars 5 achieved orbit around Mars, but its mission was cut short by an apparent micrometeoroid puncture which caused the main instrument compartment to slowly depressurize. During the 16 days of operational orbiting, the spacecraft returned atmospheric data and transmitted 43 usable photos and 5 panoramas of the Martian surface. Some surface features suggested erosion caused by flowing water."
+                  "text": [
+                    ": Mars 5 achieved orbit around Mars, but its mission was cut short by an apparent micrometeoroid puncture which caused the main instrument compartment to slowly depressurize. During the 16 days of operational orbiting, the spacecraft returned atmospheric data and transmitted 43 usable photos and 5 panoramas of the Martian surface. Some surface features suggested erosion caused by flowing water."
+                  ]
                 }
               ]
             },
@@ -8503,11 +8637,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Like its sister mission, Mars 6 (which arrived at Mars three days later) Mars 7 was to place a lander on the surface of Mars. The bus was to fly by the planet, taking measurements as it passed."
+                  "text": [
+                    ": Like its sister mission, Mars 6 (which arrived at Mars three days later) Mars 7 was to place a lander on the surface of Mars. The bus was to fly by the planet, taking measurements as it passed."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The bus that carried the lander to Mars collected and transmitted data as it flew by the planet. But the lander's main retro-rocket failed to fire, so rather than descend, the lander flew by Mars at a distance of 1,300 km."
+                  "text": [
+                    ": The bus that carried the lander to Mars collected and transmitted data as it flew by the planet. But the lander's main retro-rocket failed to fire, so rather than descend, the lander flew by Mars at a distance of 1,300 km."
+                  ]
                 }
               ]
             },
@@ -8525,11 +8663,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": NASA's Viking mission to Mars was composed of two pairs of spacecraft -- Viking 1 and Viking 2 -- each consisting of an orbiter and a lander. The spacecraft were designed to take high-resolution images of the Martian surface, characterize the structure and composition of the atmosphere and surface, and search for evidence of life."
+                  "text": [
+                    ": NASA's Viking mission to Mars was composed of two pairs of spacecraft -- Viking 1 and Viking 2 -- each consisting of an orbiter and a lander. The spacecraft were designed to take high-resolution images of the Martian surface, characterize the structure and composition of the atmosphere and surface, and search for evidence of life."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Viking 1 was the first successful mission to land on Mars (the Soviet Mars 3 lander survived for a few seconds after landing in 1971, but sent back no science data). The Viking 1 lander operated on Chryse Planitia until November 1982. The four Viking spacecraft provided numerous new insights into the nature and history of Mars, producing a vivid overall picture of a cold weathered surface with reddish volcanic soil under a thin, dry carbon dioxide atmosphere, clear evidence for the existence of ancient river beds and vast floods, and no detectable seismic activity.\nAlthough no traces of life were found, Viking found all elements essential to life on Earth -- carbon, nitrogen, hydrogen, oxygen and phosphorus -- were present on Mars."
+                  "text": [
+                    ": Viking 1 was the first successful mission to land on Mars (the Soviet Mars 3 lander survived for a few seconds after landing in 1971, but sent back no science data). The Viking 1 lander operated on Chryse Planitia until November 1982. The four Viking spacecraft provided numerous new insights into the nature and history of Mars, producing a vivid overall picture of a cold weathered surface with reddish volcanic soil under a thin, dry carbon dioxide atmosphere, clear evidence for the existence of ancient river beds and vast floods, and no detectable seismic activity.\nAlthough no traces of life were found, Viking found all elements essential to life on Earth -- carbon, nitrogen, hydrogen, oxygen and phosphorus -- were present on Mars."
+                  ]
                 }
               ]
             },
@@ -8547,11 +8689,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": NASA's Viking mission to Mars was composed of two pairs of spacecraft -- Viking 1 and Viking 2 -- each consisting of an orbiter and a lander. The spacecraft were designed to take high-resolution images of the Martian surface, characterize the structure and composition of the atmosphere and surface, and search for evidence of life."
+                  "text": [
+                    ": NASA's Viking mission to Mars was composed of two pairs of spacecraft -- Viking 1 and Viking 2 -- each consisting of an orbiter and a lander. The spacecraft were designed to take high-resolution images of the Martian surface, characterize the structure and composition of the atmosphere and surface, and search for evidence of life."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Viking 2 lander set down on Utopia Planitia and operated until April 1980. The four Viking spacecraft provided numerous new insights into the nature and history of Mars, producing a vivid overall picture of a cold weathered surface with reddish volcanic soil under a thin, dry carbon dioxide atmosphere, clear evidence for the existence of ancient river beds and vast floods, and no detectable seismic activity.\nAlthough no traces of life were found, Viking found all elements essential to life on Earth -- carbon, nitrogen, hydrogen, oxygen and phosphorus -- were present on Mars."
+                  "text": [
+                    ": Viking 2 lander set down on Utopia Planitia and operated until April 1980. The four Viking spacecraft provided numerous new insights into the nature and history of Mars, producing a vivid overall picture of a cold weathered surface with reddish volcanic soil under a thin, dry carbon dioxide atmosphere, clear evidence for the existence of ancient river beds and vast floods, and no detectable seismic activity.\nAlthough no traces of life were found, Viking found all elements essential to life on Earth -- carbon, nitrogen, hydrogen, oxygen and phosphorus -- were present on Mars."
+                  ]
                 }
               ]
             },
@@ -8568,11 +8714,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Fobos 1 and 2 were part of an ambitious Russian plan to explore Mars and its moon Phobos. Each spacecraft comprised an orbiter for long term studies of the planet and a lander to study geological and climatic conditions on Phobos."
+                  "text": [
+                    ": Fobos 1 and 2 were part of an ambitious Russian plan to explore Mars and its moon Phobos. Each spacecraft comprised an orbiter for long term studies of the planet and a lander to study geological and climatic conditions on Phobos."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Contact was lost with the Fobos 1 before it reached Mars. The spacecraft flew past Mars without activating its science instruments or deploying its lander."
+                  "text": [
+                    ": Contact was lost with the Fobos 1 before it reached Mars. The spacecraft flew past Mars without activating its science instruments or deploying its lander."
+                  ]
                 }
               ]
             },
@@ -8601,11 +8751,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Mars 8 was an ambitious, multi-faceted Russian-led international mission to simultaneously explore the Martian atmosphere, surface and interior. The mission included an orbiter, two small science landers and two penetrators -- carrying 38 sophisticated science instruments."
+                  "text": [
+                    ": Mars 8 was an ambitious, multi-faceted Russian-led international mission to simultaneously explore the Martian atmosphere, surface and interior. The mission included an orbiter, two small science landers and two penetrators -- carrying 38 sophisticated science instruments."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": A malfunction in Earth orbit sent the spacecraft plunging back into the atmosphere. It broke up on re-entry and debris were reportedly scattered in a wide area across the Pacific Ocean, Chile and Bolivia."
+                  "text": [
+                    ": A malfunction in Earth orbit sent the spacecraft plunging back into the atmosphere. It broke up on re-entry and debris were reportedly scattered in a wide area across the Pacific Ocean, Chile and Bolivia."
+                  ]
                 }
               ]
             },
@@ -8637,11 +8791,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Mars Global Surveyor was sent to the Red Planet to study the surface features and geological processes; determine the composition, distribution and physical properties of minerals, rocks and ice; map global topography and monitor the planet's weather."
+                  "text": [
+                    ": Mars Global Surveyor was sent to the Red Planet to study the surface features and geological processes; determine the composition, distribution and physical properties of minerals, rocks and ice; map global topography and monitor the planet's weather."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Mars Global Surveyor operated longer at Mars than any other spacecraft of its time, and for more than four times as long as the prime mission originally planned. The spacecraft returned detailed information that has overhauled our understanding of Mars. Major findings include dramatic evidence that water still flows in short bursts down hillside gullies, and identification of deposits of water-related minerals leading to selection of a Mars rover landing site."
+                  "text": [
+                    ": Mars Global Surveyor operated longer at Mars than any other spacecraft of its time, and for more than four times as long as the prime mission originally planned. The spacecraft returned detailed information that has overhauled our understanding of Mars. Major findings include dramatic evidence that water still flows in short bursts down hillside gullies, and identification of deposits of water-related minerals leading to selection of a Mars rover landing site."
+                  ]
                 }
               ]
             },
@@ -8658,11 +8816,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Mars Climate Orbiter mission was to study Mars from orbit with cameras and atmospheric instruments. It also was designed to serve as a communications relay for the Mars Polar Lander and Deep Space 2 probes."
+                  "text": [
+                    ": Mars Climate Orbiter mission was to study Mars from orbit with cameras and atmospheric instruments. It also was designed to serve as a communications relay for the Mars Polar Lander and Deep Space 2 probes."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. Communications were lost as the spacecraft prepared to enter orbit around Mars. An investigation found the spacecraft burned up in Mars' atmosphere due to a navigation error caused by the failure to translate English units to metric."
+                  "text": [
+                    ": None. Communications were lost as the spacecraft prepared to enter orbit around Mars. An investigation found the spacecraft burned up in Mars' atmosphere due to a navigation error caused by the failure to translate English units to metric."
+                  ]
                 }
               ]
             },
@@ -8681,11 +8843,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Mars Pathfinder was designed primarily to demonstrate a low-cost way of delivering a set of science instruments and a free-ranging rover to the surface of the Red Planet. The unique airbag system cushioned the lander in a cocoon after a parachute and rocket descent through the thin Martian atmosphere."
+                  "text": [
+                    ": Mars Pathfinder was designed primarily to demonstrate a low-cost way of delivering a set of science instruments and a free-ranging rover to the surface of the Red Planet. The unique airbag system cushioned the lander in a cocoon after a parachute and rocket descent through the thin Martian atmosphere."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Mars Pathfinder demonstrated a number of innovative, economical, and highly effective approaches to spacecraft and mission design. The wagon-sized Sojourner rover was the forerunner of more advanced rovers such as  Spirit, Opportunity and Curiosity. Both Spirit and Opportunity used a variation of the airbag system to land on Mars. The Carl Sagan Memorial Station also used an innovative petal design that unfolded after landing, exposing its science instruments and releasing the rover to explore surrounding rocks.\nIn addition to its engineering accomplishments, Pathfinder made significant contributions to what was known about Mars' geology and meteorology at the time."
+                  "text": [
+                    ": Mars Pathfinder demonstrated a number of innovative, economical, and highly effective approaches to spacecraft and mission design. The wagon-sized Sojourner rover was the forerunner of more advanced rovers such as  Spirit, Opportunity and Curiosity. Both Spirit and Opportunity used a variation of the airbag system to land on Mars. The Carl Sagan Memorial Station also used an innovative petal design that unfolded after landing, exposing its science instruments and releasing the rover to explore surrounding rocks.\nIn addition to its engineering accomplishments, Pathfinder made significant contributions to what was known about Mars' geology and meteorology at the time."
+                  ]
                 }
               ]
             },
@@ -8701,11 +8867,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Japan's Nozomi was designed to study Mars' upper atmosphere and its interaction with the solar wind from orbit and study the planet's magnetic field. It carried cameras to photograph the Martian surface and the planet's two moons. Japanese engineers also planned the mission as a technology test for future deep space missions."
+                  "text": [
+                    ": Japan's Nozomi was designed to study Mars' upper atmosphere and its interaction with the solar wind from orbit and study the planet's magnetic field. It carried cameras to photograph the Martian surface and the planet's two moons. Japanese engineers also planned the mission as a technology test for future deep space missions."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": During five years in space Nozomi did send back data on interplanetary space, but it could not complete its mission. A series of mishaps and malfunctions made it impossible for the spacecraft to enter Mars orbit. The spacecraft eventually ran out of fuel and was sent into orbit around our Sun to avoid a collision with Mars."
+                  "text": [
+                    ": During five years in space Nozomi did send back data on interplanetary space, but it could not complete its mission. A series of mishaps and malfunctions made it impossible for the spacecraft to enter Mars orbit. The spacecraft eventually ran out of fuel and was sent into orbit around our Sun to avoid a collision with Mars."
+                  ]
                 }
               ]
             },
@@ -8734,11 +8904,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Mars Polar Lander was to be the first-ever landing in the polar regions of Mars. The lander was equipped with cameras, a robotic arm and instruments to measure the composition of Martian soil. It also carried the Deep Space 2 microprobes which were to pentrate and sample the Martian surface."
+                  "text": [
+                    ": Mars Polar Lander was to be the first-ever landing in the polar regions of Mars. The lander was equipped with cameras, a robotic arm and instruments to measure the composition of Martian soil. It also carried the Deep Space 2 microprobes which were to pentrate and sample the Martian surface."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. Both missions were lost when Mars Polar Lander crashed on Mars. An investigation found the most likely cause of the mishap was a false signal that the spacecraft had landed when in fact it had only deployed its legs and was still descending. The signal shut down the main engines and the spacecraft crashed into Mars at high speed."
+                  "text": [
+                    ": None. Both missions were lost when Mars Polar Lander crashed on Mars. An investigation found the most likely cause of the mishap was a false signal that the spacecraft had landed when in fact it had only deployed its legs and was still descending. The signal shut down the main engines and the spacecraft crashed into Mars at high speed."
+                  ]
                 }
               ]
             },
@@ -8753,11 +8927,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": The Mars Microprobe Mission - Deep Space 2 - was intended to test new technologies and search for water ice in the south pole soil of Mars. The twin micropobes hitched a ride aboard Mars Polar Lander."
+                  "text": [
+                    ": The Mars Microprobe Mission - Deep Space 2 - was intended to test new technologies and search for water ice in the south pole soil of Mars. The twin micropobes hitched a ride aboard Mars Polar Lander."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. Both the lander probes were lost during the when Mars Polar Lander crashed on Mars in December 1999."
+                  "text": [
+                    ": None. Both the lander probes were lost during the when Mars Polar Lander crashed on Mars in December 1999."
+                  ]
                 }
               ]
             },
@@ -8787,11 +8965,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Phoenix was sent to Mars to search for evidence of past or present microbial life and to study geology and climate on the icy arctic plains of the Martian north pole. The lander's robotic arm could dig up to half a meter (20 inches) into the Martian soil and return it for analysis to a special bake-and-sniff oven."
+                  "text": [
+                    ": Phoenix was sent to Mars to search for evidence of past or present microbial life and to study geology and climate on the icy arctic plains of the Martian north pole. The lander's robotic arm could dig up to half a meter (20 inches) into the Martian soil and return it for analysis to a special bake-and-sniff oven."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Phoenix verified the presence of water-ice in the Martian subsurface, which NASA's Mars Odyssey orbiter first detected remotely in 2002. Phoenix's cameras also returned more than 25,000 pictures from sweeping vistas to near the atomic level using the first atomic force microscope ever used outside Earth. The findings advance the goal of studying whether Mars could ever have been favorable to microbial life."
+                  "text": [
+                    ": Phoenix verified the presence of water-ice in the Martian subsurface, which NASA's Mars Odyssey orbiter first detected remotely in 2002. Phoenix's cameras also returned more than 25,000 pictures from sweeping vistas to near the atomic level using the first atomic force microscope ever used outside Earth. The findings advance the goal of studying whether Mars could ever have been favorable to microbial life."
+                  ]
                 }
               ]
             },
@@ -9108,7 +9290,8 @@
             }
           ]
         }
-      ]
+      ],
+      "img": "images/Mars/mars.jpg"
     },
     {
       "name": "Mercury",
@@ -9311,7 +9494,8 @@
           "subTitle": ""
         }
       ],
-      "lists": []
+      "lists": [],
+      "img": "images/Mercury/mercury.jpg"
     },
     {
       "name": "Neptune",
@@ -11307,7 +11491,8 @@
             }
           ]
         }
-      ]
+      ],
+      "img": "images/Neptune/neptune.jpg"
     },
     {
       "name": "Saturn",
@@ -11530,11 +11715,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Pioneer 11 was the first mission to explore Saturn and the second spacecraft in humanity's early reconnaissance of the outer solar system. The spacecraft carried instruments to study magnetic fields, the solar wind and the atmospheres, moons and other aspects of Jupiter and Saturn."
+                  "text": [
+                    ": Pioneer 11 was the first mission to explore Saturn and the second spacecraft in humanity's early reconnaissance of the outer solar system. The spacecraft carried instruments to study magnetic fields, the solar wind and the atmospheres, moons and other aspects of Jupiter and Saturn."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Among Pioneer 11's many discoveries are Saturn's F ring and a new moon. It recorded the planet's overall temperature at -180°C, indicating that it emits 2.5 times as much heat as it receives from the Sun. Photographs revealed a more featureless atmosphere than that of Jupiter, and calculations based on data from Pioneer 11 suggested that Saturn is primarily liquid hydrogen with a core of about 10 Earth masses.\nThe dormant spacecraft is now headed out of our solar system in the general direction of Sagittarius, toward the center of the galaxy. Both Pioneers 10 and 11 carry a plaque with a message for any intelligent beings that might find them."
+                  "text": [
+                    ": Among Pioneer 11's many discoveries are Saturn's F ring and a new moon. It recorded the planet's overall temperature at -180°C, indicating that it emits 2.5 times as much heat as it receives from the Sun. Photographs revealed a more featureless atmosphere than that of Jupiter, and calculations based on data from Pioneer 11 suggested that Saturn is primarily liquid hydrogen with a core of about 10 Earth masses.\nThe dormant spacecraft is now headed out of our solar system in the general direction of Sagittarius, toward the center of the galaxy. Both Pioneers 10 and 11 carry a plaque with a message for any intelligent beings that might find them."
+                  ]
                 }
               ]
             },
@@ -11551,11 +11740,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": The 318 kg (852 pound) probe was designed to study the smog-like atmosphere of Saturn's largest moon Titan as it parachuted to the surface. It also carried cameras to photograph the moon's surface. Huygen's traveled to Saturn aboard NASA's Cassini orbiter."
+                  "text": [
+                    ": The 318 kg (852 pound) probe was designed to study the smog-like atmosphere of Saturn's largest moon Titan as it parachuted to the surface. It also carried cameras to photograph the moon's surface. Huygen's traveled to Saturn aboard NASA's Cassini orbiter."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The Huygens probe successfully touched down on Titan in January 2005 -- the first spacecraft landing in the outer solar system and the farthest from Earth. The probe provided a detailed study Titan's atmosphere during a 2 hour and 27 minute descent and relayed data and images from Titan's muddy surface for another hour and 10 minutes."
+                  "text": [
+                    ": The Huygens probe successfully touched down on Titan in January 2005 -- the first spacecraft landing in the outer solar system and the farthest from Earth. The probe provided a detailed study Titan's atmosphere during a 2 hour and 27 minute descent and relayed data and images from Titan's muddy surface for another hour and 10 minutes."
+                  ]
                 }
               ]
             },
@@ -11575,11 +11768,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Voyager 1 and 2 were designed to take advantage of a rare planetary alignment to explore the outer solar system. Voyager 2 targeted Jupiter, Saturn, Uranus and Neptune. Like it's sister spacecraft, Voyager 2 also was designed to study the edge of our solar system beyond the planets."
+                  "text": [
+                    ": Voyager 1 and 2 were designed to take advantage of a rare planetary alignment to explore the outer solar system. Voyager 2 targeted Jupiter, Saturn, Uranus and Neptune. Like it's sister spacecraft, Voyager 2 also was designed to study the edge of our solar system beyond the planets."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Voyager 2 was to become the third spacecraft to visit Saturn. Its mission there was to follow up on the pictures and data returned by Voyager 1.\nVoyager 2 gave us another close-range look at Saturn and its moons. Using its photopolarimeter, an instrument that had failed on Voyager 1, Voyager 2 was able to observe the planet's rings at much higher resolution and to discover many more ringlets. It also provided more detailed images of the ring spokes and kinks, and of the F-ring and its shepherding moons. Finally, it employed a gravity-assist maneuver at Saturn to help it reach its next destination, Uranus."
+                  "text": [
+                    ": Voyager 2 was to become the third spacecraft to visit Saturn. Its mission there was to follow up on the pictures and data returned by Voyager 1.\nVoyager 2 gave us another close-range look at Saturn and its moons. Using its photopolarimeter, an instrument that had failed on Voyager 1, Voyager 2 was able to observe the planet's rings at much higher resolution and to discover many more ringlets. It also provided more detailed images of the ring spokes and kinks, and of the F-ring and its shepherding moons. Finally, it employed a gravity-assist maneuver at Saturn to help it reach its next destination, Uranus."
+                  ]
                 }
               ]
             }
@@ -18442,7 +18639,8 @@
             }
           ]
         }
-      ]
+      ],
+      "img": "images/Saturn/saturn.jpg"
     },
     {
       "name": "Uranus",
@@ -22211,7 +22409,8 @@
             }
           ]
         }
-      ]
+      ],
+      "img": "images/Uranus/uranus.jpg"
     },
     {
       "name": "Venus",
@@ -22432,11 +22631,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Mariner 1 was the first attempt by the United States to send a spacecraft to Venus. It was to fly by the planet at a distance of about 29,000 km (about 18,000 miles), transmitting a variety of scientific data but no pictures."
+                  "text": [
+                    ": Mariner 1 was the first attempt by the United States to send a spacecraft to Venus. It was to fly by the planet at a distance of about 29,000 km (about 18,000 miles), transmitting a variety of scientific data but no pictures."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. A problem with the guidance system shortly after launch made steering impossible and directed the spacecraft toward a crash, possibly in North Atlantic shipping lanes or in an inhabited area. The Range Safety Officer issued a destruct command about 5 minutes after launch, just 6 seconds before the spacecraft would have separated from its booster, after which the launch vehicle could not have been destroyed."
+                  "text": [
+                    ": None. A problem with the guidance system shortly after launch made steering impossible and directed the spacecraft toward a crash, possibly in North Atlantic shipping lanes or in an inhabited area. The Range Safety Officer issued a destruct command about 5 minutes after launch, just 6 seconds before the spacecraft would have separated from its booster, after which the launch vehicle could not have been destroyed."
+                  ]
                 }
               ]
             },
@@ -22454,11 +22657,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": The Soviet Union intended Venera 1 to crash into Venus."
+                  "text": [
+                    ": The Soviet Union intended Venera 1 to crash into Venus."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": It succeeded in being the first Venus probe to leave Earth orbit, but contact was lost 7 days later. Since the Soviets were unable to command the spacecraft to perform a needed course correction, it is presumed to have flown by Venus at a distance of about 100,000 km (62,000 miles)."
+                  "text": [
+                    ": It succeeded in being the first Venus probe to leave Earth orbit, but contact was lost 7 days later. Since the Soviets were unable to command the spacecraft to perform a needed course correction, it is presumed to have flown by Venus at a distance of about 100,000 km (62,000 miles)."
+                  ]
                 }
               ]
             },
@@ -22476,11 +22683,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Mariner 2 was designed to fly by Venus and send back information on the planet's atmosphere and surface."
+                  "text": [
+                    ": Mariner 2 was designed to fly by Venus and send back information on the planet's atmosphere and surface."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Mariner 2 was the first successful mission to another planet by any country. Launched just 36 days after the failure of its twin, Mariner 1, it flew by Venus as planned at a range of 34,762 km (21,600 miles), scanning the planet's atmosphere and surface for 42 minutes.\nThe spacecraft showed that surface temperature on Venus was at least 797 degrees Fahrenheit (425 degrees Celsius) on both the day and night sides, hot enough to melt lead. It also showed that Venus rotates in the opposite direction from most planets in our solar system, has an atmosphere mostly of carbon dioxide with very high pressure at the planet's surface, continuous cloud cover and no detectable magnetic field. It also found the solar wind streams continuously and that the density of cosmic dust between planets is much lower than it is near Earth."
+                  "text": [
+                    ": Mariner 2 was the first successful mission to another planet by any country. Launched just 36 days after the failure of its twin, Mariner 1, it flew by Venus as planned at a range of 34,762 km (21,600 miles), scanning the planet's atmosphere and surface for 42 minutes.\nThe spacecraft showed that surface temperature on Venus was at least 797 degrees Fahrenheit (425 degrees Celsius) on both the day and night sides, hot enough to melt lead. It also showed that Venus rotates in the opposite direction from most planets in our solar system, has an atmosphere mostly of carbon dioxide with very high pressure at the planet's surface, continuous cloud cover and no detectable magnetic field. It also found the solar wind streams continuously and that the density of cosmic dust between planets is much lower than it is near Earth."
+                  ]
                 }
               ]
             },
@@ -22497,11 +22708,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Also known as Sputnik 20, this was a Venera-type spacecraft intended to impact Venus."
+                  "text": [
+                    ": Also known as Sputnik 20, this was a Venera-type spacecraft intended to impact Venus."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. The rocket that was to propel the spacecraft from Earth orbit to Venus shut off after 45 seconds (instead of the planned 240 seconds), leaving it marooned like the preceding year's Sputnik 7. The spacecraft orbited Earth for 3 days, then re-entered the atmosphere."
+                  "text": [
+                    ": None. The rocket that was to propel the spacecraft from Earth orbit to Venus shut off after 45 seconds (instead of the planned 240 seconds), leaving it marooned like the preceding year's Sputnik 7. The spacecraft orbited Earth for 3 days, then re-entered the atmosphere."
+                  ]
                 }
               ]
             },
@@ -22518,11 +22733,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": This Soviet spacecraft was to be the world's first mission to Venus. Initially intended to transmit pictures of the planet before it impacted the surface, the mission was downgraded to simply send data about Venus' atmosphere as it plunged through the atmosphere."
+                  "text": [
+                    ": This Soviet spacecraft was to be the world's first mission to Venus. Initially intended to transmit pictures of the planet before it impacted the surface, the mission was downgraded to simply send data about Venus' atmosphere as it plunged through the atmosphere."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The spacecraft reached Earth orbit as planned, but the rocket that was to propel it on to Venus did not fire, leaving the probe stranded in Earth orbit. The probe and launch vehicle re-entered Earth's atmosphere after 22 days in orbit."
+                  "text": [
+                    ": The spacecraft reached Earth orbit as planned, but the rocket that was to propel it on to Venus did not fire, leaving the probe stranded in Earth orbit. The probe and launch vehicle re-entered Earth's atmosphere after 22 days in orbit."
+                  ]
                 }
               ]
             },
@@ -22539,11 +22758,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": This spacecraft was intended to take pictures and gather data as it flew past Venus."
+                  "text": [
+                    ": This spacecraft was intended to take pictures and gather data as it flew past Venus."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. The mission failed when, like both its predecessors, the probe was unable to leave parking orbit around Earth. It re-entered the atmosphere two days after launch."
+                  "text": [
+                    ": None. The mission failed when, like both its predecessors, the probe was unable to leave parking orbit around Earth. It re-entered the atmosphere two days after launch."
+                  ]
                 }
               ]
             },
@@ -22559,11 +22782,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": This was another Soviet attempt to study Venus during a flyby mission. It carried nine instruments to study the planet and interplanetary space."
+                  "text": [
+                    ": This was another Soviet attempt to study Venus during a flyby mission. It carried nine instruments to study the planet and interplanetary space."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": A malfunction in the launch vehicle led to an explosion that destroyed the spacecraft before it reached Earth orbit."
+                  "text": [
+                    ": A malfunction in the launch vehicle led to an explosion that destroyed the spacecraft before it reached Earth orbit."
+                  ]
                 }
               ]
             },
@@ -22579,11 +22806,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Intended to impact the surface of Venus, this spacecraft -- also known as Sputnik 20 -- was the second of three attempts by the Soviet Union in 1962 to reach the planet."
+                  "text": [
+                    ": Intended to impact the surface of Venus, this spacecraft -- also known as Sputnik 20 -- was the second of three attempts by the Soviet Union in 1962 to reach the planet."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. Like its predecessor, the failure of a booster rocket kept it from leaving Earth orbit. This time, the rocket didn't fire at all. The spacecraft remained stranded in Earth orbit for five days and then re-entered the atmosphere."
+                  "text": [
+                    ": None. Like its predecessor, the failure of a booster rocket kept it from leaving Earth orbit. This time, the rocket didn't fire at all. The spacecraft remained stranded in Earth orbit for five days and then re-entered the atmosphere."
+                  ]
                 }
               ]
             },
@@ -22600,11 +22831,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": This Soviet spacecraft was designed to study Venus as it passed through the planet's atmosphere and crashed on the surface."
+                  "text": [
+                    ": This Soviet spacecraft was designed to study Venus as it passed through the planet's atmosphere and crashed on the surface."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. Though the spacecraft successfully reached Earth orbit, the rocket that was to propel it onward to Venus failed and the spacecraft burned up in Earth's atmosphere the following day."
+                  "text": [
+                    ": None. Though the spacecraft successfully reached Earth orbit, the rocket that was to propel it onward to Venus failed and the spacecraft burned up in Earth's atmosphere the following day."
+                  ]
                 }
               ]
             },
@@ -22622,11 +22857,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Zond 1 was intended to be a Venus impact probe, but it wound up being an inert flyby that accomplished some science before contact was lost."
+                  "text": [
+                    ": Zond 1 was intended to be a Venus impact probe, but it wound up being an inert flyby that accomplished some science before contact was lost."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The Soviets lost contact with the spacecraft about halfway through its journey, but not before making two major course corrections -- the first time such actions were performed on a Soviet interplanetary spacecraft. After Zond 1 flew by Venus at a range of about 100,000 km (62,000 miles), the Soviets published some data on cosmic-ray flux that Zond 1 had measured."
+                  "text": [
+                    ": The Soviets lost contact with the spacecraft about halfway through its journey, but not before making two major course corrections -- the first time such actions were performed on a Soviet interplanetary spacecraft. After Zond 1 flew by Venus at a range of about 100,000 km (62,000 miles), the Soviets published some data on cosmic-ray flux that Zond 1 had measured."
+                  ]
                 }
               ]
             },
@@ -22643,11 +22882,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": This Soviet spacecraft was originally intended for Mars, but it was re-equipped to study Venus. The mission was to fly past Venus, photograph the planet and make scientific measurements."
+                  "text": [
+                    ": This Soviet spacecraft was originally intended for Mars, but it was re-equipped to study Venus. The mission was to fly past Venus, photograph the planet and make scientific measurements."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Venera 2 spacecraft flew past Venus as planned, but a malfunction prevented any data or images it gathered from being sent back to Earth. Missions controllers tried to contact the spacecraft for a month before giving up."
+                  "text": [
+                    ": Venera 2 spacecraft flew past Venus as planned, but a malfunction prevented any data or images it gathered from being sent back to Earth. Missions controllers tried to contact the spacecraft for a month before giving up."
+                  ]
                 }
               ]
             },
@@ -22664,11 +22907,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": The Soviet Union's Venera 3 was designed to deliver a small landing capsule to explore Venus' atmosphere during a parachute descent."
+                  "text": [
+                    ": The Soviet Union's Venera 3 was designed to deliver a small landing capsule to explore Venus' atmosphere during a parachute descent."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The capsule was successfully released, but contact was lost shortly before the Venus encounter. The capsule did impact on Venus -- the first manmade object to touch the surface of another planet -- but no scientific data was returned."
+                  "text": [
+                    ": The capsule was successfully released, but contact was lost shortly before the Venus encounter. The capsule did impact on Venus -- the first manmade object to touch the surface of another planet -- but no scientific data was returned."
+                  ]
                 }
               ]
             },
@@ -22684,11 +22931,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": This spacecraft was most likely designed to crash land on Venus and was similar to Venera 3, which launched a week earlier."
+                  "text": [
+                    ": This spacecraft was most likely designed to crash land on Venus and was similar to Venera 3, which launched a week earlier."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. An explosion after launch stranded the Venus-bound spacecraft in Earth orbit. It remained in orbit for 16 days and reentered the Earth's atmosphere on 9 December 1965."
+                  "text": [
+                    ": None. An explosion after launch stranded the Venus-bound spacecraft in Earth orbit. It remained in orbit for 16 days and reentered the Earth's atmosphere on 9 December 1965."
+                  ]
                 }
               ]
             },
@@ -22705,11 +22956,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Venera 4 was designed to analyze the atmosphere of Venus while descending through it."
+                  "text": [
+                    ": Venera 4 was designed to analyze the atmosphere of Venus while descending through it."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Venera 4 released its atmospheric probe as planned, moments before the main spacecraft hit the atmosphere and was destroyed. The probe parachuted down, collecting and transmitting data for 93 minutes until, at an altitude of about 25 km, the planet's enormous atmospheric pressure crushed it.\nThe data that Venera 4 returned to Earth indicated that at the planet's surface, the temperature was 500 degrees Celsius and the atmospheric pressure was 75 times that of Earth. Conducting the first direct sampling of the atmosphere, the probe's gas analyzers found that it was 90 to 95 percent carbon dioxide with no nitrogen and small amounts of oxygen and water vapor."
+                  "text": [
+                    ": Venera 4 released its atmospheric probe as planned, moments before the main spacecraft hit the atmosphere and was destroyed. The probe parachuted down, collecting and transmitting data for 93 minutes until, at an altitude of about 25 km, the planet's enormous atmospheric pressure crushed it.\nThe data that Venera 4 returned to Earth indicated that at the planet's surface, the temperature was 500 degrees Celsius and the atmospheric pressure was 75 times that of Earth. Conducting the first direct sampling of the atmosphere, the probe's gas analyzers found that it was 90 to 95 percent carbon dioxide with no nitrogen and small amounts of oxygen and water vapor."
+                  ]
                 }
               ]
             },
@@ -22726,11 +22981,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Like its predecessor, Mariner 2, Mariner 5 was designed to conduct only scientific measurements of Venus and not attempt to photograph the planet. Mariner 5 was programmed to fly much closer to Venus to improve the chances of detecting a magnetic field and any interaction with the solar wind."
+                  "text": [
+                    ": Like its predecessor, Mariner 2, Mariner 5 was designed to conduct only scientific measurements of Venus and not attempt to photograph the planet. Mariner 5 was programmed to fly much closer to Venus to improve the chances of detecting a magnetic field and any interaction with the solar wind."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The radiation team, led by James van Allen (who discovered Earth's radiation belts with Explorer 1) found no similar belts around Venus. The planet was determined not to have a magnetic field more than 1percent as strong as that of Earth. Observing how much Venus' gravity changed Mariner 5's trajectory put the planet's mass at 81.5 percent that of Earth. Seeing how Venus' atmosphere affected radio signals that were transmitted while the spacecraft was behind the planet enabled scientists to calculate temperature and pressure at the planet's surface of 527°C and 75 to 100 Earth atmospheres. These figures disagreed with readings from the Soviet Venera 4 mission and led Soviet scientists to conclude that their probe had not survived its descent to the surface as originally thought."
+                  "text": [
+                    ": The radiation team, led by James van Allen (who discovered Earth's radiation belts with Explorer 1) found no similar belts around Venus. The planet was determined not to have a magnetic field more than 1percent as strong as that of Earth. Observing how much Venus' gravity changed Mariner 5's trajectory put the planet's mass at 81.5 percent that of Earth. Seeing how Venus' atmosphere affected radio signals that were transmitted while the spacecraft was behind the planet enabled scientists to calculate temperature and pressure at the planet's surface of 527°C and 75 to 100 Earth atmospheres. These figures disagreed with readings from the Soviet Venera 4 mission and led Soviet scientists to conclude that their probe had not survived its descent to the surface as originally thought."
+                  ]
                 }
               ]
             },
@@ -22747,11 +23006,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": This spacecraft was designed to drop a probe through Venus' atmosphere like its twin, Venera 4."
+                  "text": [
+                    ": This spacecraft was designed to drop a probe through Venus' atmosphere like its twin, Venera 4."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. The rocket engine that was to propel it from Earth orbit to Venus failed to fire, and the spacecraft system re-entered the atmosphere after circling Earth for eight days."
+                  "text": [
+                    ": None. The rocket engine that was to propel it from Earth orbit to Venus failed to fire, and the spacecraft system re-entered the atmosphere after circling Earth for eight days."
+                  ]
                 }
               ]
             },
@@ -22768,11 +23031,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Like Venera 4, Venera 5 was to analyze the atmosphere of Venus while descending through it. The launchings of twin spacecraft Venera 5 and 6 were timed so they would arrive at Venus one day apart, allowing for some cross-calibration of data. The parachutes on the atmospheric probes were 2/3 as large as those used for Venera 4 to allow a faster descent. It was hoped that this would enable them to reach lower altitudes before being crushed or having their electronics disabled by heat."
+                  "text": [
+                    ": Like Venera 4, Venera 5 was to analyze the atmosphere of Venus while descending through it. The launchings of twin spacecraft Venera 5 and 6 were timed so they would arrive at Venus one day apart, allowing for some cross-calibration of data. The parachutes on the atmospheric probes were 2/3 as large as those used for Venera 4 to allow a faster descent. It was hoped that this would enable them to reach lower altitudes before being crushed or having their electronics disabled by heat."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The strategy did not work. Venera 5 did fall faster, and thus took measurements for only 53 minutes before ceasing transmission at an altitude of about 24 to 26 km, about the same altitude as Venera 4. Data the probe transmitted suggested that the temperature at the surface was 530°C and atmospheric pressure at the surface was 140 times that of Earth, both of which are considerably higher than current estimates (see Venus Express). Analysis of the mostly carbon dioxide atmosphere was in good agreement with Venera 4."
+                  "text": [
+                    ": The strategy did not work. Venera 5 did fall faster, and thus took measurements for only 53 minutes before ceasing transmission at an altitude of about 24 to 26 km, about the same altitude as Venera 4. Data the probe transmitted suggested that the temperature at the surface was 530°C and atmospheric pressure at the surface was 140 times that of Earth, both of which are considerably higher than current estimates (see Venus Express). Analysis of the mostly carbon dioxide atmosphere was in good agreement with Venera 4."
+                  ]
                 }
               ]
             },
@@ -22789,11 +23056,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Like Venera 4 and 5, Venera 6 was to analyze the atmosphere of Venus while descending through it. The launchings of twin spacecraft Venera 5 and 6 were timed so they would arrive at Venus one day apart, allowing for some cross-calibration of data. The parachutes on the atmospheric probes were 2/3 as large as those used for Venera 4 to allow a faster descent. It was hoped that this would enable them to reach lower altitudes before being crushed or having their electronics disabled by heat."
+                  "text": [
+                    ": Like Venera 4 and 5, Venera 6 was to analyze the atmosphere of Venus while descending through it. The launchings of twin spacecraft Venera 5 and 6 were timed so they would arrive at Venus one day apart, allowing for some cross-calibration of data. The parachutes on the atmospheric probes were 2/3 as large as those used for Venera 4 to allow a faster descent. It was hoped that this would enable them to reach lower altitudes before being crushed or having their electronics disabled by heat."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The strategy did not work. Venera 6 transmitted data for only 51 minutes as it fell, about 2 minutes less than Venera 5. Just before the probe was presumably crushed, its instruments indicated an atmospheric pressure of 26 Earth atmospheres and an altitude of 10 to 12 km. This was nearly the same pressure that Venera 5 measured at a much higher altitude, so it has been suggested that Venera 6 landed on a mountain or high plateau, or that the instruments suffered damage during descent, causing the radio altimeter to give a false reading."
+                  "text": [
+                    ": The strategy did not work. Venera 6 transmitted data for only 51 minutes as it fell, about 2 minutes less than Venera 5. Just before the probe was presumably crushed, its instruments indicated an atmospheric pressure of 26 Earth atmospheres and an altitude of 10 to 12 km. This was nearly the same pressure that Venera 5 measured at a much higher altitude, so it has been suggested that Venera 6 landed on a mountain or high plateau, or that the instruments suffered damage during descent, causing the radio altimeter to give a false reading."
+                  ]
                 }
               ]
             },
@@ -22810,11 +23081,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Following the successful Venera 7, which found the atmospheric pressure at Venus' surface to be half of what that capsule had been designed to withstand, Venera 8 was designed to land a capsule safely on Venus with less of its mass devoted to resisting pressure and more to thermal protection, instruments and a stronger parachute."
+                  "text": [
+                    ": Following the successful Venera 7, which found the atmospheric pressure at Venus' surface to be half of what that capsule had been designed to withstand, Venera 8 was designed to land a capsule safely on Venus with less of its mass devoted to resisting pressure and more to thermal protection, instruments and a stronger parachute."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The Venera 8 lander transmitted data for more than 50 minutes after touching down on the planet's surface. During descent, it recorded a sharp change in illumination between 30 and 35 kilometers altitude. Temperature at the landing site was 470 give or take 8°C; pressure was 90 give or take 1.5 atmospheres (about 90 times Earth's atmospheric pressure at sea level). With the Sun at a low angle, the light level at the surface was found to be similar to that on Earth just before dawn, prompting the designers of Venera 9 and 10 to include floodlights. However, Venera 8's successors found noon-time conditions to be much brighter, similar to a dull, cloudy day on Earth."
+                  "text": [
+                    ": The Venera 8 lander transmitted data for more than 50 minutes after touching down on the planet's surface. During descent, it recorded a sharp change in illumination between 30 and 35 kilometers altitude. Temperature at the landing site was 470 give or take 8°C; pressure was 90 give or take 1.5 atmospheres (about 90 times Earth's atmospheric pressure at sea level). With the Sun at a low angle, the light level at the surface was found to be similar to that on Earth just before dawn, prompting the designers of Venera 9 and 10 to include floodlights. However, Venera 8's successors found noon-time conditions to be much brighter, similar to a dull, cloudy day on Earth."
+                  ]
                 }
               ]
             },
@@ -22830,11 +23105,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Venera 7's objective was to transmit data from the surface of Venus. Since the Venera 4, 5, and 6 missions ended when intense atmospheric pressure crushed the probes far above the ground, Venera 7's landing capsule was designed to withstand pressures of up to 180 atmospheres and temperatures as high as 540 degrees Celsius, more than enough to survive all the way to the planet's surface."
+                  "text": [
+                    ": Venera 7's objective was to transmit data from the surface of Venus. Since the Venera 4, 5, and 6 missions ended when intense atmospheric pressure crushed the probes far above the ground, Venera 7's landing capsule was designed to withstand pressures of up to 180 atmospheres and temperatures as high as 540 degrees Celsius, more than enough to survive all the way to the planet's surface."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Venera 7 was the first spacecraft to transmit data from the surface of any extraterrestrial planet, though its success was uncertain at first. The probe sent data to Earth for 35 minutes while falling through the atmosphere, but the data transmission appeared to be replaced by noise as soon as the capsule hit the ground. Computer processing revealed, however, that this noise contained nearly 23 minutes of additional information at 1 percent of normal signal strength. The transmitted data indicated a surface temperature of 475 give or take 20 degrees Celsius and a pressure of 90 give or take 15 atmospheres."
+                  "text": [
+                    ": Venera 7 was the first spacecraft to transmit data from the surface of any extraterrestrial planet, though its success was uncertain at first. The probe sent data to Earth for 35 minutes while falling through the atmosphere, but the data transmission appeared to be replaced by noise as soon as the capsule hit the ground. Computer processing revealed, however, that this noise contained nearly 23 minutes of additional information at 1 percent of normal signal strength. The transmitted data indicated a surface temperature of 475 give or take 20 degrees Celsius and a pressure of 90 give or take 15 atmospheres."
+                  ]
                 }
               ]
             },
@@ -22851,11 +23130,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": This twin of Venera 7 was supposed to achieve the same goal: operate and transmit data after landing on Venus."
+                  "text": [
+                    ": This twin of Venera 7 was supposed to achieve the same goal: operate and transmit data after landing on Venus."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. The spacecraft entered Earth orbit, but the rocket engine that was supposed to launch it from there to Venus malfunctioned, leaving it stranded in Earth orbit."
+                  "text": [
+                    ": None. The spacecraft entered Earth orbit, but the rocket engine that was supposed to launch it from there to Venus malfunctioned, leaving it stranded in Earth orbit."
+                  ]
                 }
               ]
             },
@@ -22872,11 +23155,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Like Venera 8, which embarked on a successful mission four days earlier, this spacecraft was to land on Venus with a design that devoted less of its mass to resisting pressure and more to thermal protection, instruments and a stronger parachute."
+                  "text": [
+                    ": Like Venera 8, which embarked on a successful mission four days earlier, this spacecraft was to land on Venus with a design that devoted less of its mass to resisting pressure and more to thermal protection, instruments and a stronger parachute."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": None. Failure of the engine that was to propel it from Earth orbit to Venus marooned the spacecraft in an elliptical orbit around Earth for more than a month until it finally reentered Earth's atmosphere."
+                  "text": [
+                    ": None. Failure of the engine that was to propel it from Earth orbit to Venus marooned the spacecraft in an elliptical orbit around Earth for more than a month until it finally reentered Earth's atmosphere."
+                  ]
                 }
               ]
             },
@@ -22896,11 +23183,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Mariner 10 was the first spacecraft sent to study Mercury. Mariner 10 also studied Venus while using the planet's gravity to modify its speed and trajectory, enabling it to reach Mercury."
+                  "text": [
+                    ": Mariner 10 was the first spacecraft sent to study Mercury. Mariner 10 also studied Venus while using the planet's gravity to modify its speed and trajectory, enabling it to reach Mercury."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": On its way to Mercury, Mariner 10 became the first spacecraft to use the gravity of one planet (in this case, Venus) to reach another. This has become an extremely important technique. While flying by Venus, the spacecraft took ultraviolet pictures that revealed great bands of clouds, providing data on atmospheric circulation which included upper-atmosphere wind speeds of 300 km/hr."
+                  "text": [
+                    ": On its way to Mercury, Mariner 10 became the first spacecraft to use the gravity of one planet (in this case, Venus) to reach another. This has become an extremely important technique. While flying by Venus, the spacecraft took ultraviolet pictures that revealed great bands of clouds, providing data on atmospheric circulation which included upper-atmosphere wind speeds of 300 km/hr."
+                  ]
                 }
               ]
             },
@@ -22918,11 +23209,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Venera 9 was the first of a new, heavier generation Soviet spacecraft. The mission called for an orbiter and a lander. The orbiter was to act as a communications relay and study Venus from above while the lander descended via parachute to study the surface."
+                  "text": [
+                    ": Venera 9 was the first of a new, heavier generation Soviet spacecraft. The mission called for an orbiter and a lander. The orbiter was to act as a communications relay and study Venus from above while the lander descended via parachute to study the surface."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Venera 9 logged several firsts. It was the first spacecraft to orbit Venus and the first mission to transmit photographs from the surface of another world. The orbiter fulfilled its communications mission while photographing the planet's atmosphere in UV light and conducting other investigations. The lander transmitted data from Venus' surface for 53 minutes, including taking a 180° panorama of the rocky Venusian surface. Illumination at the surface was said to be as bright as Moscow on a cloudy day in June. Gamma ray measurements indicated that the probe landed on a basaltic surface. Temperature at the surface was found to be 460°C (860°F); atmospheric pressure was 90 times that of Earth."
+                  "text": [
+                    ": Venera 9 logged several firsts. It was the first spacecraft to orbit Venus and the first mission to transmit photographs from the surface of another world. The orbiter fulfilled its communications mission while photographing the planet's atmosphere in UV light and conducting other investigations. The lander transmitted data from Venus' surface for 53 minutes, including taking a 180° panorama of the rocky Venusian surface. Illumination at the surface was said to be as bright as Moscow on a cloudy day in June. Gamma ray measurements indicated that the probe landed on a basaltic surface. Temperature at the surface was found to be 460°C (860°F); atmospheric pressure was 90 times that of Earth."
+                  ]
                 }
               ]
             },
@@ -22939,11 +23234,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Like its twin, Venera 9, the Venera 10 mission called for an orbiter and a lander to explore Venus. The orbiter was to act as a communications relay and study Venus from above while the lander descended via parachute to study and photograph the planet's surface."
+                  "text": [
+                    ": Like its twin, Venera 9, the Venera 10 mission called for an orbiter and a lander to explore Venus. The orbiter was to act as a communications relay and study Venus from above while the lander descended via parachute to study and photograph the planet's surface."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Venera 10 arrived at Venus three days after its twin. Though 2,200 km (1,367 miles) closer to the equator than Venera 9, the Venera 10 lander measured a temperature only 5°C (9°F) hotter. Atmospheric pressure at the surface was found to be 92 times that of Earth at sea level. As in the Venera 9 mission, the orbiter served as a communications relay for the lander while imaging the atmosphere in ultraviolet light and conducting other experiments. The lander transmitted data for a then record 65 minutes, including a panoramic picture of Venus' surface. Gamma ray readings suggested a basaltic surface in agreement with measurements by Venera 9, though the landscape appeared to be older than that of Venera 9's landing site."
+                  "text": [
+                    ": Venera 10 arrived at Venus three days after its twin. Though 2,200 km (1,367 miles) closer to the equator than Venera 9, the Venera 10 lander measured a temperature only 5°C (9°F) hotter. Atmospheric pressure at the surface was found to be 92 times that of Earth at sea level. As in the Venera 9 mission, the orbiter served as a communications relay for the lander while imaging the atmosphere in ultraviolet light and conducting other experiments. The lander transmitted data for a then record 65 minutes, including a panoramic picture of Venus' surface. Gamma ray readings suggested a basaltic surface in agreement with measurements by Venera 9, though the landscape appeared to be older than that of Venera 9's landing site."
+                  ]
                 }
               ]
             },
@@ -22960,11 +23259,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": The Pioneer Venus project called for two spacecraft to explore the atmosphere and surface of Venus. Pioneer Venus 1 was designed to make a radar map of Venus's surface during an eight month mission. Its twin, Pioneer Venus 2, also carried atmospheric probes."
+                  "text": [
+                    ": The Pioneer Venus project called for two spacecraft to explore the atmosphere and surface of Venus. Pioneer Venus 1 was designed to make a radar map of Venus's surface during an eight month mission. Its twin, Pioneer Venus 2, also carried atmospheric probes."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": During a 14-year orbit of Venus, Pioneer Venus 1 used radar to map the surface at a resolution of 75 km (47 miles). It found the planet to be generally smoother than Earth, though with a mountain higher than Mt. Everest and a chasm deeper than the Grand Canyon. The orbiter also found Venus to be more spherical than Earth, consistent with the planet's much slower rotation rate (one Venus day equals 243 Earth days). It confirmed that Venus has little, if any, magnetic field and found the clouds to consist mainly of sulfuric acid. Measurements of this chemical's decline in the atmosphere over the course of the mission suggested that the spacecraft arrived soon after a large volcanic eruption, which may also account for the prodigious lightning it observed."
+                  "text": [
+                    ": During a 14-year orbit of Venus, Pioneer Venus 1 used radar to map the surface at a resolution of 75 km (47 miles). It found the planet to be generally smoother than Earth, though with a mountain higher than Mt. Everest and a chasm deeper than the Grand Canyon. The orbiter also found Venus to be more spherical than Earth, consistent with the planet's much slower rotation rate (one Venus day equals 243 Earth days). It confirmed that Venus has little, if any, magnetic field and found the clouds to consist mainly of sulfuric acid. Measurements of this chemical's decline in the atmosphere over the course of the mission suggested that the spacecraft arrived soon after a large volcanic eruption, which may also account for the prodigious lightning it observed."
+                  ]
                 }
               ]
             },
@@ -23007,11 +23310,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": This mission, like its twin Venera 11, called for a flyby spacecraft and a lander to explore Venus' ionosphere, atmosphere and surface and the interplanetary environment."
+                  "text": [
+                    ": This mission, like its twin Venera 11, called for a flyby spacecraft and a lander to explore Venus' ionosphere, atmosphere and surface and the interplanetary environment."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The flyby spacecraft sent back data on the solar wind, gamma-ray bursts, ultraviolet radiation and Venus' ionosphere. It passed the planet at a distance of about 35,000 km (about 22,000 miles). The lander probed Venus' atmosphere during a parachute descent. It touched down about 800 km (about 500 miles) away from its twin. The probe survived for a record at the time of 110 minutes and sent back valuable information, although malfunctions caused its soil analysis instrument and imaging system to fail."
+                  "text": [
+                    ": The flyby spacecraft sent back data on the solar wind, gamma-ray bursts, ultraviolet radiation and Venus' ionosphere. It passed the planet at a distance of about 35,000 km (about 22,000 miles). The lander probed Venus' atmosphere during a parachute descent. It touched down about 800 km (about 500 miles) away from its twin. The probe survived for a record at the time of 110 minutes and sent back valuable information, although malfunctions caused its soil analysis instrument and imaging system to fail."
+                  ]
                 }
               ]
             },
@@ -23029,11 +23336,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Like previous Soviet Venus missions, Venera 13 and 14 were twin pairs and flyby spacecraft. The flyby craft was designed to relay transmissions from the landers in addition to studying Venus and interplanetary space. The landers carried advanced instruments to study Venus' atmosphere and soil."
+                  "text": [
+                    ": Like previous Soviet Venus missions, Venera 13 and 14 were twin pairs and flyby spacecraft. The flyby craft was designed to relay transmissions from the landers in addition to studying Venus and interplanetary space. The landers carried advanced instruments to study Venus' atmosphere and soil."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Venera 13's descent craft probed the atmosphere and then transmitted data from the surface for 127 minutes, succeeding in two experiments that had failed on the previous two missions. The lander took 360° panoramic pictures, the first color pictures transmitted from that planet. The series of eight photos showed a landscape of orange-brown rocks and loose soil, with soil being blown onto the lander at a rate suggesting a wind speed of 1 to 2 km/hr. The sky looked orange and the horizon appeared to be only about 100 meters (109 yards) away, possibly due to a mirage. In another first, the lander directly sampled and analyzed the nearby soil. The flyby spacecraft was later used in an engineering test for upcoming Halley's comet missions"
+                  "text": [
+                    ": Venera 13's descent craft probed the atmosphere and then transmitted data from the surface for 127 minutes, succeeding in two experiments that had failed on the previous two missions. The lander took 360° panoramic pictures, the first color pictures transmitted from that planet. The series of eight photos showed a landscape of orange-brown rocks and loose soil, with soil being blown onto the lander at a rate suggesting a wind speed of 1 to 2 km/hr. The sky looked orange and the horizon appeared to be only about 100 meters (109 yards) away, possibly due to a mirage. In another first, the lander directly sampled and analyzed the nearby soil. The flyby spacecraft was later used in an engineering test for upcoming Halley's comet missions"
+                  ]
                 }
               ]
             },
@@ -23050,11 +23361,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Like previous Soviet Venus missions, Venera 13 and 14 were twin pairs and flyby spacecraft. The flyby craft was designed to relay transmissions from the landers in addition to studying Venus and interplanetary space. The landers carried advanced instruments to study Venus' atmosphere and soil."
+                  "text": [
+                    ": Like previous Soviet Venus missions, Venera 13 and 14 were twin pairs and flyby spacecraft. The flyby craft was designed to relay transmissions from the landers in addition to studying Venus and interplanetary space. The landers carried advanced instruments to study Venus' atmosphere and soil."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Venera 14 arrived at Venus four days after its twin. Though the color panoramic pictures it transmitted showed the lander to have set down on a 500 m (1600 ft) hill, with small foothills in the distance, the atmospheric pressure it recorded (93.5 times that of Earth, compared to 89.5 reported by Venera 13) suggested that it reached a substantially lower altitude than Venera 13. Venera 14 performed the second soil analysis on Venus, drilling a 30 mm deep hole and excavating about one cubic centimeter of soil, which was found to be similar to basaltic rocks on Earth that are formed at mid-ocean ridges by underwater volcanoes."
+                  "text": [
+                    ": Venera 14 arrived at Venus four days after its twin. Though the color panoramic pictures it transmitted showed the lander to have set down on a 500 m (1600 ft) hill, with small foothills in the distance, the atmospheric pressure it recorded (93.5 times that of Earth, compared to 89.5 reported by Venera 13) suggested that it reached a substantially lower altitude than Venera 13. Venera 14 performed the second soil analysis on Venus, drilling a 30 mm deep hole and excavating about one cubic centimeter of soil, which was found to be similar to basaltic rocks on Earth that are formed at mid-ocean ridges by underwater volcanoes."
+                  ]
                 }
               ]
             },
@@ -23072,11 +23387,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": The ambitious twin-spacecraft Vega project aimed to deliver advanced lander modules on Venus, study the planet's atmosphere with balloons and then fly on for a close encounter with comet Halley."
+                  "text": [
+                    ": The ambitious twin-spacecraft Vega project aimed to deliver advanced lander modules on Venus, study the planet's atmosphere with balloons and then fly on for a close encounter with comet Halley."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Both Vega 1 and its twin Vega 2 were tremendously successful. The Vega balloons drifted a third of the way around the planet, revealing cloud decks distinctly different from those seen by Pioneer Venus -- suggesting a change in Venus' atmosphere. Vega 1's lander lander set down in the Mermaid Plain north of Aphrodite and transmitted for 56 minutes. Its soil sampler deployed prematurely, spoiling the experiment, but the mass spectrometer returned important data. The Vega 1 bus flew on to study Halley as part of an international fleet sent to meet the comet made its journey through the inner solar system."
+                  "text": [
+                    ": Both Vega 1 and its twin Vega 2 were tremendously successful. The Vega balloons drifted a third of the way around the planet, revealing cloud decks distinctly different from those seen by Pioneer Venus -- suggesting a change in Venus' atmosphere. Vega 1's lander lander set down in the Mermaid Plain north of Aphrodite and transmitted for 56 minutes. Its soil sampler deployed prematurely, spoiling the experiment, but the mass spectrometer returned important data. The Vega 1 bus flew on to study Halley as part of an international fleet sent to meet the comet made its journey through the inner solar system."
+                  ]
                 }
               ]
             },
@@ -23093,11 +23412,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": The twin Venera 15 and 16 orbiters were designed to make detailed radar maps of Venus' surface at a resolution of 1 to 2 km (or roughly one mile)."
+                  "text": [
+                    ": The twin Venera 15 and 16 orbiters were designed to make detailed radar maps of Venus' surface at a resolution of 1 to 2 km (or roughly one mile)."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The twin Soviet spacecraft flew in near-polar elliptical orbits and succeeded in mapping the top half of the northern atmosphere (from the north pole to 30°N latitude, about 115 million square kilometers or 71 million square miles) by the end of the main mission. An altimeter provided topographical data with a height resolution of 50 m (164 feet), and an East German instrument mapped surface temperature variations."
+                  "text": [
+                    ": The twin Soviet spacecraft flew in near-polar elliptical orbits and succeeded in mapping the top half of the northern atmosphere (from the north pole to 30°N latitude, about 115 million square kilometers or 71 million square miles) by the end of the main mission. An altimeter provided topographical data with a height resolution of 50 m (164 feet), and an East German instrument mapped surface temperature variations."
+                  ]
                 }
               ]
             },
@@ -23128,11 +23451,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": The ambitious twin-spacecraft Vega project aimed to deliver advanced lander modules on Venus, study the planet's atmosphere with balloons and then fly on for a close encounter with comet Halley."
+                  "text": [
+                    ": The ambitious twin-spacecraft Vega project aimed to deliver advanced lander modules on Venus, study the planet's atmosphere with balloons and then fly on for a close encounter with comet Halley."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Both Vega 2 and its twin Vega 1 were tremendously successful. Vega 2's balloons drifted a third of the way around Venus, collecting valuable atmospheric data. The balloon measured temperatures 6.5°C (11.7°F) lower than did the Vega 1 balloon. Vega 2's set down 1,500 km (932 miles) SE of the Vega 1 lander, on a surface that was surprisingly smooth for the region. Unlike its twin, this lander performed soil analysis successfully, reporting a type of rock that is rare on Earth but found in lunar highlands."
+                  "text": [
+                    ": Both Vega 2 and its twin Vega 1 were tremendously successful. Vega 2's balloons drifted a third of the way around Venus, collecting valuable atmospheric data. The balloon measured temperatures 6.5°C (11.7°F) lower than did the Vega 1 balloon. Vega 2's set down 1,500 km (932 miles) SE of the Vega 1 lander, on a surface that was surprisingly smooth for the region. Unlike its twin, this lander performed soil analysis successfully, reporting a type of rock that is rare on Earth but found in lunar highlands."
+                  ]
                 }
               ]
             },
@@ -23150,11 +23477,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Magellan was designed to make quality radar maps of at least 70 percent of Venus' surface, providing a clear look at the topography below the planet's thick, perpetual cloak of clouds."
+                  "text": [
+                    ": Magellan was designed to make quality radar maps of at least 70 percent of Venus' surface, providing a clear look at the topography below the planet's thick, perpetual cloak of clouds."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ":Magellan mapped 98 percent of Venus' surface at a resolution of 100 to 150 meters (about the length of a football or soccer field), using synthetic aperture radar, a technique that simulates the use of a much larger radar antenna. It found that 85 percent of the surface is covered with volcanic flows and showed evidence of tectonic movement, turbulent surface winds, lava channels and pancake-shaped domes. Magellan also produced high-resolution gravity data for 95 percent of the planet and tested a new maneuvering technique called aerobraking, using atmospheric drag to adjust its orbit.\nThe spacecraft was commanded to plunge into Venus' atmosphere in 1994 as part of a final experiment to gather atmospheric data."
+                  "text": [
+                    ":Magellan mapped 98 percent of Venus' surface at a resolution of 100 to 150 meters (about the length of a football or soccer field), using synthetic aperture radar, a technique that simulates the use of a much larger radar antenna. It found that 85 percent of the surface is covered with volcanic flows and showed evidence of tectonic movement, turbulent surface winds, lava channels and pancake-shaped domes. Magellan also produced high-resolution gravity data for 95 percent of the planet and tested a new maneuvering technique called aerobraking, using atmospheric drag to adjust its orbit.\nThe spacecraft was commanded to plunge into Venus' atmosphere in 1994 as part of a final experiment to gather atmospheric data."
+                  ]
                 }
               ]
             },
@@ -23172,11 +23503,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Galileo borrowed a little gravity from Venus to build up enough speed to make the long trip to it's primary destination - the giant planet Jupiter. The flyby also provided a chance to test the spacecraft's instruments on a real science target."
+                  "text": [
+                    ": Galileo borrowed a little gravity from Venus to build up enough speed to make the long trip to it's primary destination - the giant planet Jupiter. The flyby also provided a chance to test the spacecraft's instruments on a real science target."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The Venus flyby at a distance of 16,000 km (10,000 miles) helped increase our understanding of the mysterious cloud cover the cloaks the surface of our closest planetary neighbor."
+                  "text": [
+                    ": The Venus flyby at a distance of 16,000 km (10,000 miles) helped increase our understanding of the mysterious cloud cover the cloaks the surface of our closest planetary neighbor."
+                  ]
                 }
               ]
             },
@@ -23196,11 +23531,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": Cassini's primary science target was Saturn. To get there, the spacecraft used Venus' gravity to build enough speed to travel to the outer solar system. The two flybys also provided a chance for instruments tests and a peek at Earth's mysterious cloud-shrouded neighbor."
+                  "text": [
+                    ": Cassini's primary science target was Saturn. To get there, the spacecraft used Venus' gravity to build enough speed to travel to the outer solar system. The two flybys also provided a chance for instruments tests and a peek at Earth's mysterious cloud-shrouded neighbor."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": The gravity assist was a success. Science instruments on the spacecraft searched for lightning in Venus' atmosphere during the flyby, and the radar instrument bounced a test signal off Venus' surface. Scientists detected no high-frequency radio waves commonly associated with lightning, fueling the debate about Venusian lightning that began in 1978 when a Russian Venera spacecraft reported potential signs of lightning."
+                  "text": [
+                    ": The gravity assist was a success. Science instruments on the spacecraft searched for lightning in Venus' atmosphere during the flyby, and the radar instrument bounced a test signal off Venus' surface. Scientists detected no high-frequency radio waves commonly associated with lightning, fueling the debate about Venusian lightning that began in 1978 when a Russian Venera spacecraft reported potential signs of lightning."
+                  ]
                 }
               ]
             },
@@ -23216,11 +23555,15 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": The European Space Agency's Venus Express is designed to study the atmosphere of Venus, from the surface to the ionosphere. The mission is reusing the same design as ESA's Mars Express and spare parts from other deep space missions."
+                  "text": [
+                    ": The European Space Agency's Venus Express is designed to study the atmosphere of Venus, from the surface to the ionosphere. The mission is reusing the same design as ESA's Mars Express and spare parts from other deep space missions."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": Since it reached Venus in April 2006, Venus Express has logged many firsts at our solar system's second planet. One of the most significant findings was signs Venus has been volcanically active in the last three million years -- suggesting the planet may still be geologically active.\nThe orbiter also made  extensive meteorological maps of Venus, providing measurements of wind fields and temperatures and the chemical composition of the atmosphere. The spacecraft found a striking double-eyed atmospheric vortex that dominates the south pole. It detected water molecules escaping into space, found concrete evidence for lightning in the Venusian atmosphere, and provided infrared glimpses of the hot surface."
+                  "text": [
+                    ": Since it reached Venus in April 2006, Venus Express has logged many firsts at our solar system's second planet. One of the most significant findings was signs Venus has been volcanically active in the last three million years -- suggesting the planet may still be geologically active.\nThe orbiter also made  extensive meteorological maps of Venus, providing measurements of wind fields and temperatures and the chemical composition of the atmosphere. The spacecraft found a striking double-eyed atmospheric vortex that dominates the south pole. It detected water molecules escaping into space, found concrete evidence for lightning in the Venusian atmosphere, and provided infrared glimpses of the hot surface."
+                  ]
                 }
               ]
             },
@@ -23248,17 +23591,22 @@
                 },
                 {
                   "title": "Goals",
-                  "text": ": The Venus Spectral Rocket Experiment (VeSpR) will investigate the the escape of water from Venus' atmosphere during the flight of a suborbital rocket. The sounding rocket will carry a telescope above most of Earth's atmosphere where it can observe ultraviolet light from Venus that would normally be absorbed by Earth's atmosphere. Total flight time is less than 10 minutes. The telescope can be recovered and reused."
+                  "text": [
+                    ": The Venus Spectral Rocket Experiment (VeSpR) will investigate the the escape of water from Venus' atmosphere during the flight of a suborbital rocket. The sounding rocket will carry a telescope above most of Earth's atmosphere where it can observe ultraviolet light from Venus that would normally be absorbed by Earth's atmosphere. Total flight time is less than 10 minutes. The telescope can be recovered and reused."
+                  ]
                 },
                 {
                   "title": "Accomplishments",
-                  "text": ": VeSpR launched successfully from White Sands, N.M. with all systems working well.  Analysis of the data to follow."
+                  "text": [
+                    ": VeSpR launched successfully from White Sands, N.M. with all systems working well.  Analysis of the data to follow."
+                  ]
                 }
               ]
             }
           ]
         }
-      ]
+      ],
+      "img": "images/Venus/venus.jpg"
     }
   ]
 }

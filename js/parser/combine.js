@@ -2,6 +2,7 @@
 
 var fs = require('fs-extra'),
     globby = require('globby'),
+    imagesList = require('../../planets/data/images.json'),
     planetsData = {
       planets: []
     },
@@ -36,6 +37,8 @@ function readPlanet(path) {
       cards: getFactCards(data),
       lists: getLists(data, path)
     };
+    
+    planetData.img = getImages(planetData.name);
     
     planetsData.planets.push(planetData);
   }
@@ -122,14 +125,18 @@ function getMissionGoals(data) {
     if (data.goals.Goals) {
       goals.push({
         title: 'Goals',
-        text: data.goals.Goals
+        text: [
+          data.goals.Goals
+        ]
       });
     }
     
     if (data.goals.Accomplishments) {
       goals.push({
         title: 'Accomplishments',
-        text: data.goals.Accomplishments
+        text: [
+          data.goals.Accomplishments
+        ]
       });
     }
   }
@@ -251,6 +258,21 @@ function getMoons(moonsList, path) {
   }
   
   return moons;
+}
+
+/**
+ * Get image for object by the name
+ * @param {String} name
+ * @return {String}
+ */
+function getImages(name) {
+  var image = '';
+  
+  if (Array.isArray(imagesList[name])) {
+    image = 'images/' + name + '/' + imagesList[name][0];
+  }
+  
+  return image;
 }
 
 /**
