@@ -14,16 +14,11 @@ var gulp = require('gulp'),
     sass = require('gulp-sass'),
     jshint = require('gulp-jshint'),
     jscs = require('gulp-jscs'),
-    webpack = require('gulp-webpack'),
     // CONSTANTS
     SCSS_PATH = 'css',
     JS_PATH = 'js',
     COMPONENT_PATH = 'components',
-    PUBLIC_CSS = 'public/css',
-    PUBLIC_JS = 'public/js',
-    JS_ENTRY_POINTS = [
-      JS_PATH + '/main.js'
-    ];
+    PUBLIC_CSS = 'public/css';
 
 /**
  * Linting SCSS files
@@ -112,9 +107,6 @@ gulp.task('component', function() {
  * Processing JS files
  */
 gulp.task('js', ['jslint'], function() {
-  // return gulp.src(JS_ENTRY_POINTS)
-  //   .pipe(webpack())
-  //   .pipe(gulp.dest(PUBLIC_JS));
 });
 
 gulp.task('default', ['js', 'css']);
