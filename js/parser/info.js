@@ -8,11 +8,15 @@ var fs = require('fs-extra'),
 /**
  * Get info from all tmp json files
  */
-globby(['planets/**/*.json', '!planets/data/**'], function(err, files) {
-  count = files.length;
-
-  files.forEach(readFile);
-});
+globby(
+  ['planets/**/*.json',
+   '!planets/data/**', '!planets/planets.json'],
+  function(err, files) {
+    count = files.length;
+  
+    files.forEach(readFile);
+  }
+);
 
 /**
  * Get data from a file on the path
@@ -60,7 +64,7 @@ function addData(data, isMoon) {
  */
 function writeData() {
   var infoPath = __dirname + '/../../planets/data/info.json';
-  
+
   fs.outputJson(infoPath, infoData, function(err) {
     if (!err) {
       console.log('The file was saved!');

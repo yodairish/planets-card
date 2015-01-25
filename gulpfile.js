@@ -112,9 +112,9 @@ gulp.task('component', function() {
  * Processing JS files
  */
 gulp.task('js', ['jslint'], function() {
-  return gulp.src(JS_ENTRY_POINTS)
-    .pipe(webpack())
-    .pipe(gulp.dest(PUBLIC_JS));
+  // return gulp.src(JS_ENTRY_POINTS)
+  //   .pipe(webpack())
+  //   .pipe(gulp.dest(PUBLIC_JS));
 });
 
 gulp.task('default', ['js', 'css']);

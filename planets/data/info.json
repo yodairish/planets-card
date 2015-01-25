@@ -129,11 +129,6 @@
     "moon": 1,
     "full": 1
   },
-  "Effective Temperature": {
-    "planet": 4,
-    "moon": 0,
-    "full": 4
-  },
   "Orbit Size Around Jupiter (semi-major axis)": {
     "planet": 0,
     "moon": 50,
@@ -154,6 +149,11 @@
     "moon": 13,
     "full": 13
   },
+  "Effective Temperature": {
+    "planet": 4,
+    "moon": 0,
+    "full": 4
+  },
   "Rotation Period (Length of Day)": {
     "planet": 0,
     "moon": 17,
@@ -169,15 +169,15 @@
     "moon": 13,
     "full": 13
   },
-  "Orbit Size Around Saturn (semi-major axis)": {
-    "planet": 0,
-    "moon": 53,
-    "full": 53
-  },
   "Atmospheric Temperature(at level with pressure = 1 bar)": {
     "planet": 0,
     "moon": 1,
     "full": 1
+  },
+  "Orbit Size Around Saturn (semi-major axis)": {
+    "planet": 0,
+    "moon": 53,
+    "full": 53
   },
   "Orbit Size Around Uranus (semi-major axis)": {
     "planet": 0,

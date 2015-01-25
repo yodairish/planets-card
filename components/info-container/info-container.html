@@ -17,7 +17,11 @@
           <card-list-item>
             <h1>{{card.title}}</h1>
             <h1>{{card.subTitle}}</h1>
-            <p>{{card.text}}</p>
+            <ul>
+              <template repeat="{{text in card.text}}">
+                <li>{{text}}</li>
+              </template>
+            </ul>
           </card-list-item>
         </template>
       </card-list>
