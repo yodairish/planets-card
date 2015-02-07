@@ -1,9 +1,11 @@
 <link rel="import" href="../../bower_components/polymer/polymer.html">
 <link rel="import" href="../multi-list/multi-list.html">
+<link rel="import" href="../card-list/card-list.html">
+<link rel="import" href="../card-list/card-list-item/card-list-item.html">
 
 <polymer-element name="info-container" attributes="data">
   <template>
-    <link rel="stylesheet" href="info-container.css" />
+    <link rel="stylesheet" href="../../public/css/info-container.css" />
     
     <div id="container"
          style="width: {{width}}px"
@@ -14,7 +16,7 @@
       <card-list id="cardLists"
                  width="{{cardsWidth}}" height="{{cardsHeight}}">
         <template repeat="{{card in data.cards}}">
-          <card-list-item>
+          <card-list-item icon="{{card.icon}}">
             <h1>{{card.title}}</h1>
             <ul>
               <template repeat="{{text in card.text}}">

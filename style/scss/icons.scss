@@ -1,0 +1,48 @@
+.card-icon
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    width: 40px;
+    height: 40px;
+    margin: auto;
+}
+
+.icon-discover:before
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    width: 10px;
+    height: 10px;
+    margin: auto;
+
+    content: '';
+    transform: translate(-2px, -2px);
+
+    border: 3px solid #888;
+    border-radius: 50%;
+}
+.icon-discover:after
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    width: 8px;
+    height: 3px;
+    margin: auto;
+
+    content: '';
+    transform: rotateZ(45deg) translateX(8px);
+
+    background-color: #888;
+}

@@ -1,13 +1,14 @@
 <link rel="import" href="../../../bower_components/polymer/polymer.html">
 <link rel="import" href="../../../bower_components/core-icon-button/core-icon-button.html">
 
-<polymer-element name="card-list-item" attributes="width height color"
+<polymer-element name="card-list-item" attributes="width height color icon"
                  on-click="{{showCard}}">
   <template>
-    <link rel="stylesheet" href="card-list-item.css" />
+    <link rel="stylesheet" href="../../../public/css/card-list-item.css" />
+    <link rel="stylesheet" href="../../../public/css/icons.css" />
     
     <div id="container" style="{{styleContainer | styleObject}}">
-      <span class="icon-{{icon}}"></span>
+      <span class="card-icon icon-{{icon}}"></span>
       <article id="opened">
         <header id="header" on-click={{showCard}}>
           <core-icon-button id="btnClose" on-click="{{closeDetail}}" icon="close"></core-icon-button>

@@ -3,11 +3,11 @@
 
 <polymer-element name="planets-service" attributes="planets">
   <template>
-    <link rel="stylesheet" href="planets-service.css" />
+    <link rel="stylesheet" href="../../public/css/planets-service.css" />
     
     <core-ajax id="ajax"
       auto
-      url="../../planets/data/planets.json"
+      url="../planets/data/planets.json"
       on-core-response="{{planetsLoaded}}"
       handleAs="json">
     </core-ajax>

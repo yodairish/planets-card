@@ -2,6 +2,8 @@
   "preset": "airbnb",
   "esnext": true,
   
+  "disallowMultipleVarDecl": null,
+  "requireMultipleVarDecl": true,
   "disallowTrailingWhitespace": null,
   "requireCurlyBraces": [
     "if",

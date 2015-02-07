@@ -1,0 +1,2 @@
+:host{display:inline-block}#container{position:relative}#title{position:absolute;width:100%;height:50%;bottom:0}#blackout{position:absolute;width:100%;height:100%;opacity:.6;background-color:#616161;z-index:100}#content{width:80%;margin:0 auto;color:#fff;text-align:center;z-index:200}:host(:hover) #blackout{opacity:.9}
+/*# sourceMappingURL=../../public/css/map/list-grid/list-grid-item/list-grid-item.css.map */

@@ -5,6 +5,7 @@ var gulp = require('gulp'),
     pf = require('./js/paramFiles'),
     sourcemaps = require('gulp-sourcemaps'),
     vulcanize = require('gulp-vulcanize'),
+    flatten = require('gulp-flatten'),
     // css
     csscomb = require('gulp-csscomb'),
     autoprefixer = require('autoprefixer-core'),
@@ -15,7 +16,7 @@ var gulp = require('gulp'),
     jshint = require('gulp-jshint'),
     jscs = require('gulp-jscs'),
     // CONSTANTS
-    SCSS_PATH = 'css',
+    SCSS_PATH = 'style/scss',
     JS_PATH = 'js',
     COMPONENT_PATH = 'components',
     PUBLIC_CSS = 'public/css';
@@ -36,15 +37,15 @@ gulp.task('csslint', function() {
       .pipe(gulp.dest('./'));
 
   } else {
-    global = gulp.src(pf.scss(SCSS_PATH))
+    stream = gulp.src(pf.scss(SCSS_PATH))
       .pipe(csscomb(__dirname + '/.csscomb.json'))
       .pipe(gulp.dest(SCSS_PATH));
 
-    components = gulp.src(pf.scss(COMPONENT_PATH))
-      .pipe(csscomb(__dirname + '/.csscomb.json'))
-      .pipe(gulp.dest(COMPONENT_PATH));
+    // components = gulp.src(pf.scss(COMPONENT_PATH))
+    //   .pipe(csscomb(__dirname + '/.csscomb.json'))
+    //   .pipe(gulp.dest(COMPONENT_PATH));
 
-    stream = merge(global, components);
+    // stream = merge(global, components);
   }
 
   return stream;
@@ -63,11 +64,12 @@ gulp.task('css', ['csslint'], function() {
     })
   ];
 
-  return gulp.src([pf.scss(SCSS_PATH)])
+  return gulp.src([pf.scss(SCSS_PATH), pf.scss(COMPONENT_PATH)])
     .pipe(sourcemaps.init())
     .pipe(sass())
     .pipe(postcss(processors))
     .pipe(sourcemaps.write(PUBLIC_CSS + '/map'))
+    .pipe(flatten())
     .pipe(gulp.dest(PUBLIC_CSS));
 });
 
@@ -93,14 +95,14 @@ gulp.task('jslint', function() {
 /**
  * 
  */
-gulp.task('component', function() {
-  return gulp.src('prototype/component.html')
+gulp.task('component', ['js', 'css'], function() {
+  return gulp.src('index.html')
     .pipe(vulcanize({
-      dest: 'prototype/component',
+      dest: 'public',
       strip: true,
       inline: true
     }))
-    .pipe(gulp.dest('prototype/component'));
+    .pipe(gulp.dest('public'));
 });
 
 /**
@@ -109,4 +111,4 @@ gulp.task('component', function() {
 gulp.task('js', ['jslint'], function() {
 });
 
-gulp.task('default', ['js', 'css']);
+gulp.task('default', ['component']);

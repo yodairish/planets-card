@@ -3,12 +3,15 @@
 var fs = require('fs-extra'),
     globby = require('globby'),
     imagesList = require('../../planets/data/images.json'),
+    factIcons = require('../../planets/data/factIcons.json'),
     planetsData = {
       planets: []
     },
+    missedIcons = {},
     
     // MAX_SUBTITLE = 50,
-    COMBINE_PATH = __dirname + '/../../planets/data/planets.json';
+    COMBINE_PATH = __dirname + '/../../planets/data/planets.json',
+    MISSED_ICONS_PATH = __dirname + '/../../planets/data/missedFactIcons.json';
 
 /**
  * Get info for the planets
@@ -65,8 +68,16 @@ function getFactCards(data) {
   facts.forEach(function(fact) {
     var card = {
       title: fact,
-      text: getCardText(data.facts[fact])
+      text: getCardText(data.facts[fact]),
+      icon: ''
     };
+    
+    if (factIcons[fact]) {
+      card.icon = factIcons[fact];
+      
+    } else {
+      missedIcons[fact] = true;
+    }
     
     // card.subTitle = getCardSubTitle(card.text);
     
@@ -106,8 +117,17 @@ function getMissionDates(data) {
   if (data.dates) {
     dates = {
       title: 'dates',
-      text: getCardText(data.dates)
+      text: getCardText(data.dates),
+      icon: ''
+      
     };
+    
+    if (factIcons.dates) {
+      dates.icon = factIcons.dates;
+      
+    } else {
+      missedIcons.dates = true;
+    }
   }
   
   return dates;
@@ -119,25 +139,47 @@ function getMissionDates(data) {
  * @return {Array}
  */
 function getMissionGoals(data) {
-  var goals = [];
+  var goals = [],
+      goal,
+      accomplishments;
   
   if (data.goals) {
     if (data.goals.Goals) {
-      goals.push({
+      goal = {
         title: 'Goals',
         text: [
           data.goals.Goals
-        ]
-      });
+        ],
+        icon: ''
+      };
+      
+      if (factIcons.goal) {
+        goal.icon = factIcons.goal;
+        
+      } else {
+        missedIcons.goal = true;
+      }
+      
+      goals.push(goal);
     }
     
     if (data.goals.Accomplishments) {
-      goals.push({
+      accomplishments = {
         title: 'Accomplishments',
         text: [
           data.goals.Accomplishments
-        ]
-      });
+        ],
+        icon: ''
+      };
+      
+      if (factIcons.accomplishments) {
+        accomplishments.icon = factIcons.accomplishments;
+        
+      } else {
+        missedIcons.accomplishments = true;
+      }
+      
+      goals.push(accomplishments);
     }
   }
   
@@ -292,6 +334,16 @@ function write() {
   fs.outputJson(COMBINE_PATH, planetsData, function(err) {
     if (!err) {
       console.log('The file was saved!');
+    } else {
+      console.log(err);
+    }
+  });
+  
+  fs.outputJson(MISSED_ICONS_PATH, missedIcons, function(err) {
+    if (!err) {
+      console.log('Missed icons was!');
+    } else {
+      console.log(err);
     }
   });
 }
