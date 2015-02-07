@@ -22,17 +22,33 @@
   height: 100%;
 }
 
-#header content[select=h1]::content h1,
-#header content[select=h2]::content h2 {
+#header content[select=h1]::content h1 {
+  text-align: center;
   margin: 0;
   padding: 0;
 }
 
-#content {
+:host([active]) #header content[select=h1]::content h1 {
+  padding-right: 40px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+#opened {
   display: none;
 }
 
-:host([active]) #content {
+#contentText {
+  overflow-y: hidden;
+}
+
+#contentText content::content ul {
+  list-style: none;
+  padding: 0 10%;
+}
+
+:host([active]) #opened {
   display: block;
 }
 

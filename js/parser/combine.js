@@ -7,7 +7,7 @@ var fs = require('fs-extra'),
       planets: []
     },
     
-    MAX_SUBTITLE = 50,
+    // MAX_SUBTITLE = 50,
     COMBINE_PATH = __dirname + '/../../planets/data/planets.json';
 
 /**
@@ -38,7 +38,7 @@ function readPlanet(path) {
       lists: getLists(data, path)
     };
     
-    planetData.img = getImages(planetData.name);
+    planetData.img = getFrontImages(planetData.name);
     
     planetsData.planets.push(planetData);
   }
@@ -68,7 +68,7 @@ function getFactCards(data) {
       text: getCardText(data.facts[fact])
     };
     
-    card.subTitle = getCardSubTitle(card.text);
+    // card.subTitle = getCardSubTitle(card.text);
     
     cards.push(card);
   });
@@ -168,15 +168,15 @@ function getCardText(cardInfo) {
  * @param {Array} cardTexts
  * @return {String}
  */
-function getCardSubTitle(cardTexts) {
-  var subTitle = '';
+// function getCardSubTitle(cardTexts) {
+//   var subTitle = '';
   
-  if (cardTexts.length && cardTexts[0].length < MAX_SUBTITLE) {
-    subTitle = cardTexts[0].replace(/^.*: /, '');
-  }
+//   if (cardTexts.length && cardTexts[0].length < MAX_SUBTITLE) {
+//     subTitle = cardTexts[0].replace(/^.*: /, '');
+//   }
   
-  return subTitle;
-}
+//   return subTitle;
+// }
 
 /**
  * Getting lists of moons and missions
@@ -186,15 +186,15 @@ function getCardSubTitle(cardTexts) {
  */
 function getLists(data, path) {
   var lists = [],
-      missions = getMissions(data.missions),
-      moons = getMoons(data.moons, path);
-      
-  if (missions) {
-    lists.push(missions);
-  }
+      moons = getMoons(data.moons, path),
+      missions = getMissions(data.missions);
   
   if (moons) {
     lists.push(moons);
+  }
+  
+  if (missions) {
+    lists.push(missions);
   }
   
   return lists;
@@ -209,14 +209,15 @@ function getMissions(missionsList) {
   
   if (Array.isArray(missionsList) && missionsList.length) {
     missions = {
-      name: 'Missions',
+      title: 'Missions',
       items: []
     };
     
     missionsList.forEach(function(mission) {
       var item = {
         name: mission.name,
-        cards: getMissionCards(mission)
+        cards: getMissionCards(mission),
+        img: getFrontImages(mission.name, 'mission')
       };
       
       missions.items.push(item);
@@ -236,7 +237,7 @@ function getMoons(moonsList, path) {
   
   if (Array.isArray(moonsList) && moonsList.length) {
     moons = {
-      name: 'Moons',
+      title: 'Moons',
       items: []
     };
     
@@ -249,7 +250,8 @@ function getMoons(moonsList, path) {
         item = {
           name: moon,
           cards: getFactCards(data),
-          lists: getLists(data, moonPath)
+          lists: getLists(data, moonPath),
+          img: getFrontImages(moon, 'moon')
         };
         
         moons.items.push(item);
@@ -263,13 +265,21 @@ function getMoons(moonsList, path) {
 /**
  * Get image for object by the name
  * @param {String} name
+ * @param {String} type
  * @return {String}
  */
-function getImages(name) {
+function getFrontImages(name, type) {
   var image = '';
   
   if (Array.isArray(imagesList[name])) {
     image = 'images/' + name + '/' + imagesList[name][0];
+    
+  } else if (type === 'moon') {
+    image = 'images/moon.jpg';
+    
+  } else if (type === 'mission') {
+    image = 'images/mission.jpg';
+    
   }
   
   return image;

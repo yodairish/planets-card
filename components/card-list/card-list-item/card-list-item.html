@@ -6,16 +6,18 @@
   <template>
     <link rel="stylesheet" href="card-list-item.css" />
     
-    <article id="container" style="{{styleContainer | styleObject}}">
-      <header id="header" on-click={{showCard}}>
-        <content select="h1"></content>
-        <content select="h2"></content>
-      </headr>
-      <div id="content">
-        <core-icon-button id="btnClose" on-click="{{closeDetail}}" icon="close"></core-icon-button>
-        <content></content>
-      </div>
-    </article>
+    <div id="container" style="{{styleContainer | styleObject}}">
+      <span class="icon-{{icon}}"></span>
+      <article id="opened">
+        <header id="header" on-click={{showCard}}>
+          <core-icon-button id="btnClose" on-click="{{closeDetail}}" icon="close"></core-icon-button>
+          <content select="h1"></content>
+        </header>
+        <div id="contentText">
+          <content></content>
+        </div>
+      </article>
+    </div>
   </template>
   
   <script src="card-list-item.js"></script>
