@@ -35,7 +35,8 @@
   white-space: nowrap;
 }
 
-#opened {
+#opened,
+:host([active]) .cardIcon {
   display: none;
 }
 

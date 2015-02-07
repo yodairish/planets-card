@@ -8,7 +8,8 @@
     <link rel="stylesheet" href="../../../public/css/icons.css" />
     
     <div id="container" style="{{styleContainer | styleObject}}">
-      <span class="card-icon icon-{{icon}}"></span>
+      <span class="cardIcon cardIcon--{{icon}}"
+            style="transform: scale({{iconScale}}); -webkit-transform: scale({{iconScale}})"></span>
       <article id="opened">
         <header id="header" on-click={{showCard}}>
           <core-icon-button id="btnClose" on-click="{{closeDetail}}" icon="close"></core-icon-button>

@@ -1,4 +1,6 @@
-.card-icon
+@import 'colors';
+
+.cardIcon
 {
     position: absolute;
     top: 0;
@@ -11,7 +13,7 @@
     margin: auto;
 }
 
-.icon-discover:before
+.cardIcon--discover:before
 {
     position: absolute;
     top: 0;
@@ -26,10 +28,10 @@
     content: '';
     transform: translate(-2px, -2px);
 
-    border: 3px solid #888;
+    border: 3px solid $color-silhouette;
     border-radius: 50%;
 }
-.icon-discover:after
+.cardIcon--discover:after
 {
     position: absolute;
     top: 0;
@@ -44,5 +46,5 @@
     content: '';
     transform: rotateZ(45deg) translateX(8px);
 
-    background-color: #888;
+    background-color: $color-silhouette;
 }
