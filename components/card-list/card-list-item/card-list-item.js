@@ -5,7 +5,7 @@ Polymer({
   width: 0,
   height: 0,
   color: 'FFFFFF',
-  icon: 'some',
+  iconScale: 1.0,
   styleContainer: {},
   
   /**
@@ -34,6 +34,7 @@ Polymer({
    */
   widthChanged: function() {
     this.setStyleProp('minWidth', (this.width + 'px'));
+    this.updateIconScale();
   },
   
   /**
@@ -41,6 +42,7 @@ Polymer({
    */
   heightChanged: function() {
     this.setStyleProp('minHeight', (this.height + 'px'));
+    this.updateIconScale();
   },
   
   /**
@@ -86,5 +88,15 @@ Polymer({
   closeDetail: function(event) {
     event.stopPropagation();
     this.active = false;
+  },
+  
+  /**
+   * Update scale for icon base on the card size
+   */
+  updateIconScale: function() {
+    var min = (this.width < this.height ? this.width :
+               this.height);
+               
+    this.iconScale = min / 60;
   }
 });
